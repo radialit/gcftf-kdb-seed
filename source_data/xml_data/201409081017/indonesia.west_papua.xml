@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entries>
+  <entry id="land_area" value="" editor-value="" citation="" status="unconfirmed" citation-url=""/>
+  <entry id="population" value="" editor-value="" citation=" " status="unconfirmed"/>
+  <paired-data id="urban_vs_rural_population_percent">
+    <entry id="urban_vs_rural_population_percent.1" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="urban_vs_rural_population_percent.2" value="" editor-value="" citation="" status="unconfirmed"/>
+  </paired-data>
+  <entry id="gdp" value="" editor-value="" citation="" status="unconfirmed"/>
+  <entry id="per_capita_income" value="" editor-value="" citation="" status="unconfirmed"/>
+  <entry id="human_development_index" value="" editor-value="" citation="" status="unconfirmed"/>
+  <entry id="main_exports" value="" editor-value="" citation="" status="unconfirmed"/>
+  <paired-data id="gdp_breakdown_percent">
+    <entry id="gdp_breakdown_percent.1" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="gdp_breakdown_percent.2" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="gdp_breakdown_percent.3" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="gdp_breakdown_percent.4" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="gdp_breakdown_percent.5" value="" editor-value="" citation="" status="unconfirmed"/>
+  </paired-data>
+  <entry id="original_forest_area" value="" editor-value="" citation="" status="unconfirmed"/>
+  <entry id="current_forest_area" value="" editor-value="" citation="" status="unconfirmed"/>
+  <paired-data id="current_forest_area_typologies">
+    <entry id="current_forest_area_typologies.1" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="current_forest_area_typologies.2" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="current_forest_area_typologies.3" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="current_forest_area_typologies.4" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="current_forest_area_typologies.5" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="current_forest_area_typologies.6" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="current_forest_area_typologies.7" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="current_forest_area_typologies.8" value="" editor-value="" citation="" status="unconfirmed"/>
+  </paired-data>
+  <entry id="unprotected_forest_area" value="" editor-value="" citation="" status="unconfirmed"/>
+  <paired-data id="conserved_forest_area_breakdown">
+    <entry id="conserved_forest_area_breakdown.total" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="conserved_forest_area_breakdown.1" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="conserved_forest_area_breakdown.2" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="conserved_forest_area_breakdown.3" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="conserved_forest_area_breakdown.4" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="conserved_forest_area_breakdown.5" value="" editor-value="" citation="" status="unconfirmed"/>
+  </paired-data>
+  <paired-data id="fully_protected_forest_area_breakdown">
+    <entry id="fully_protected_forest_area_breakdown.total" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="fully_protected_forest_area_breakdown.1" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="fully_protected_forest_area_breakdown.2" value="" editor-value="" citation="" status="unconfirmed"/>
+  </paired-data>
+  <paired-data id="sustainably_managed_forest_area_breakdown">
+    <entry id="sustainably_managed_forest_area_breakdown.total" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="sustainably_managed_forest_area_breakdown.1" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="sustainably_managed_forest_area_breakdown.2" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="sustainably_managed_forest_area_breakdown.3" value="" editor-value="" citation="" status="unconfirmed"/>
+  </paired-data>
+  <entry id="deforestation_total_area" value="" editor-value="" citation="" status="unconfirmed"/>
+  <entry id="deforestation_drivers" value="" editor-value="" citation="" status="unconfirmed"/>
+  <paired-data id="deforestation_rates">
+    <entry id="deforestation_rates.1" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="deforestation_rates.2" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="deforestation_rates.3" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="deforestation_rates.4" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="deforestation_rates.5" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="deforestation_rates.6" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="deforestation_rates.7" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="deforestation_rates.8" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="deforestation_rates.9" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="deforestation_rates.10" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="deforestation_rates.11" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="deforestation_rates.12" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="deforestation_rates.13" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="deforestation_rates.14" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="deforestation_rates.15" value="" editor-value="" citation="" status="unconfirmed"/>
+    <entry id="deforestation_rates.16" value="" editor-value="" citation="" status="unconfirmed"/>
+  </paired-data>
+  <entry id="forest_carbon_value" value="" editor-value="" citation="" status="unconfirmed"/>
+  <entry id="redd_agriculture_and_forestry_revenue" value="" editor-value="" citation="" status="unconfirmed"/>
+  <entry id="forest_carbon_year" value="" editor-value="" citation="" status="unconfirmed"/>
+  <entry id="ipcc_measurement_methodology" value="" editor-value="" citation="" status="unconfirmed"/>
+  <entry id="redd_state_financing" value="" editor-value="" citation="" status="unconfirmed"/>
+  <entry id="forest_carbon_stock" value="" editor-value="" citation="" status="unconfirmed"/>
+</entries>

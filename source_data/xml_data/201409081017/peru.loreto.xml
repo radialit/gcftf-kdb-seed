@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entries>
+	<paired-data id="redd_project_0">
+		<entry id="redd_project_0.name" value="" editor-value="" citation="" status="default"/>
+		<entry id="redd_project_0.commitment" value="" editor-value="" citation="" status="default" citation-url="" citation-anchor="" comments=""/>
+		<entry id="redd_project_0.location" value="" editor-value="" citation="" status="default"/>
+		<entry id="redd_project_0.area" value=" " editor-value="" citation="" status="default" comments="" citation-url=""/>
+		<entry id="redd_project_0.emissions_reduction_projected" value="" editor-value="" citation="" status="default"/>
+		<entry id="redd_project_0.period" value="" editor-value="" citation="" status="default"/>
+		<entry id="redd_project_0.start_date" value="" editor-value="" citation="" status="default"/>
+		<entry id="redd_project_0.status" value="" editor-value="" citation="" status="default" citation-url="" citation-anchor="" comments=""/>
+		<entry id="redd_project_0.carbon_accounting_standards" value="" editor-value="" citation="" status="default" citation-url="" citation-anchor="" comments=""/>
+		<entry id="redd_project_0.environmental_standards" value="" editor-value="" citation="" status="default" citation-url="" citation-anchor="" comments=""/>
+		<entry id="redd_project_0.funding_partners" value="" editor-value="" citation="" status="default"/>
+		<entry id="redd_project_0.beneficiaries" value="" editor-value="" citation="" status="default"/>
+		<entry id="redd_project_0.links" value="" editor-value="" citation="" status="default" comments="" citation-url=""/>
+	</paired-data>
+</entries>
