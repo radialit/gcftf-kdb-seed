@@ -1,0 +1,39 @@
+{
+  "name": "gcftf-kdb-seed",
+  "version": "0.1.0",
+  "engines": {
+    "node": ">=6.10.0"
+  },
+  "description": "Script for seeding database from XML and spreadsheet sources",
+  "main": "index.js",
+  "author": "Darren Anderson",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcftf/kdb-seed"
+  },
+  "scripts": {
+    "start": "index.js"
+  },
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "commander": "^2.9.0",
+    "debug": "^2.6.3",
+    "dotenv": "^4.0.0",
+    "fs-extra": "^2.0.0",
+    "klaw-sync": "^1.1.2",
+    "lodash": "^4.17.4",
+    "numeral": "^2.0.6",
+    "tape": "^4.6.3",
+    "vue": "^2.1.10",
+    "vue-server-renderer": "^2.1.10",
+    "xml2js": "^0.4.17"
+  },
+  "devDependencies": {
+    "eslint": "^3.18.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.3"
+  }
+}
