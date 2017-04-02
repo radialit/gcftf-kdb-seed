@@ -20,7 +20,7 @@ function main() {
   debug('starting');
   try {
     const data = tp.parse();
-    debug(data);
+    // debug(data);
   } catch (err) {
     debug(err);
     debug('quitting');

@@ -14,10 +14,11 @@ const SUBUNIT_TYPE_FILE_LOOKUP = {
   nation: 'national_template.xlsx',
   jurisdiction: 'state_template.xlsx',
 };
+const SOURCE_DATA_TEMPLATE_FILE_NAMES = Object.keys(SUBUNIT_TYPE_FILE_LOOKUP)
+  .map(key => SUBUNIT_TYPE_FILE_LOOKUP[key]);
 
-function parseFileData(fileName) {
+function parseDataFromXLSX(filePath) {
   let data;
-  const filePath = path.join(SOURCE_DATA_TEMPLATE_DIR, fileName);
   try {
     const parsedObj = xlsxParser.parseArray(
       filePath, { rowStartIndex: 1 });
@@ -38,8 +39,9 @@ function parse() {
   const data = {};
   Object.keys(SUBUNIT_TYPE_FILE_LOOKUP).forEach((subunitType) => {
     const fileName = SUBUNIT_TYPE_FILE_LOOKUP[subunitType];
+    const filePath = path.join(SOURCE_DATA_TEMPLATE_DIR, fileName);
     try {
-      data[subunitType] = parseFileData(fileName);
+      data[subunitType] = parseDataFromXLSX(filePath);
     } catch (err) {
       throw err;
     }
@@ -47,4 +49,8 @@ function parse() {
   return data;
 }
 
-module.exports = { parseFileData, parse };
+module.exports = {
+  SOURCE_DATA_TEMPLATE_DIR,
+  SOURCE_DATA_TEMPLATE_FILE_NAMES,
+  parseDataFromXLSX,
+  parse };
