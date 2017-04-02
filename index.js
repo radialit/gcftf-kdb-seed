@@ -18,8 +18,14 @@ program.parse(process.argv);
 // entry point
 function main() {
   debug('starting');
-  const data = tp.parse();
-  debug(data);
+  try {
+    const data = tp.parse();
+    debug(data);
+  } catch (err) {
+    debug(err);
+    debug('quitting');
+    process.exit(1);
+  }
   debug('finished');
 }
 main(); // entry point
