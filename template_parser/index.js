@@ -5,6 +5,7 @@ const debug = require('debug')('template_parser');
 const path = require('path');
 const xlsxParser = require('../simple_xlsx_parser');
 const sp = require('./section_parser');
+const ep = require('./entry_parser');
 const C = require('../constants');
 
 const SOURCE_DATA_DIR = C.SOURCE_DATA_DIR;
@@ -64,8 +65,9 @@ function getRowObj(rowArray) {
 }
 
 function parse() {
-  const data = { sections: {} };
+  const data = { sections: {}, entries: { scalars: [], collections: [] } };
   Object.keys(SUBUNIT_TYPE_FILE_LOOKUP).forEach((subunitType) => {
+    // subgroup by subunit type (nation or jurisdiction)
     data.sections[subunitType] = [];
     const fileName = SUBUNIT_TYPE_FILE_LOOKUP[subunitType];
     const filePath = path.join(SOURCE_DATA_TEMPLATE_DIR, fileName);
@@ -75,6 +77,7 @@ function parse() {
       let activeEntry = {};
       let sectionHeaderLevelOffset = 0;
       let entryIDPrefix = '';
+      let isCollection = false;
       rows.forEach((rowArray) => {
         // keyed object is easier to work with than an array
         const rowObj = getRowObj(rowArray);
@@ -85,16 +88,44 @@ function parse() {
             return;
           }
           const newSection = sp.getNewSection(rowObj, sectionHeaderLevelOffset);
-          // a subsection that no longer defines a collection must have its ID prefixed to
-          // all entries coming under it (e.g. 'safeguards_overview' instead of just 'overview')
+          // all entries coming under a label must be prefixed with the label's ID
+          // (e.g. 'safeguards_overview' instead of just 'overview')
           if (rowObj.dataType !== 'label') entryIDPrefix = sp.getEntryPrefix(rowObj);
           newSection.paragraphCode = sp.getNewSectionParagraphCode(
             activeSection.paragraphCode, newSection.headerLevel);
           activeSection = newSection;
           data.sections[subunitType].push(activeSection);
-          // debug(newSection);
         } else { // this row defines an entry (schema definition)
-          // debug('entry');
+          const dataType = ep.getDataType(rowObj);
+          if (dataType) {
+            if (dataType === 'collection') {
+              isCollection = true;
+              activeEntry = ep.getNewCollectionEntry(rowObj);
+              activeEntry.subunitType = subunitType;
+              data.entries.collections.push(activeEntry);
+              // update entryTypes lookup
+              // entryTypes[subunitType].push({ id: activeEntry.id, type: 'collection' });
+            } else {
+              isCollection = false;
+              activeEntry = ep.getNewScalarEntry(rowObj);
+              activeEntry.subunitType = subunitType;
+              // use the prefix necessary for entries under labels
+              activeEntry.id = `${entryIDPrefix}${activeEntry.id}`;
+              data.entries.scalars.push(activeEntry);
+              // update entryTypes lookup
+              // entryTypes[subunitType].push({ id: activeEntry.id, type: dataType });
+            }
+            activeSection.entryIDs.push(activeEntry.id);
+          } else {
+            if (!isCollection) {
+              debug('template object %s is not a collection', rowObj.rowID);
+              return;
+            }
+            ep.pushCollectionEntry(activeEntry, rowObj);
+            // debug('  %s', templateObject.rowID);
+          }
+          // debug(templateObject.rowID);
+            // debug('entry');
         }
         // debug(rowObj);
       });
