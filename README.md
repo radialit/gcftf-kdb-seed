@@ -12,4 +12,5 @@ This data will be formatted and organized in a better format. Initially data wil
 
 ### Phase 1 (Parse Structure Files)
 
-- [ ] Read structure files for nation and jurisdiction subunits ('national_template.xlsx' and 'national_template.xlsx' respectively)
+- [x] Read raw structure files for nation and jurisdiction subunits ('national_template.xlsx' and 'national_template.xlsx' respectively)
+- [] Begin parsing structure data by recognizing whether each row defines a section or record (schema)

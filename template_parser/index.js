@@ -3,9 +3,9 @@
 require('dotenv').config();
 const debug = require('debug')('template_parser');
 const path = require('path');
-const xlsxParser = require('./simple_xlsx_parser');
+const xlsxParser = require('../simple_xlsx_parser');
 
-const C = require('./constants');
+const C = require('../constants');
 
 const SOURCE_DATA_DIR = C.SOURCE_DATA_DIR;
 const SOURCE_DATA_TEMPLATE_DIR = path.join(SOURCE_DATA_DIR, 'field_templates');
@@ -34,14 +34,52 @@ function parseDataFromXLSX(filePath) {
   }
   return data;
 }
+// spreadsheet cells can contain undefined or string or number
+function stringify(arg) {
+  return ((arg === undefined) ? '' : String(arg)).trim();
+}
+
+function stringifyLabel(arg) {
+  let label = stringify(arg);
+  label = label.replace(/km2/gi, 'km²');
+  label = label.replace(/CO2/gi, 'CO₂');
+  label = label.replace(/CO2/gi, 'CO₂');
+  label = label.replace(/\+\/-/gi, '±');
+  return label;
+}
+
+function getRowObj(rowArray) {
+  return {
+    rowType: rowArray[0],
+    rowID: rowArray[1],
+    dataType: rowArray[2],
+    label: stringifyLabel(rowArray[4]),
+    translations: {
+      es: stringifyLabel(rowArray[5]),
+      id: stringifyLabel(rowArray[6]),
+      pt: stringifyLabel(rowArray[7]),
+      fr: stringifyLabel(rowArray[8]),
+    },
+  };
+}
 
 function parse() {
-  const data = {};
+  const data = { sections: {} };
   Object.keys(SUBUNIT_TYPE_FILE_LOOKUP).forEach((subunitType) => {
+    data.sections[subunitType] = [];
     const fileName = SUBUNIT_TYPE_FILE_LOOKUP[subunitType];
     const filePath = path.join(SOURCE_DATA_TEMPLATE_DIR, fileName);
     try {
-      data[subunitType] = parseDataFromXLSX(filePath);
+      const rows = parseDataFromXLSX(filePath);
+      rows.forEach((rowArray) => {
+        // keyed object is easier to work with than an array
+        const rowObj = getRowObj(rowArray);
+        if (rowObj.label.substr(0, 1) === '#') return; // comment--skip
+        // if (isSection(rowObj)) {
+        // } else {
+        // }
+        debug(rowObj);
+      });
     } catch (err) {
       throw err;
     }
