@@ -4,7 +4,7 @@ require('dotenv').config();
 const debug = require('debug')('template_parser');
 const path = require('path');
 const xlsxParser = require('../simple_xlsx_parser');
-
+const sp = require('./section_parser');
 const C = require('../constants');
 
 const SOURCE_DATA_DIR = C.SOURCE_DATA_DIR;
@@ -75,10 +75,14 @@ function parse() {
         // keyed object is easier to work with than an array
         const rowObj = getRowObj(rowArray);
         if (rowObj.label.substr(0, 1) === '#') return; // comment--skip
-        // if (isSection(rowObj)) {
-        // } else {
-        // }
-        debug(rowObj);
+        if (sp.isSection(rowObj)) {
+          // this row defines a section
+          debug('section');
+        } else {
+          // this row defines an entry (schema definition)
+          debug('entry');
+        }
+        // debug(rowObj);
       });
     } catch (err) {
       throw err;
