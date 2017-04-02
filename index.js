@@ -20,7 +20,7 @@ function main() {
   debug('starting');
   try {
     const data = tp.parse();
-    // debug(data);
+    debug(data);
   } catch (err) {
     debug(err);
     debug('quitting');
@@ -28,4 +28,5 @@ function main() {
   }
   debug('finished');
 }
+debug('\x1Bc'); // clear and reset the console
 main(); // entry point

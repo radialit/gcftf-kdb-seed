@@ -71,16 +71,30 @@ function parse() {
     const filePath = path.join(SOURCE_DATA_TEMPLATE_DIR, fileName);
     try {
       const rows = parseDataFromXLSX(filePath);
+      let activeSection = {};
+      let activeEntry = {};
+      let sectionHeaderLevelOffset = 0;
+      let entryIDPrefix = '';
       rows.forEach((rowArray) => {
         // keyed object is easier to work with than an array
         const rowObj = getRowObj(rowArray);
         if (rowObj.label.substr(0, 1) === '#') return; // comment--skip
-        if (sp.isSection(rowObj)) {
-          // this row defines a section
-          debug('section');
-        } else {
-          // this row defines an entry (schema definition)
-          debug('entry');
+        if (sp.isSection(rowObj)) { // this row defines a section
+          if (!sp.isValid(rowObj)) {
+            sectionHeaderLevelOffset += 1; // correct for the eliminated section
+            return;
+          }
+          const newSection = sp.getNewSection(rowObj, sectionHeaderLevelOffset);
+          // a subsection that no longer defines a collection must have its ID prefixed to
+          // all entries coming under it (e.g. 'safeguards_overview' instead of just 'overview')
+          if (rowObj.dataType !== 'label') entryIDPrefix = sp.getEntryPrefix(rowObj);
+          newSection.paragraphCode = sp.getNewSectionParagraphCode(
+            activeSection.paragraphCode, newSection.headerLevel);
+          activeSection = newSection;
+          data.sections[subunitType].push(activeSection);
+          // debug(newSection);
+        } else { // this row defines an entry (schema definition)
+          // debug('entry');
         }
         // debug(rowObj);
       });
