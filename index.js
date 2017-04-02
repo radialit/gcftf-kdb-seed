@@ -4,7 +4,8 @@ require('dotenv').config();
 const program = require('commander');
 const debug = require('debug')('index');
 const messages = require('./messages');
-// set up command line
+const tp = require('./template_parser');
+// command line setup
 program
   .version('0.1.0');
 // command-line help listner (must be before .parse)
@@ -17,6 +18,8 @@ program.parse(process.argv);
 // entry point
 function main() {
   debug('starting');
+  const data = tp.parse();
+  debug(data);
   debug('finished');
 }
 main(); // entry point
