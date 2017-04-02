@@ -1,0 +1,19 @@
+{
+  "name": "gcftf-xlsx_parser",
+  "version": "0.1.0",
+  "engines": {
+    "node": "6.9.5"
+  },
+  "description": "Parses the first worksheet in an XLSX workbook and returns a 2-D non-sparse array, or object tree of key/value pairs",
+  "main": "index.js",
+  "author": "Darren Anderson",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radialit/gcftf-xlsx_parser"
+  },
+  "dependencies": {
+    "fs-extra": "^2.0.0",
+    "xlsx": "^0.8.1"
+  }
+}
