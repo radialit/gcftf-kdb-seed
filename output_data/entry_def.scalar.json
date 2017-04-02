@@ -1,0 +1,1782 @@
+[
+  {
+    "id": "national_land_area",
+    "label": "Total Land Area",
+    "units": "km²",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Superficie total del territorio",
+        "id": "Total Luas Wilayah",
+        "pt": "Área total",
+        "fr": ""
+      },
+      "units": {
+        "es": "km²",
+        "id": "km²",
+        "pt": "km²",
+        "fr": ""
+      }
+    },
+    "type": "number",
+    "subunitType": "nation"
+  },
+  {
+    "id": "national_percent_forested",
+    "label": "Percent of Country that is Forested",
+    "units": "%",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Porcentaje del terreno con bosques",
+        "id": "Persentase Wilayah Berhutan",
+        "pt": "Porcentagem do país coberta por florestas",
+        "fr": ""
+      },
+      "units": {
+        "es": "%",
+        "id": "%",
+        "pt": "%",
+        "fr": ""
+      }
+    },
+    "type": "number",
+    "subunitType": "nation"
+  },
+  {
+    "id": "txt_laws",
+    "label": "Laws",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Leyes",
+        "id": "Undang-Undang",
+        "pt": "Leis",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "text",
+    "subunitType": "nation"
+  },
+  {
+    "id": "txt_policies_and_plans",
+    "label": "Policies & Plans",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Políticas y Planes",
+        "id": "Kebijakan & Rencana",
+        "pt": "Políticas e planos",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "text",
+    "subunitType": "nation"
+  },
+  {
+    "id": "txt_institutions",
+    "label": "Institutions",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Instituciones",
+        "id": "Institusi/Lembaga",
+        "pt": "Instituições",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "text",
+    "subunitType": "nation"
+  },
+  {
+    "id": "national_population",
+    "label": "National Population",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Población nacional",
+        "id": "Populasi Nasional",
+        "pt": "População nacional",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "number",
+    "subunitType": "nation"
+  },
+  {
+    "id": "national_gdp",
+    "label": "National GDP",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "PIB nacional",
+        "id": "GDP Nasional",
+        "pt": "PIB nacional",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "currency",
+    "subunitType": "nation"
+  },
+  {
+    "id": "national_per_capita_income",
+    "label": "Annual Per Capita Income",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Ingresos anuales per cápita",
+        "id": "Pendapatan Per Kapita",
+        "pt": "Renda per capita annual",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "currency",
+    "subunitType": "nation"
+  },
+  {
+    "id": "national_human_development_index",
+    "label": "Human Development Index",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Índice de desarrollo humano",
+        "id": "Indeks Pembangunan Manusia",
+        "pt": "Índice de Desenvolvimento Humano",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "number",
+    "subunitType": "nation"
+  },
+  {
+    "id": "national_main_exports",
+    "label": "Main Exports",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Principales productos de exportación",
+        "id": "Ekspor Utama",
+        "pt": "Principais exportações",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "string",
+    "subunitType": "nation"
+  },
+  {
+    "id": "land_area",
+    "label": "Total Land Area",
+    "units": "km²",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Superficie total del territorio",
+        "id": "Total Luas Wilayah",
+        "pt": "Área total",
+        "fr": ""
+      },
+      "units": {
+        "es": "km²",
+        "id": "km²",
+        "pt": "km²",
+        "fr": ""
+      }
+    },
+    "type": "number",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "txt_state_description",
+    "label": "Description of State",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "",
+        "id": "",
+        "pt": "Descrição do estado",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "text",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "population",
+    "label": "Population of State/Province",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Población del estado/provincia",
+        "id": "Populasi Negara Bagian/Propinsi",
+        "pt": "População do estado/província",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "number",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "gdp",
+    "label": "State/Province GDP",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "PIB del estado/provincia",
+        "id": "GDP Negara Bagian/Propinsi",
+        "pt": "PIB do estado/província",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "currency",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "per_capita_income",
+    "label": "Annual Per Capita Income",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Ingresos anuales per cápita",
+        "id": "Pendapatan Per Kapita",
+        "pt": "Renda per capita annual",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "currency",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "human_development_index",
+    "label": "Human Development Index",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Índice de desarrollo humano",
+        "id": "Indeks Pembangunan Manusia",
+        "pt": "Índice de Desenvolvimento Humano",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "number",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "main_exports",
+    "label": "Main Exports",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Principales productos de exportación",
+        "id": "Ekspor Utama",
+        "pt": "Principais exportações",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "string",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "original_forest_area",
+    "label": "Original Forest Area",
+    "units": "km²",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Superficie original de los bosques",
+        "id": "Luas Kawasan Hutan Asal",
+        "pt": "Área de floresta original",
+        "fr": ""
+      },
+      "units": {
+        "es": "km²",
+        "id": "km²",
+        "pt": "km²",
+        "fr": ""
+      }
+    },
+    "type": "number",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "current_forest_area",
+    "label": "Current Forest Area",
+    "units": "km²",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Superficie actual total de bosques",
+        "id": "Total Luas Kawasan Hutan Saat Ini",
+        "pt": "Área de floresta atual total",
+        "fr": ""
+      },
+      "units": {
+        "es": "km²",
+        "id": "km²",
+        "pt": "km²",
+        "fr": ""
+      }
+    },
+    "type": "number",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "unprotected_forest_area",
+    "label": "Unprotected Forest Area",
+    "units": "km²",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Superficie de Bosques sin protección",
+        "id": "Kawasan Hutan yang Tidak Dilindungi",
+        "pt": "Área florestal não protegida",
+        "fr": ""
+      },
+      "units": {
+        "es": "km²",
+        "id": "km²",
+        "pt": "km²",
+        "fr": ""
+      }
+    },
+    "type": "number",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "deforestation_total_area",
+    "label": "Total Area Deforested",
+    "units": "km²",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Superficie total de bosques deforestados",
+        "id": "Total Luas Kawasan Terdeforestasi",
+        "pt": "Área desmatada total",
+        "fr": ""
+      },
+      "units": {
+        "es": "km²",
+        "id": "km²",
+        "pt": "km²",
+        "fr": ""
+      }
+    },
+    "type": "number",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "deforestation_drivers",
+    "label": "Main Deforestation Drivers",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Motores principales de deforestación",
+        "id": "Penyebab Utama Deforestasi",
+        "pt": "Principais vetores de desmatamento",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "string",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "forest_carbon_year",
+    "label": "Year/Range of Forest Carbon Amount",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Año/intervalo de cantidad de carbono forestal",
+        "id": "Tahun Jumlah Karbon Hutan Dihitung",
+        "pt": "Ano/intervalo da quantidade de carbono florestal",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "string",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "forest_carbon_stock",
+    "label": "Average Carbon Stock",
+    "units": "tC/ha",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Promedio de reservas de carbono",
+        "id": "Stok Karbon Rata-Rata",
+        "pt": "Estoque de carbono médio",
+        "fr": ""
+      },
+      "units": {
+        "es": "tC/ha",
+        "id": "tC/ha",
+        "pt": "tC/ha",
+        "fr": ""
+      }
+    },
+    "type": "number",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "ipcc_measurement_methodology",
+    "label": "IPCC Measurement Methodology",
+    "units": "Tier",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Metodología de medición del IPCC",
+        "id": "Metodologi Pengukuran IPCC",
+        "pt": "Metodologia de mensuração do IPCC",
+        "fr": ""
+      },
+      "units": {
+        "es": "Nivel",
+        "id": "Tier",
+        "pt": "Nível",
+        "fr": ""
+      }
+    },
+    "type": "string",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "deforestation_reference_level",
+    "label": "Reference Level",
+    "units": "km²/yr",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Nivel de referencia",
+        "id": "Tingkat Referensi",
+        "pt": "Nível de referência",
+        "fr": ""
+      },
+      "units": {
+        "es": "km²/año",
+        "id": "km²/tahun",
+        "pt": "km²/ano",
+        "fr": ""
+      }
+    },
+    "type": "number",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "deforestation_reference_level_year",
+    "label": "Years Used to Determine Reference Level",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Los años que se usaron para determinar el nivel de referencia",
+        "id": "Lama",
+        "pt": "Anos usados para determinar o nível de referência",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "dalam tahun",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "string",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "deforestation_reduction_goal_value",
+    "label": "Deforestation Reduction Goal for State/Province and REDD Program",
+    "units": "% Reduction",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Meta de reducción de deforestación para estado/provincia y programa de REDD",
+        "id": "Sasaran Pengurangan Deforestasi untuk Negara Bagian/Propinsi dan Program REDD",
+        "pt": "Objetivo de redução do desmatamento por estado/província e Programa REDD",
+        "fr": ""
+      },
+      "units": {
+        "es": "%",
+        "id": "%",
+        "pt": "%",
+        "fr": ""
+      }
+    },
+    "type": "number",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "deforestation_reduction_goal_year",
+    "label": "Deforestation Reduction Goal for State/Province and REDD Program Year",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Año - Meta de reducción de deforestación para estado/provincia y programa de REDD",
+        "id": "Tahun Sasaran Pengurangan Deforestasi untuk Negara Bagian/Propinsi dan Program REDD Tercapai",
+        "pt": "Ano do objetivo de redução do desmatamento por estado/província e Programa REDD",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "string",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "tons_of_co2_avoided_value",
+    "label": "Tons of CO₂e Avoided Target",
+    "units": "MtCO₂e",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Meta para toneladas de CO₂e evitadas",
+        "id": "Target Tonase Emisi CO₂ yang Dihindari",
+        "pt": "Meta de CO₂e evitado",
+        "fr": ""
+      },
+      "units": {
+        "es": "MtCO₂e",
+        "id": "MtCO₂e",
+        "pt": "MtCO₂e",
+        "fr": ""
+      }
+    },
+    "type": "number",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "tons_of_co2_avoided_year",
+    "label": "Year of Tons of CO₂e Avoided Target",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Año - Meta para toneladas de CO₂e evitadas",
+        "id": "Tahun Target Tonase Emisi CO₂ yang Dihindari Tercapai",
+        "pt": "Ano da meta de CO₂e evitado",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "string",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "txt_needs_to_improve_baseline_def",
+    "label": "Needs Identified to Improve Baseline Definition",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Las necesidades que se han identificado para mejorar la definición de la línea de base",
+        "id": "Kebutuhan yang teridentifikasi untuk meningkatkan definisi dasar",
+        "pt": "Necessidades identificadas para a melhoria da definição de referência",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "text",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "are_current_deforestation_rates_known",
+    "label": "Are current deforestation rates known?",
+    "units": "",
+    "choices": [
+      "yes",
+      "no",
+      "partially"
+    ],
+    "translations": {
+      "label": {
+        "es": "¿Se saben las tasas actuales de deforestación?",
+        "id": "Apakah tingkat deforestasi saat ini diketahui?",
+        "pt": "As atuais taxas de desmatamento são conhecidas?",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      },
+      "choices": {
+        "es": [
+          "sí",
+          "no",
+          "parcialmente"
+        ],
+        "id": [
+          "Ya",
+          "Tidak",
+          "Hanya Sebagian"
+        ],
+        "pt": [
+          "sim",
+          "não",
+          "parcialmente"
+        ],
+        "fr": null
+      }
+    },
+    "type": "enum",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "deforestation_rate_target_value",
+    "label": "Deforestation Rate Target",
+    "units": "km²/yr",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Meta de tasa de deforestación",
+        "id": "Target Tingkat Deforestasi",
+        "pt": "Meta de taxa de desmatamento",
+        "fr": ""
+      },
+      "units": {
+        "es": "km²/año",
+        "id": "km²/thn",
+        "pt": "km²/ano",
+        "fr": ""
+      }
+    },
+    "type": "number",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "deforestation_rate_target_year",
+    "label": "Year of Deforestation Rate Target",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Año - Meta de tasa de deforestación",
+        "id": "Tahun Target Tingkat Deforestasi Tercapai",
+        "pt": "Ano da meta de taxa de desmatamento",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "string",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "txt_causes_of_deforestation",
+    "label": "Direct and underlying causes and drivers of deforestation",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Las causas y los impulsores directos y subyacentes de la deforestación",
+        "id": "Penyebab dan pendorong langsung dan mendasar dari deforestasi",
+        "pt": "Causas diretas e indiretas e vetores de desmatamento",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "text",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "txt_deforestation_monitoring_methodologies",
+    "label": "Monitoring Methodologies and Accuracy",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Monitoring methodologies and accuracy",
+        "id": "Metodologi dan akurasi monitoring",
+        "pt": "Metodologias de monitoramento e precisão",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "text",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "txt_needs_for_deforestation_monitoring",
+    "label": "Needs Identified for Deforestation Monitoring",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Las necesidades que se han identificado para monitorear la deforestación",
+        "id": "Kebutuhan yang teridentifikasi untuk monitoring deforestasi",
+        "pt": "Necessidades identificadas de monitoramento do desmatamento",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "text",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "are_current_degradation_rates_known",
+    "label": "Are current degradation rates known?",
+    "units": "",
+    "choices": [
+      "yes",
+      "no",
+      "partially"
+    ],
+    "translations": {
+      "label": {
+        "es": "¿Se saben las tasas actuales de degradación?",
+        "id": "Apakah tingkat degradasi saat ini diketahui?",
+        "pt": "As atuais taxas de degradação são conhecidas?",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      },
+      "choices": {
+        "es": [
+          "sí",
+          "no",
+          "parcialmente"
+        ],
+        "id": [
+          "Ya",
+          "Tidak",
+          "Hanya Sebagian"
+        ],
+        "pt": [
+          "sim",
+          "não",
+          "parcialmente"
+        ],
+        "fr": null
+      }
+    },
+    "type": "enum",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "txt_causes_of_forest_degradation",
+    "label": "Direct and Underlying Causes and Drivers of Forest Degradation",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Las causas y los impulsores directos y subyacentes de la degredación",
+        "id": "Penyebab dan pendorong langsung dan mendasar dari degradasi hutan",
+        "pt": "Causas diretas e indiretas e vetores de degradação florestal",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "text",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "txt_degradation_monitoring_methodologies",
+    "label": "Monitoring Methodologies and Accuracy",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Monitoring methodologies and accuracy",
+        "id": "Metodologi dan akurasi monitoring",
+        "pt": "Metodologias de monitoramento e precisão",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "text",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "txt_needs_for_degradation_monitoring",
+    "label": "Needs Identified for Degradation Monitoring",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Las necesidades que se han identificado para monitorear la degredación",
+        "id": "Kebutuhan yang teridentifikasi untuk monitoring degradasi",
+        "pt": "Necessidades identificadas de monitoramento da degradação",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "text",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "are_forest_carbon_stocks_known",
+    "label": "Are forest carbon stocks known?",
+    "units": "",
+    "choices": [
+      "yes",
+      "no",
+      "partially"
+    ],
+    "translations": {
+      "label": {
+        "es": "¿Se saben las cantidades de reservas de carbono?",
+        "id": "Apakah stok karbon hutan diketahui?",
+        "pt": "Os estoques de carbono florestal são conhecidos?",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      },
+      "choices": {
+        "es": [
+          "sí",
+          "no",
+          "parcialmente"
+        ],
+        "id": [
+          "Ya",
+          "Tidak",
+          "Hanya Sebagian"
+        ],
+        "pt": [
+          "sim",
+          "não",
+          "parcialmente"
+        ],
+        "fr": null
+      }
+    },
+    "type": "enum",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "above_ground_carbon_stock_value",
+    "label": "Above Ground Carbon Stock",
+    "units": "tC/ha",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Reservas de carbono forestal sobre el suelo",
+        "id": "Stok Karbon Di Atas Tanah",
+        "pt": "Estoque de carbono na superfície",
+        "fr": ""
+      },
+      "units": {
+        "es": "tC/ha",
+        "id": "tC/ha",
+        "pt": "tC/ha",
+        "fr": ""
+      }
+    },
+    "type": "number",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "above_ground_carbon_stock_tolerance",
+    "label": "Above Ground Carbon Stock Tolerance",
+    "units": "± tC/ha",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Tolerancia de reservas de carbono sobre el suelo",
+        "id": "Toleransi Stok Karbon Di Atas Tanah",
+        "pt": "Tolerância de estoque de carbono na superfície",
+        "fr": ""
+      },
+      "units": {
+        "es": "± tC/ha",
+        "id": "± tC/ha",
+        "pt": "± tC/ha",
+        "fr": ""
+      }
+    },
+    "type": "number",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "below_ground_carbon_stock_value",
+    "label": "Below Ground Carbon Stock",
+    "units": "tC/ha",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Reservas de carbono forestal bajo el nivel del suelo",
+        "id": "Stok Karbon Di Bawah Tanah",
+        "pt": "Estoque de carbono subterrâneo",
+        "fr": ""
+      },
+      "units": {
+        "es": "tC/ha",
+        "id": "tC/ha",
+        "pt": "tC/ha",
+        "fr": ""
+      }
+    },
+    "type": "number",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "below_ground_carbon_stock_tolerance",
+    "label": "Below Ground Carbon Stock Tolerance",
+    "units": "± tC/ha",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Tolerancia de reservas de carbono forestal bajo el nivel del suelo",
+        "id": "Toleransi Stok Karbon Di Bawah Tanah",
+        "pt": "Tolerância de estoque de carbono subterrâneo",
+        "fr": ""
+      },
+      "units": {
+        "es": "± tC/ha",
+        "id": "± tC/ha",
+        "pt": "± tC/ha",
+        "fr": ""
+      }
+    },
+    "type": "number",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "txt_forest_carbon_monitoring_methodologies",
+    "label": "Monitoring Methodologies and Accuracy",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Las metodologías que se usan para el monitoreo y su exactitud",
+        "id": "Metodologi monitoring yang digunakan dan akurasinya",
+        "pt": "Metodologias de monitoramento e precisão",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "text",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "txt_needs_for_forest_carbon_quantification",
+    "label": "Needs Identified for Forest Carbon Quantification",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Las necesidades que se han identificado para cuantificar el carbono forestal",
+        "id": "Kebutuhan yang teridentifikasi untuk penghitungan karbon hutan",
+        "pt": "Necessidades identificadas para a quantificação de carbono florestal",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "text",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "txt_redd_implementation_teaser",
+    "label": "Recent REDD+ Developments in your State/Province",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Acontecimientos recientes que se relacionan con REDD+ en su estado/provincia",
+        "id": "Perkembangan REDD+ terakhir di negara bagian/provinsi Anda",
+        "pt": "Acontecimentos recentes relativos a REDD+ em seu estado/província",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "text",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "description",
+    "label": "Description",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "text",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "status",
+    "label": "Status",
+    "units": "",
+    "choices": [
+      "Planned",
+      "Under Development",
+      "Developed",
+      "Under Implementation"
+    ],
+    "translations": {
+      "label": {
+        "es": "",
+        "id": "Status",
+        "pt": "",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      },
+      "choices": {
+        "es": null,
+        "id": [
+          "Direncanakan",
+          "Tengah disusun",
+          "Selesai Disusun",
+          "Dalam pelaksanaan"
+        ],
+        "pt": null,
+        "fr": null
+      }
+    },
+    "type": "enum",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "description",
+    "label": "Description",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "text",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "status",
+    "label": "Status",
+    "units": "",
+    "choices": [
+      "Planned",
+      "Under Development",
+      "Developed",
+      "Under Implementation"
+    ],
+    "translations": {
+      "label": {
+        "es": "",
+        "id": "Status",
+        "pt": "",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      },
+      "choices": {
+        "es": null,
+        "id": [
+          "Direncanakan",
+          "Tengah disusun",
+          "Selesai Disusun",
+          "Dalam pelaksanaan"
+        ],
+        "pt": null,
+        "fr": null
+      }
+    },
+    "type": "enum",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "description",
+    "label": "Description",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "text",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "status",
+    "label": "Status",
+    "units": "",
+    "choices": [
+      "Planned",
+      "Under Development",
+      "Developed",
+      "Under Implementation"
+    ],
+    "translations": {
+      "label": {
+        "es": "",
+        "id": "Status",
+        "pt": "",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      },
+      "choices": {
+        "es": null,
+        "id": [
+          "Direncanakan",
+          "Tengah disusun",
+          "Selesai Disusun",
+          "Dalam pelaksanaan"
+        ],
+        "pt": null,
+        "fr": null
+      }
+    },
+    "type": "enum",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "description",
+    "label": "Description",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "text",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "status",
+    "label": "Status",
+    "units": "",
+    "choices": [
+      "Planned",
+      "Under Development",
+      "Developed",
+      "Under Implementation"
+    ],
+    "translations": {
+      "label": {
+        "es": "",
+        "id": "Status",
+        "pt": "",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      },
+      "choices": {
+        "es": null,
+        "id": [
+          "Direncanakan",
+          "Tengah disusun",
+          "Selesai Disusun",
+          "Dalam pelaksanaan"
+        ],
+        "pt": null,
+        "fr": null
+      }
+    },
+    "type": "enum",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "redd_programs_overview",
+    "label": "Overview",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Resumen",
+        "id": "Ikhtisar",
+        "pt": "Visão geral",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "text",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "redd_programs_laws_and_regulations",
+    "label": "Laws & Regulations",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Leyes y reglamentos",
+        "id": "Undang-undang dan Peraturan",
+        "pt": "Leis e regulamentos",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "text",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "institutional_framework_state_province",
+    "label": "State/Province",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Estado/Provincia",
+        "id": "Negara Bagian/Propinsi",
+        "pt": "Estado/província",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "text",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "institutional_framework_federal_national",
+    "label": "Federal/National",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Federal/Nacional",
+        "id": "Federal/Nasional",
+        "pt": "Federal/nacional",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "text",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "institutional_framework_redd_governance",
+    "label": "REDD Governance",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Gobernación REDD",
+        "id": "Tata Kelola REDD",
+        "pt": "Governança do REDD",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "text",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "safeguards_overview",
+    "label": "Overview",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Resumen",
+        "id": "Ikhtisar",
+        "pt": "Visão geral",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "text",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "safeguards_social_rights_and_tenure",
+    "label": "Rights & Tenure",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Derechos & Tenencia",
+        "id": "Hak dan Penguasaan",
+        "pt": "Direitos e posse",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "text",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "safeguards_social_transparency_and_participation",
+    "label": "Transparency & Participation",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Transparencia & Participación",
+        "id": "Transparansi dan Partisipasi",
+        "pt": "Transparência e participação",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "text",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "safeguards_social_benefits_sharing",
+    "label": "Benefits Sharing",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Reparto de beneficios",
+        "id": "Pembagian Manfaat",
+        "pt": "Compartilhamento de benefícios",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "text",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "safeguards_environmental_ecosystem_services",
+    "label": "Ecosystem Services",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Servicios ecosistémicos",
+        "id": "Jasa Ekosistem",
+        "pt": "Serviços ecossistêmicos",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "text",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "safeguards_environmental_biodiversity",
+    "label": "Biodiversity",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Biodiversidad",
+        "id": "Keanekaragaman Hayati",
+        "pt": "Biodiversidade",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "text",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "redd_agriculture_and_forestry_revenue",
+    "label": "State Agriculture & Forestry Revenue",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Ingresos de agricultura y bosques a nivel de estado",
+        "id": "Pendapatan Negara Bagian dari Pertanian & Kehutanan",
+        "pt": "Receitas do estado geradas pela agricultura e silvicultura",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "currency",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "redd_state_financing",
+    "label": "State/Province Financing",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Financiación de estado/provincia",
+        "id": "Pendanaan Negara Bagian/Propinsi",
+        "pt": "Financiamento nacional total",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "currency",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "redd_region_specific_fund",
+    "label": "Region-Specific Fund",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Fondo específico de región",
+        "id": "Dana Spesifik Daerah Fund",
+        "pt": "Financiamento do estado/província",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "currency",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "redd_total_national_financing",
+    "label": "National Financing",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Financiación total a nivel nacional",
+        "id": "Total Pendanaan Nasional",
+        "pt": "Fundo específico por região",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "currency",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "redd_other_funding_sources",
+    "label": "Other Funding",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Otras fuentes de financiación",
+        "id": "Sumber Pendanaan Lainnya",
+        "pt": "Outras fontes de financiamento",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "currency",
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "redd_project",
+    "label": "",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "template",
+    "subunitType": "jurisdiction"
+  }
+]

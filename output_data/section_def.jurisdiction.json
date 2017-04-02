@@ -1,0 +1,470 @@
+[
+  {
+    "label": "Overview",
+    "entryIDs": [],
+    "headerLevel": 1,
+    "translations": {
+      "label": {
+        "es": "Perspectiva",
+        "id": "Ikhtisar",
+        "pt": "Visão geral",
+        "fr": ""
+      }
+    },
+    "paragraphCode": "1"
+  },
+  {
+    "label": "General",
+    "entryIDs": [
+      "land_area",
+      "txt_state_description",
+      "governor",
+      "representative_1",
+      "representative_2"
+    ],
+    "headerLevel": 2,
+    "translations": {
+      "label": {
+        "es": "General",
+        "id": "Umum",
+        "pt": "Geral",
+        "fr": ""
+      }
+    },
+    "paragraphCode": "1.1"
+  },
+  {
+    "label": "Demographics",
+    "entryIDs": [
+      "population",
+      "urban_vs_rural_population_percent",
+      "social_groups_percent"
+    ],
+    "headerLevel": 2,
+    "translations": {
+      "label": {
+        "es": "Características demográficas",
+        "id": "Demografi",
+        "pt": "Dados demográficos",
+        "fr": ""
+      }
+    },
+    "paragraphCode": "1.2"
+  },
+  {
+    "label": "Economy",
+    "entryIDs": [
+      "gdp",
+      "per_capita_income",
+      "human_development_index",
+      "main_exports",
+      "gdp_breakdown_percent"
+    ],
+    "headerLevel": 2,
+    "translations": {
+      "label": {
+        "es": "Economía",
+        "id": "Ekonomi",
+        "pt": "Economia",
+        "fr": ""
+      }
+    },
+    "paragraphCode": "1.3"
+  },
+  {
+    "label": "Forest Status",
+    "entryIDs": [
+      "original_forest_area",
+      "current_forest_area",
+      "current_forest_area_typologies"
+    ],
+    "headerLevel": 2,
+    "translations": {
+      "label": {
+        "es": "Estado de los bosques",
+        "id": "Status Hutan",
+        "pt": "Situação das florestas",
+        "fr": ""
+      }
+    },
+    "paragraphCode": "1.4"
+  },
+  {
+    "label": "Forest Management",
+    "entryIDs": [
+      "unprotected_forest_area",
+      "conserved_forest_area_breakdown",
+      "fully_protected_forest_area_breakdown",
+      "sustainably_managed_forest_area_breakdown"
+    ],
+    "headerLevel": 2,
+    "translations": {
+      "label": {
+        "es": "Manejo forestal",
+        "id": "Pengelolaan Hutan",
+        "pt": "Manejo florestal",
+        "fr": ""
+      }
+    },
+    "paragraphCode": "1.5"
+  },
+  {
+    "label": "Deforestation",
+    "entryIDs": [
+      "deforestation_total_area",
+      "deforestation_drivers",
+      "deforestation_rates"
+    ],
+    "headerLevel": 2,
+    "translations": {
+      "label": {
+        "es": "Deforestación",
+        "id": "Deforestasi",
+        "pt": "Desmatamento",
+        "fr": ""
+      }
+    },
+    "paragraphCode": "1.6"
+  },
+  {
+    "label": "Carbon Accounting",
+    "entryIDs": [],
+    "headerLevel": 1,
+    "translations": {
+      "label": {
+        "es": "Contabilidad de carbono",
+        "id": "Perhitungan Karbon",
+        "pt": "Contabilidade de carbono",
+        "fr": ""
+      }
+    },
+    "paragraphCode": "2"
+  },
+  {
+    "label": "Carbon Accounting Summary",
+    "entryIDs": [
+      "forest_carbon_year",
+      "forest_carbon_stock",
+      "ipcc_measurement_methodology",
+      "deforestation_vs_degradation"
+    ],
+    "headerLevel": 2,
+    "translations": {
+      "label": {
+        "es": "Resumen de contabilidad de carbono",
+        "id": "Rangkuman Perhitungan Karbon",
+        "pt": "Resumo da contabilidade de carbono",
+        "fr": ""
+      }
+    },
+    "paragraphCode": "2.1"
+  },
+  {
+    "label": "Reference Levels and Targets",
+    "entryIDs": [
+      "deforestation_reference_level",
+      "deforestation_reference_level_year",
+      "deforestation_reduction_goal_value",
+      "deforestation_reduction_goal_year",
+      "tons_of_co2_avoided_value",
+      "tons_of_co2_avoided_year",
+      "txt_needs_to_improve_baseline_def"
+    ],
+    "headerLevel": 2,
+    "translations": {
+      "label": {
+        "es": "Niveles de referencia y objetivos",
+        "id": "Tingkat dan Target Referensi",
+        "pt": "Níveis de referência e metas",
+        "fr": ""
+      }
+    },
+    "paragraphCode": "2.2"
+  },
+  {
+    "label": "Deforestation Dynamics Monitoring",
+    "entryIDs": [
+      "are_current_deforestation_rates_known",
+      "deforestation_rate_target_value",
+      "deforestation_rate_target_year",
+      "txt_causes_of_deforestation",
+      "txt_deforestation_monitoring_methodologies",
+      "txt_needs_for_deforestation_monitoring"
+    ],
+    "headerLevel": 2,
+    "translations": {
+      "label": {
+        "es": "Monitoreo de dinámica de deforestación",
+        "id": "Monitoring Dinamika Deforestasi",
+        "pt": "Monitoramento da dinâmica de desmatamento",
+        "fr": ""
+      }
+    },
+    "paragraphCode": "2.3"
+  },
+  {
+    "label": "Forest Degradation Dynamics Monitoring",
+    "entryIDs": [
+      "are_current_degradation_rates_known",
+      "txt_causes_of_forest_degradation",
+      "txt_degradation_monitoring_methodologies",
+      "txt_needs_for_degradation_monitoring",
+      "forest_degradation_rates"
+    ],
+    "headerLevel": 2,
+    "translations": {
+      "label": {
+        "es": "Monitoreo de dinámica de degradación de bosques",
+        "id": "Monitoring Dinamika Degradasi Hutan",
+        "pt": "Monitoramento da dinâmica de degradação florestal",
+        "fr": ""
+      }
+    },
+    "paragraphCode": "2.4"
+  },
+  {
+    "label": "Forest Carbon Stocks Quantification",
+    "entryIDs": [
+      "are_forest_carbon_stocks_known",
+      "above_ground_carbon_stock_value",
+      "above_ground_carbon_stock_tolerance",
+      "below_ground_carbon_stock_value",
+      "below_ground_carbon_stock_tolerance",
+      "txt_forest_carbon_monitoring_methodologies",
+      "txt_needs_for_forest_carbon_quantification",
+      "forest_classes"
+    ],
+    "headerLevel": 2,
+    "translations": {
+      "label": {
+        "es": "Cuantificación de reservas de carbono forestal",
+        "id": "Perhitungan Stok Karbon Hutan",
+        "pt": "Quantificação dos estoques de carbono florestal",
+        "fr": ""
+      }
+    },
+    "paragraphCode": "2.5"
+  },
+  {
+    "label": "REDD Implementation",
+    "entryIDs": [],
+    "headerLevel": 1,
+    "translations": {
+      "label": {
+        "es": "Implementación de REDD",
+        "id": "Implementasi REDD",
+        "pt": "Implementação do REDD",
+        "fr": ""
+      }
+    },
+    "paragraphCode": "3"
+  },
+  {
+    "label": "Announcements",
+    "entryIDs": [
+      "txt_redd_implementation_teaser"
+    ],
+    "headerLevel": 2,
+    "translations": {
+      "label": {
+        "es": "Acontecimientos",
+        "id": "Pengumunan",
+        "pt": "Avisos",
+        "fr": ""
+      }
+    },
+    "paragraphCode": "3.1"
+  },
+  {
+    "label": "Current REDD Program Progress",
+    "entryIDs": [
+      "redd_program_progress_0",
+      "description",
+      "status",
+      "redd_program_progress_1",
+      "description",
+      "status",
+      "redd_program_progress_2",
+      "description",
+      "status",
+      "redd_program_progress_3",
+      "description",
+      "status"
+    ],
+    "headerLevel": 2,
+    "translations": {
+      "label": {
+        "es": "Progreso del Programa REDD actual",
+        "id": "Perkembangan Program REDD saat ini",
+        "pt": "Andamento do atual Programa REDD",
+        "fr": ""
+      }
+    },
+    "paragraphCode": "3.2"
+  },
+  {
+    "label": "REDD Programs & Safeguards",
+    "entryIDs": [],
+    "headerLevel": 2,
+    "translations": {
+      "label": {
+        "es": "Programas de REDD y Salvaguardias",
+        "id": "Program & Perlindungan REDD",
+        "pt": "Programas e salvaguardas do REDD",
+        "fr": ""
+      }
+    },
+    "paragraphCode": "3.3"
+  },
+  {
+    "label": "Programs",
+    "entryIDs": [
+      "redd_programs_overview",
+      "redd_programs_laws_and_regulations"
+    ],
+    "headerLevel": 3,
+    "translations": {
+      "label": {
+        "es": "Programas",
+        "id": "Program",
+        "pt": "Programas",
+        "fr": ""
+      }
+    },
+    "paragraphCode": "3.3.1"
+  },
+  {
+    "label": "Institutional Framework",
+    "entryIDs": [
+      "institutional_framework_state_province",
+      "institutional_framework_federal_national",
+      "institutional_framework_redd_governance"
+    ],
+    "headerLevel": 3,
+    "translations": {
+      "label": {
+        "es": "Marco institucional",
+        "id": "Kerangka Kelembagaan",
+        "pt": "Marco institucional",
+        "fr": ""
+      }
+    },
+    "paragraphCode": "3.3.2"
+  },
+  {
+    "label": "Safeguards",
+    "entryIDs": [
+      "safeguards_overview"
+    ],
+    "headerLevel": 3,
+    "translations": {
+      "label": {
+        "es": "Salvaguardias",
+        "id": "Perlindungan",
+        "pt": "Salvaguardas",
+        "fr": ""
+      }
+    },
+    "paragraphCode": "3.3.3"
+  },
+  {
+    "label": "Social",
+    "entryIDs": [
+      "safeguards_social_rights_and_tenure",
+      "safeguards_social_transparency_and_participation",
+      "safeguards_social_benefits_sharing"
+    ],
+    "headerLevel": 4,
+    "translations": {
+      "label": {
+        "es": "Social",
+        "id": "Sosial",
+        "pt": "Social",
+        "fr": ""
+      }
+    },
+    "paragraphCode": "3.3.3.1"
+  },
+  {
+    "label": "Environmental",
+    "entryIDs": [
+      "safeguards_environmental_ecosystem_services",
+      "safeguards_environmental_biodiversity"
+    ],
+    "headerLevel": 4,
+    "translations": {
+      "label": {
+        "es": "Ambiental",
+        "id": "Lingkungan",
+        "pt": "Ambientais",
+        "fr": ""
+      }
+    },
+    "paragraphCode": "3.3.3.2"
+  },
+  {
+    "label": "Financing",
+    "entryIDs": [],
+    "headerLevel": 1,
+    "translations": {
+      "label": {
+        "es": "Financiación",
+        "id": "Pendanaan",
+        "pt": "Financiamento",
+        "fr": ""
+      }
+    },
+    "paragraphCode": "4"
+  },
+  {
+    "label": "Financing Summary",
+    "entryIDs": [
+      "redd_agriculture_and_forestry_revenue"
+    ],
+    "headerLevel": 2,
+    "translations": {
+      "label": {
+        "es": "Resumen de financiación",
+        "id": "Rangkuman Pendanaan",
+        "pt": "Resumo do financiamento",
+        "fr": ""
+      }
+    },
+    "paragraphCode": "4.1"
+  },
+  {
+    "label": "REDD Program Development",
+    "entryIDs": [
+      "redd_state_financing",
+      "redd_region_specific_fund",
+      "redd_total_national_financing",
+      "redd_other_funding_sources"
+    ],
+    "headerLevel": 2,
+    "translations": {
+      "label": {
+        "es": "Desarrollo del programa de REDD",
+        "id": "Pengembangan Program REDD",
+        "pt": "Desenvolvimento do Programa REDD",
+        "fr": ""
+      }
+    },
+    "paragraphCode": "4.2"
+  },
+  {
+    "label": "REDD Projects",
+    "entryIDs": [
+      "redd_project"
+    ],
+    "headerLevel": 2,
+    "translations": {
+      "label": {
+        "es": "Proyectos REDD",
+        "id": "Proyek REDD",
+        "pt": "Projetos de REDD",
+        "fr": ""
+      }
+    },
+    "paragraphCode": "4.3"
+  }
+]

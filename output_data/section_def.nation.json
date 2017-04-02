@@ -1,0 +1,76 @@
+[
+  {
+    "label": "Background Information",
+    "entryIDs": [
+      "national_land_area",
+      "national_percent_forested",
+      "txt_laws",
+      "txt_policies_and_plans",
+      "txt_institutions"
+    ],
+    "headerLevel": 1,
+    "translations": {
+      "label": {
+        "es": "Información de fondo",
+        "id": "Informasi Latar Belakang",
+        "pt": "Informações de contextualização",
+        "fr": ""
+      }
+    },
+    "paragraphCode": "1"
+  },
+  {
+    "label": "Deforestation",
+    "entryIDs": [
+      "national_deforestation_rate"
+    ],
+    "headerLevel": 1,
+    "translations": {
+      "label": {
+        "es": "Deforestación",
+        "id": "Deforestasi",
+        "pt": "Desmatamento",
+        "fr": ""
+      }
+    },
+    "paragraphCode": "2"
+  },
+  {
+    "label": "Demographics",
+    "entryIDs": [
+      "national_population",
+      "national_urban_vs_rural_population_percent",
+      "national_social_groups_percent"
+    ],
+    "headerLevel": 1,
+    "translations": {
+      "label": {
+        "es": "Características demográficas",
+        "id": "Demografi",
+        "pt": "Dados demográficos",
+        "fr": ""
+      }
+    },
+    "paragraphCode": "3"
+  },
+  {
+    "label": "Economy",
+    "entryIDs": [
+      "national_gdp",
+      "national_per_capita_income",
+      "national_human_development_index",
+      "national_main_exports",
+      "national_gdp_breakdown_percent"
+    ],
+    "headerLevel": 1,
+    "translations": {
+      "label": {
+        "es": "Economía",
+        "id": "Ekonomi",
+        "pt": "Economia",
+        "fr": ""
+      }
+    },
+    "paragraphCode": "4"
+  }
+]

@@ -1,0 +1,2519 @@
+[
+  {
+    "id": "national_deforestation_rate",
+    "label": "Annual Deforestation Rate",
+    "units": "km²/yr",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Tasa anual de deforestación",
+        "id": "Tingkat Deforestasi Tahunan",
+        "pt": "Taxa anual de desmatamento",
+        "fr": ""
+      },
+      "units": {
+        "es": "Año, km²/año",
+        "id": "Tahun, km²/thn",
+        "pt": "Ano, km²/ano",
+        "fr": ""
+      }
+    },
+    "type": "national_deforestation_rate",
+    "entries": [
+      {
+        "id": 0,
+        "label": "2000",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2000",
+            "id": "2000",
+            "pt": "2000",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 1,
+        "label": "2001",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2001",
+            "id": "2001",
+            "pt": "2001",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 2,
+        "label": "2002",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2002",
+            "id": "2002",
+            "pt": "2002",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 3,
+        "label": "2003",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2003",
+            "id": "2003",
+            "pt": "2003",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 4,
+        "label": "2004",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2004",
+            "id": "2004",
+            "pt": "2004",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 5,
+        "label": "2005",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2005",
+            "id": "2005",
+            "pt": "2005",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 6,
+        "label": "2006",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2006",
+            "id": "2006",
+            "pt": "2006",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 7,
+        "label": "2007",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2007",
+            "id": "2007",
+            "pt": "2007",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 8,
+        "label": "2008",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2008",
+            "id": "2008",
+            "pt": "2008",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 9,
+        "label": "2009",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2009",
+            "id": "2009",
+            "pt": "2009",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 10,
+        "label": "2010",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2010",
+            "id": "2010",
+            "pt": "2010",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 11,
+        "label": "2011",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2011",
+            "id": "2011",
+            "pt": "2011",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 12,
+        "label": "2012",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2012",
+            "id": "2012",
+            "pt": "2012",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 13,
+        "label": "2013",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2013",
+            "id": "2013",
+            "pt": "2013",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 14,
+        "label": "2014",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2014",
+            "id": "2014",
+            "pt": "2014",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 15,
+        "label": "2015",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2015",
+            "id": "2015",
+            "pt": "2015",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      }
+    ],
+    "subunitType": "nation"
+  },
+  {
+    "id": "national_urban_vs_rural_population_percent",
+    "label": "Urban vs. Rural Population",
+    "units": "%",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Población urbana vs. rural",
+        "id": "Populasi Perkotaan vs. Pedesaan",
+        "pt": "Comparação: População urbana e rural",
+        "fr": ""
+      },
+      "units": {
+        "es": "%",
+        "id": "%",
+        "pt": "%",
+        "fr": ""
+      }
+    },
+    "type": "national_urban_vs_rural_population_percent",
+    "entries": [
+      {
+        "id": 1,
+        "label": "Urban",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Urbana",
+            "id": "Perkotaan",
+            "pt": "Urbana",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 2,
+        "label": "Rural",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Rural",
+            "id": "Pedesaan",
+            "pt": "Rural",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      }
+    ],
+    "subunitType": "nation"
+  },
+  {
+    "id": "national_social_groups_percent",
+    "label": "Ethnic Groups",
+    "units": "%",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Grupos étnicos",
+        "id": "Kelompok Suku",
+        "pt": "Grupos étnicos",
+        "fr": ""
+      },
+      "units": {
+        "es": "Grupo social, %",
+        "id": "Kelompok Sosial, %",
+        "pt": "Grupo social, %",
+        "fr": ""
+      }
+    },
+    "type": "national_social_groups_percent",
+    "entries": [],
+    "subunitType": "nation"
+  },
+  {
+    "id": "national_gdp_breakdown_percent",
+    "label": "GDP Breakdown",
+    "units": "%",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Desglose del PIB",
+        "id": "Rincian GDP",
+        "pt": "Detalhamento do PIB",
+        "fr": ""
+      },
+      "units": {
+        "es": "%",
+        "id": "%",
+        "pt": "%",
+        "fr": ""
+      }
+    },
+    "type": "national_gdp_breakdown_percent",
+    "entries": [
+      {
+        "id": 1,
+        "label": "Agriculture",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Agricultura",
+            "id": "Pertanian",
+            "pt": "Agricultura",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 2,
+        "label": "Industry",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Industria",
+            "id": "Industri",
+            "pt": "Indústria",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 3,
+        "label": "Services",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Servicios",
+            "id": "Jasa",
+            "pt": "Serviços",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 4,
+        "label": "Forestry",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Productos forestales",
+            "id": "Kehutanan",
+            "pt": "Silvicultura",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 5,
+        "label": "Mining",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Minería",
+            "id": "Pertambangan",
+            "pt": "Mineração",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      }
+    ],
+    "subunitType": "nation"
+  },
+  {
+    "id": "governor",
+    "label": "Governor",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "governor",
+    "entries": [
+      {
+        "id": "first_name",
+        "label": "First Name",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": "last_name",
+        "label": "Last Name",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      }
+    ],
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "representative_1",
+    "label": "Representative 1",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "representative_1",
+    "entries": [
+      {
+        "id": "first_name",
+        "label": "First Name",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": "last_name",
+        "label": "Last Name",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": "title",
+        "label": "Title",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": "email",
+        "label": "Email",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      }
+    ],
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "representative_2",
+    "label": "Representative 2",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "representative_2",
+    "entries": [
+      {
+        "id": "first_name",
+        "label": "First Name",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": "last_name",
+        "label": "Last Name",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": "title",
+        "label": "Title",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": "email",
+        "label": "Email",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      }
+    ],
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "urban_vs_rural_population_percent",
+    "label": "Urban vs. Rural Population",
+    "units": "%",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Población urbana vs. rural",
+        "id": "Populasi Perkotaan vs. Pedesaan",
+        "pt": "Comparação: População urbana e rural",
+        "fr": ""
+      },
+      "units": {
+        "es": "%",
+        "id": "%",
+        "pt": "%",
+        "fr": ""
+      }
+    },
+    "type": "urban_vs_rural_population_percent",
+    "entries": [
+      {
+        "id": 1,
+        "label": "Urban",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Urbana",
+            "id": "Perkotaan",
+            "pt": "Urbana",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 2,
+        "label": "Rural",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Rural",
+            "id": "Pedesaan",
+            "pt": "Rural",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      }
+    ],
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "social_groups_percent",
+    "label": "Ethnic Groups",
+    "units": "%",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Grupos étnicos",
+        "id": "Kelompok Suku",
+        "pt": "Grupos étnicos",
+        "fr": ""
+      },
+      "units": {
+        "es": "%",
+        "id": "%",
+        "pt": "%",
+        "fr": ""
+      }
+    },
+    "type": "social_groups_percent",
+    "entries": [],
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "gdp_breakdown_percent",
+    "label": "GDP Breakdown",
+    "units": "%",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Desglose del PIB",
+        "id": "Rincian GDP",
+        "pt": "Detalhamento do PIB",
+        "fr": ""
+      },
+      "units": {
+        "es": "%",
+        "id": "%",
+        "pt": "%",
+        "fr": ""
+      }
+    },
+    "type": "gdp_breakdown_percent",
+    "entries": [
+      {
+        "id": 1,
+        "label": "Services",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Servicios",
+            "id": "Jasa",
+            "pt": "",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 2,
+        "label": "Agriculture",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Agricultura",
+            "id": "Pertanian",
+            "pt": "",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 3,
+        "label": "Forestry",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Productos forestales",
+            "id": "Kehutanan",
+            "pt": "",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 4,
+        "label": "Industry",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Industria",
+            "id": "Industri",
+            "pt": "",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 5,
+        "label": "Mining",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Minería",
+            "id": "Pertambangan",
+            "pt": "",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      }
+    ],
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "current_forest_area_typologies",
+    "label": "Major Vegetation Types",
+    "units": "km²",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Principales tipos de vegetación",
+        "id": "Vegetasi Jenis Utama",
+        "pt": "Principais tipos de vegetação",
+        "fr": ""
+      },
+      "units": {
+        "es": "km²",
+        "id": "km²",
+        "pt": "km²",
+        "fr": ""
+      }
+    },
+    "type": "current_forest_area_typologies",
+    "entries": [
+      {
+        "id": 1,
+        "label": "Upland Dense Humid Forest",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Bosques lluviosos densos de montaña",
+            "id": "Hutan Lebat Lembab Dataran Tinggi",
+            "pt": "Floresta úmida densa de terra firme",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 2,
+        "label": "Floodplain Forest",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Bosques de llanura aluvial",
+            "id": "Hutan Dataran Banjir",
+            "pt": "Floresta de várzea",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 3,
+        "label": "Upland/Transition Dry Forest",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Bosques secos de montaña/de transición",
+            "id": "Hutan Kering Dataran Tinggi",
+            "pt": "Floresta seca de terra firme/de transição",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 4,
+        "label": "Savannah",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Sabanas",
+            "id": "Sabana/Padang Rumput",
+            "pt": "Savana",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 5,
+        "label": "Woodlands",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Áreas forestales de densidad variada",
+            "id": "Hutan Kecil/Woodlands",
+            "pt": "Bosques",
+            "fr": ""
+          },
+          "units": {
+            "es": "Woodlands",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 6,
+        "label": "Peat Forest",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Bosques de turba",
+            "id": "Hutan Gambut",
+            "pt": "Floresta de turfa",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 7,
+        "label": "Wetlands",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Humedales",
+            "id": "Lahan Basah",
+            "pt": "Áreas úmidas",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 8,
+        "label": "Mangroves",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Manglares",
+            "id": "Mangrove",
+            "pt": "Mangues",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      }
+    ],
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "conserved_forest_area_breakdown",
+    "label": "",
+    "units": "km²",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      },
+      "units": {
+        "es": "km²",
+        "id": "km²",
+        "pt": "km²",
+        "fr": ""
+      }
+    },
+    "type": "conserved_forest_area_breakdown",
+    "entries": [
+      {
+        "id": "total",
+        "label": "Conserved Forest Area",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Superficie total de bosques conservados",
+            "id": "Total Luas Kawasan Hutan yang Dilindungi",
+            "pt": "Área de floresta conservada total",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 1,
+        "label": "Extractive Reserve",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Reservas de extracción",
+            "id": "Kawasan Cadangan Ekstraktif",
+            "pt": "Reserva extrativista",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 2,
+        "label": "Indigenous Territories",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Territorios indígenas",
+            "id": "Wilayah Adat",
+            "pt": "Territórios indígenas",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 3,
+        "label": "State/Province",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Estatales",
+            "id": "Negara Bagian",
+            "pt": "Estado",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 4,
+        "label": "National",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Nacionales",
+            "id": "Nasional",
+            "pt": "Nacional",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 5,
+        "label": "Private",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Privados",
+            "id": "Swasta/Pribadi",
+            "pt": "Privado",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      }
+    ],
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "fully_protected_forest_area_breakdown",
+    "label": "",
+    "units": "km²",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "",
+        "id": "Hutan Lindung",
+        "pt": "Floresta de proteção integral",
+        "fr": ""
+      },
+      "units": {
+        "es": "km²",
+        "id": "km²",
+        "pt": "km²",
+        "fr": ""
+      }
+    },
+    "type": "fully_protected_forest_area_breakdown",
+    "entries": [
+      {
+        "id": "total",
+        "label": "Fully Protected Forest Area",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Superficie total de bosques totalmente protegidos",
+            "id": "Total Luas Kawasan Hutan Lindung",
+            "pt": "Área de floresta de proteção integral total",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 1,
+        "label": "National",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Nacionales",
+            "id": "Nasional",
+            "pt": "Nacional",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 2,
+        "label": "State/Province",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Estatales",
+            "id": "Negara Bagian",
+            "pt": "Estado",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      }
+    ],
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "sustainably_managed_forest_area_breakdown",
+    "label": "",
+    "units": "km²",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      },
+      "units": {
+        "es": "km²",
+        "id": "km²",
+        "pt": "km²",
+        "fr": ""
+      }
+    },
+    "type": "sustainably_managed_forest_area_breakdown",
+    "entries": [
+      {
+        "id": "total",
+        "label": "Sustainably Managed Forest Area",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Superficie total de bosques manejados sustentablemente",
+            "id": "Total Luas Kawasan Hutan yang Dikelola Secara Berkelanjutan",
+            "pt": "Área de floresta de manejo sustentável total",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 1,
+        "label": "National",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Nacionales",
+            "id": "Nasional",
+            "pt": "Nacional",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 2,
+        "label": "State/Province",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Estatales",
+            "id": "Negara Bagian",
+            "pt": "Estado",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 3,
+        "label": "Private",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Privados",
+            "id": "Swasta/Pribadi",
+            "pt": "Privado",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      }
+    ],
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "deforestation_rates",
+    "label": "Deforestation Rates",
+    "units": "km²/yr",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Tasas de deforestación",
+        "id": "Tingkat Deforestasi",
+        "pt": "Taxas de desmatamento",
+        "fr": ""
+      },
+      "units": {
+        "es": "km²/año",
+        "id": "km²/thn",
+        "pt": "km²/ano",
+        "fr": ""
+      }
+    },
+    "type": "deforestation_rates",
+    "entries": [
+      {
+        "id": 1,
+        "label": "1996",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "1996",
+            "id": "1996",
+            "pt": "1996",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 2,
+        "label": "1997",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "1997",
+            "id": "1997",
+            "pt": "1997",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 3,
+        "label": "1998",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "1998",
+            "id": "1998",
+            "pt": "1998",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 4,
+        "label": "1999",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "1999",
+            "id": "1999",
+            "pt": "1999",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 5,
+        "label": "2000",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2000",
+            "id": "2000",
+            "pt": "2000",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 6,
+        "label": "2001",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2001",
+            "id": "2001",
+            "pt": "2001",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 7,
+        "label": "2002",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2002",
+            "id": "2002",
+            "pt": "2002",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 8,
+        "label": "2003",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2003",
+            "id": "2003",
+            "pt": "2003",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 9,
+        "label": "2004",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2004",
+            "id": "2004",
+            "pt": "2004",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 10,
+        "label": "2005",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2005",
+            "id": "2005",
+            "pt": "2005",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 11,
+        "label": "2006",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2006",
+            "id": "2006",
+            "pt": "2006",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 12,
+        "label": "2007",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2007",
+            "id": "2007",
+            "pt": "2007",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 13,
+        "label": "2008",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2008",
+            "id": "2008",
+            "pt": "2008",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 14,
+        "label": "2009",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2009",
+            "id": "2009",
+            "pt": "2009",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 15,
+        "label": "2010",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2010",
+            "id": "2010",
+            "pt": "2010",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 16,
+        "label": "2011",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2011",
+            "id": "2011",
+            "pt": "2011",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 17,
+        "label": "2012",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2012",
+            "id": "2012",
+            "pt": "2012",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 18,
+        "label": "2013",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2013",
+            "id": "2013",
+            "pt": "2013",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 19,
+        "label": "2014",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2014",
+            "id": "2014",
+            "pt": "2014",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 20,
+        "label": "2015",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2015",
+            "id": "2015",
+            "pt": "2015",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      }
+    ],
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "deforestation_vs_degradation",
+    "label": "Deforestation vs. Degradation",
+    "units": "%",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Deforestación vs. Degradación",
+        "id": "Deforestasi vs. Degradasi",
+        "pt": "Comparação: desmatamento e degradação",
+        "fr": ""
+      },
+      "units": {
+        "es": "%",
+        "id": "%",
+        "pt": "%",
+        "fr": ""
+      }
+    },
+    "type": "deforestation_vs_degradation",
+    "entries": [
+      {
+        "id": 1,
+        "label": "Intact Forest Area",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Superficie de bosques intactos",
+            "id": "Luas Kawasan Hutan yang Masih Baik",
+            "pt": "Área florestal intacta",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 2,
+        "label": "Deforested Area",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Superficie de zonas deforestadas",
+            "id": "Luas Kawasan Terdeforestasi",
+            "pt": "Área desmatada",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 3,
+        "label": "Degraded Area",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Superficie de zonas degradadas",
+            "id": "Luas Kawasan Terdegradasi",
+            "pt": "Área degradada",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      }
+    ],
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "forest_degradation_rates",
+    "label": "Forest Degradation Rates",
+    "units": "km²/yr",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Tasas de degradación de bosques",
+        "id": "Tingkat Degradasi Hutan",
+        "pt": "Taxas de degradação florestal",
+        "fr": ""
+      },
+      "units": {
+        "es": "km²/año",
+        "id": "km²/thn",
+        "pt": "km²/ano",
+        "fr": ""
+      }
+    },
+    "type": "forest_degradation_rates",
+    "entries": [
+      {
+        "id": 1,
+        "label": "2007",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2007",
+            "id": "2007",
+            "pt": "2007",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 2,
+        "label": "2008",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2008",
+            "id": "2008",
+            "pt": "2008",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 3,
+        "label": "2009",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2009",
+            "id": "2009",
+            "pt": "2009",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 4,
+        "label": "2010",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2010",
+            "id": "2010",
+            "pt": "2010",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 5,
+        "label": "2011",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2011",
+            "id": "2011",
+            "pt": "2011",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 6,
+        "label": "2012",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2012",
+            "id": "2012",
+            "pt": "2012",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 7,
+        "label": "2013",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2013",
+            "id": "2013",
+            "pt": "2013",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 8,
+        "label": "2014",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2014",
+            "id": "2014",
+            "pt": "2014",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": 9,
+        "label": "2015",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "2015",
+            "id": "2015",
+            "pt": "2015",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      }
+    ],
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "forest_classes",
+    "label": "Forest Classes",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "Clases de bosques",
+        "id": "Klas Hutan",
+        "pt": "Classes de florestas",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "forest_classes",
+    "entries": [
+      {
+        "id": "types",
+        "label": "Number of Forest Types",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Número de tipos de bosques",
+            "id": "Jumlah Tipe Hutan",
+            "pt": "Número de tipos de florestas",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      },
+      {
+        "id": "plots",
+        "label": "Number of Plots",
+        "units": "",
+        "choices": [],
+        "translations": {
+          "label": {
+            "es": "Número de parcelas",
+            "id": "Jumlah Plot",
+            "pt": "Número de parcelas",
+            "fr": ""
+          },
+          "units": {
+            "es": "",
+            "id": "",
+            "pt": "",
+            "fr": ""
+          }
+        },
+        "type": ""
+      }
+    ],
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "redd_program_progress_0",
+    "label": "Program 1",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "",
+        "id": "Strategi pengurangan emisi gas rumah kaca",
+        "pt": "",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "redd_program_progress_0",
+    "entries": [],
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "redd_program_progress_1",
+    "label": "Program 2",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "",
+        "id": "Peraturan-peraturan terkait REDD",
+        "pt": "",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "redd_program_progress_1",
+    "entries": [],
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "redd_program_progress_2",
+    "label": "Program 3",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "",
+        "id": "Perencanaan tata ruang",
+        "pt": "",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "redd_program_progress_2",
+    "entries": [],
+    "subunitType": "jurisdiction"
+  },
+  {
+    "id": "redd_program_progress_3",
+    "label": "Program 4",
+    "units": "",
+    "choices": [],
+    "translations": {
+      "label": {
+        "es": "",
+        "id": "Keterlibatan stakeholder",
+        "pt": "",
+        "fr": ""
+      },
+      "units": {
+        "es": "",
+        "id": "",
+        "pt": "",
+        "fr": ""
+      }
+    },
+    "type": "redd_program_progress_3",
+    "entries": [],
+    "subunitType": "jurisdiction"
+  }
+]
