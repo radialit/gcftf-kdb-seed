@@ -102,7 +102,11 @@ function getNewSectionParagraphCode(priorSectionCodeArg = '', newSectionHeaderLe
 }
 
 function getEntryPrefix(rowObj) {
-  return ROWIDS_THAT_ARE_SECTIONS.includes(rowObj.rowID) ? `${rowObj.rowID}_` : '';
+  const PREFIX_SEPARATOR = '-';
+  // note the use of '-' to separate the prefix from the base ID
+  // since the old data never used '-' in IDs, we are assured the
+  // the new prefixed ID is unique
+  return ROWIDS_THAT_ARE_SECTIONS.includes(rowObj.rowID) ? `${rowObj.rowID}${PREFIX_SEPARATOR}` : '';
 }
 
 module.exports = { isSection, isValid, getNewSection, getNewSectionParagraphCode, getEntryPrefix };
