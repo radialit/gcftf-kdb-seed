@@ -21,8 +21,10 @@ This data will be formatted and organized in a better format. Initially data wil
 
 ### Phase 2 Parse Data (Value) Files
 
-- [] Include source_data XML value files
-- [] Get a directory listing of directories (synchronous) for use parsing archives
-- [] Get a directory listing of files (synchronous) since each subunit's data is stored in its own XML file
-- [] Read each XML file (synchronous)
-- [] Parse XML (asynchronous promises)
+- [x] Include source_data XML value files
+- [x] Get a directory listing of directories (synchronous) for use in parsing archives
+- [x] Get a directory listing of files (synchronous) since each subunit's data is stored in its own XML file
+- [x] Read each XML file (synchronous)
+- [x] Parse XML (asynchronous promises) into a raw data
+- [x] Parse raw XML data (with most information in attributes) into an array of entry objects suitable for post processing and storing
+- [] use archival XML data to determine change times and create approximate "timestamps" for each entry

@@ -4,7 +4,7 @@
   "engines": {
     "node": ">=6.10.0"
   },
-  "description": "Script for seeding database from XML and spreadsheet sources",
+  "description": "Script for seeding a new database from the existing \"GCF Task Force Knowledge Database\" XML and spreadsheet source files",
   "main": "index.js",
   "author": "Darren Anderson",
   "license": "ISC",
