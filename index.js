@@ -25,6 +25,7 @@ function main() {
   debug('starting');
   try {
     const data = tp.parse();
+    debug(data.entryDatatypeLookup);
     fs.outputJsonSync(path.join(OUTPUT_DATA_DIR, 'section_def.nation.json'), data.sections.nation);
     fs.outputJsonSync(path.join(OUTPUT_DATA_DIR, 'section_def.jurisdiction.json'), data.sections.jurisdiction);
     fs.outputJsonSync(path.join(OUTPUT_DATA_DIR, 'entry_def.scalar.json'), data.entries.scalars);

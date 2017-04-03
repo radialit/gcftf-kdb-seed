@@ -1406,7 +1406,7 @@
     "subunitType": "jurisdiction"
   },
   {
-    "id": "redd_programs_overview",
+    "id": "redd_programs-overview",
     "label": "Overview",
     "units": "",
     "choices": [],
@@ -1428,7 +1428,7 @@
     "subunitType": "jurisdiction"
   },
   {
-    "id": "redd_programs_laws_and_regulations",
+    "id": "redd_programs-laws_and_regulations",
     "label": "Laws & Regulations",
     "units": "",
     "choices": [],
@@ -1450,7 +1450,7 @@
     "subunitType": "jurisdiction"
   },
   {
-    "id": "institutional_framework_state_province",
+    "id": "institutional_framework-state_province",
     "label": "State/Province",
     "units": "",
     "choices": [],
@@ -1472,7 +1472,7 @@
     "subunitType": "jurisdiction"
   },
   {
-    "id": "institutional_framework_federal_national",
+    "id": "institutional_framework-federal_national",
     "label": "Federal/National",
     "units": "",
     "choices": [],
@@ -1494,7 +1494,7 @@
     "subunitType": "jurisdiction"
   },
   {
-    "id": "institutional_framework_redd_governance",
+    "id": "institutional_framework-redd_governance",
     "label": "REDD Governance",
     "units": "",
     "choices": [],
@@ -1516,7 +1516,7 @@
     "subunitType": "jurisdiction"
   },
   {
-    "id": "safeguards_overview",
+    "id": "safeguards-overview",
     "label": "Overview",
     "units": "",
     "choices": [],
@@ -1538,7 +1538,7 @@
     "subunitType": "jurisdiction"
   },
   {
-    "id": "safeguards_social_rights_and_tenure",
+    "id": "safeguards-social_rights_and_tenure",
     "label": "Rights & Tenure",
     "units": "",
     "choices": [],
@@ -1560,7 +1560,7 @@
     "subunitType": "jurisdiction"
   },
   {
-    "id": "safeguards_social_transparency_and_participation",
+    "id": "safeguards-social_transparency_and_participation",
     "label": "Transparency & Participation",
     "units": "",
     "choices": [],
@@ -1582,7 +1582,7 @@
     "subunitType": "jurisdiction"
   },
   {
-    "id": "safeguards_social_benefits_sharing",
+    "id": "safeguards-social_benefits_sharing",
     "label": "Benefits Sharing",
     "units": "",
     "choices": [],
@@ -1604,7 +1604,7 @@
     "subunitType": "jurisdiction"
   },
   {
-    "id": "safeguards_environmental_ecosystem_services",
+    "id": "safeguards-environmental_ecosystem_services",
     "label": "Ecosystem Services",
     "units": "",
     "choices": [],
@@ -1626,7 +1626,7 @@
     "subunitType": "jurisdiction"
   },
   {
-    "id": "safeguards_environmental_biodiversity",
+    "id": "safeguards-environmental_biodiversity",
     "label": "Biodiversity",
     "units": "",
     "choices": [],

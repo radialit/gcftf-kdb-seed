@@ -319,8 +319,8 @@
   {
     "label": "Programs",
     "entryIDs": [
-      "redd_programs_overview",
-      "redd_programs_laws_and_regulations"
+      "redd_programs-overview",
+      "redd_programs-laws_and_regulations"
     ],
     "headerLevel": 3,
     "translations": {
@@ -336,9 +336,9 @@
   {
     "label": "Institutional Framework",
     "entryIDs": [
-      "institutional_framework_state_province",
-      "institutional_framework_federal_national",
-      "institutional_framework_redd_governance"
+      "institutional_framework-state_province",
+      "institutional_framework-federal_national",
+      "institutional_framework-redd_governance"
     ],
     "headerLevel": 3,
     "translations": {
@@ -354,7 +354,7 @@
   {
     "label": "Safeguards",
     "entryIDs": [
-      "safeguards_overview"
+      "safeguards-overview"
     ],
     "headerLevel": 3,
     "translations": {
@@ -370,9 +370,9 @@
   {
     "label": "Social",
     "entryIDs": [
-      "safeguards_social_rights_and_tenure",
-      "safeguards_social_transparency_and_participation",
-      "safeguards_social_benefits_sharing"
+      "safeguards-social_rights_and_tenure",
+      "safeguards-social_transparency_and_participation",
+      "safeguards-social_benefits_sharing"
     ],
     "headerLevel": 4,
     "translations": {
@@ -388,8 +388,8 @@
   {
     "label": "Environmental",
     "entryIDs": [
-      "safeguards_environmental_ecosystem_services",
-      "safeguards_environmental_biodiversity"
+      "safeguards-environmental_ecosystem_services",
+      "safeguards-environmental_biodiversity"
     ],
     "headerLevel": 4,
     "translations": {

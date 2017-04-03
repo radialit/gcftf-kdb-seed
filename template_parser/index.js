@@ -65,10 +65,14 @@ function getRowObj(rowArray) {
 }
 
 function parse() {
-  const data = { sections: {}, entries: { scalars: [], collections: [] } };
+  const data = {
+    sections: {},
+    entries: { scalars: [], collections: [] },
+    entryDatatypeLookup: {} };
   Object.keys(SUBUNIT_TYPE_FILE_LOOKUP).forEach((subunitType) => {
     // subgroup by subunit type (nation or jurisdiction)
     data.sections[subunitType] = [];
+    data.entryDatatypeLookup[subunitType] = {};
     const fileName = SUBUNIT_TYPE_FILE_LOOKUP[subunitType];
     const filePath = path.join(SOURCE_DATA_TEMPLATE_DIR, fileName);
     try {
@@ -104,7 +108,7 @@ function parse() {
               activeEntry.subunitType = subunitType;
               data.entries.collections.push(activeEntry);
               // update entryTypes lookup
-              // entryTypes[subunitType].push({ id: activeEntry.id, type: 'collection' });
+              data.entryDatatypeLookup[subunitType][activeEntry.id] = dataType;
             } else {
               isCollection = false;
               activeEntry = ep.getNewScalarEntry(rowObj);
@@ -113,7 +117,7 @@ function parse() {
               activeEntry.id = `${entryIDPrefix}${activeEntry.id}`;
               data.entries.scalars.push(activeEntry);
               // update entryTypes lookup
-              // entryTypes[subunitType].push({ id: activeEntry.id, type: dataType });
+              data.entryDatatypeLookup[subunitType][activeEntry.id] = dataType;
             }
             activeSection.entryIDs.push(activeEntry.id);
           } else {
