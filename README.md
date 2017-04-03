@@ -17,7 +17,7 @@ This data will be formatted and organized in a better format. Initially data wil
 - [x] Parse sections
 - [x] Parse entries
 - [x] Save sections and entries to JSON output files
-- [] Include template_parser tests to check for returned data
+- [ ] Include template_parser tests to check for returned data
 
 ### Phase 2 Parse Data (Value) Files
 
@@ -27,4 +27,4 @@ This data will be formatted and organized in a better format. Initially data wil
 - [x] Read each XML file (synchronous)
 - [x] Parse XML (asynchronous promises) into a raw data
 - [x] Parse raw XML data (with most information in attributes) into an array of entry objects suitable for post processing and storing
-- [] use archival XML data to determine change times and create approximate "timestamps" for each entry
+- [ ] use archival XML data to determine change times and create approximate "timestamps" for each entry
