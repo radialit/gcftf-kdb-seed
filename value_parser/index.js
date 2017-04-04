@@ -71,6 +71,16 @@ function getEntries(rawData, timestamp) {
         pendingEntries.push(getDefaultEntry(pendingValue));
       }
     }
+    function processNumberEntry() {
+      const finalValue = cleanup.number(datum.value);
+      const pendingValue = cleanup.number(datum['editor-value']);
+      if (!Number.isNaN(finalValue)) {
+        finalEntries.push(getDefaultEntry(finalValue));
+      }
+      if (!Number.isNaN(pendingValue) && (finalValue !== pendingValue)) {
+        pendingEntries.push(getDefaultEntry(pendingValue));
+      }
+    }
     switch (dataType) {
       case 'text':
         processTextEntry();
@@ -80,6 +90,9 @@ function getEntries(rawData, timestamp) {
         break;
       case 'enum':
         processEnumEntry();
+        break;
+      case 'number':
+        processNumberEntry();
         break;
       default:
         break;

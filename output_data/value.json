@@ -3,6 +3,50 @@
     "final": [
       {
         "id": "",
+        "dataType": "number",
+        "value": 8514876.6,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 59.28,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 206786767,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 755,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "Mining, petroleum, transportation equipment, soy, sugar, ethanol, meat & coffee.",
         "valueNative": "",
@@ -64,6 +108,39 @@
     "final": [
       {
         "id": "",
+        "dataType": "number",
+        "value": 164221,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 733559,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 0.751,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "Agriculture, Forestry, Meat, Fishing",
         "valueNative": "",
@@ -75,8 +152,63 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 164221,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 143835.7,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 89241,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 20385.3,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "Cattle Ranching, Land Speculation, Agriculture, Roads, Logging",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 177,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -108,6 +240,17 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 164,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "2020",
         "valueNative": "",
@@ -121,6 +264,17 @@
         "id": "",
         "dataType": "enum",
         "value": 0,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 108,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -154,6 +308,72 @@
         "id": "",
         "dataType": "enum",
         "value": 0,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 151.2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 25.8,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 45,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 9,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 82,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 602,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -344,8 +564,74 @@
     "final": [
       {
         "id": "",
+        "dataType": "number",
+        "value": 142828.52,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 782295,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 0.708,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "Gold iron and other ores, wood and fruit.",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 113946.75,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 24977,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 278.52,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -410,6 +696,61 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 182.1,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 6.02,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 109339,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 96.42,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 3.17,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "enum",
         "value": 0,
         "valueNative": "",
@@ -434,6 +775,17 @@
         "id": "",
         "dataType": "string",
         "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 22.7,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -560,9 +912,31 @@
           "valueNative": "2017-03-09T08:55"
         },
         "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 80,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
       }
     ],
     "pending": [
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 40.7853072,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
       {
         "id": "",
         "dataType": "text",
@@ -591,8 +965,96 @@
     "final": [
       {
         "id": "",
+        "dataType": "number",
+        "value": 1559161,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 3483985,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 0.713,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "Industrial (electronics, motorcycles)",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 1601940.62,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 1487211.51,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 662623,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 20045,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 206.9,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -615,6 +1077,17 @@
         "id": "",
         "dataType": "string",
         "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 158,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -657,6 +1130,17 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 151.2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "1996-2005",
         "valueNative": "",
@@ -670,6 +1154,17 @@
         "id": "",
         "dataType": "string",
         "value": "2012",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 867.9,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -818,16 +1313,105 @@
           "value": "2017-03-09T08:55"
         },
         "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 60,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 350,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 55.7,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
       }
     ],
-    "pending": []
+    "pending": [
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 80,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      }
+    ]
   },
   "brazil.maranhao": {
     "final": [
       {
         "id": "",
+        "dataType": "number",
+        "value": 331936.955,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 6954036,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 0.639,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "Minério de ferro, alumínio, alumina, soja, ferrogusa",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 16118814,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -850,6 +1434,17 @@
         "id": "",
         "dataType": "enum",
         "value": 0,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 185,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -887,8 +1482,85 @@
     "final": [
       {
         "id": "",
+        "dataType": "number",
+        "value": 903329.7,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 3035122,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 0.796,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "Agricultural Products - soy, meat, corn and cotton",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 135345,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 527000,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 906806.9,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 183.7,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -953,8 +1625,52 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 127.7,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 664751,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 25,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "2011",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 1126,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -975,8 +1691,30 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 2400,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "1996-2005",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 7657.1,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -1102,6 +1840,17 @@
           "value": "2017-03-09T08:55"
         },
         "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 55.7,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
       }
     ],
     "pending": [
@@ -1120,6 +1869,17 @@
   },
   "brazil.para": {
     "final": [
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 208.4,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
       {
         "id": "",
         "dataType": "string",
@@ -1166,8 +1926,96 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 152.7,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 1247954666,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 7581051,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 0.755,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "Iron ore, aluminum, copper ore, manganese ore, beef, wood, black pepper, palm",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 251083,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 163,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 1253164.5,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 1001544,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -1199,6 +2047,17 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 66,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "2020",
         "valueNative": "",
@@ -1221,6 +2080,17 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 1250.92,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "2020",
         "valueNative": "",
@@ -1232,8 +2102,30 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 55.7,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "1996-2005",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 6254.6,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -1350,14 +2242,81 @@
         "isCurrent": false
       }
     ],
-    "pending": []
+    "pending": [
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 469967.62,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      }
+    ]
   },
   "brazil.rondonia": {
     "final": [
       {
         "id": "",
+        "dataType": "number",
+        "value": 237765.376,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 1562409,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 0.69,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "produtos bovinos, soja, estanho, milho, óleo diesel",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 182282,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 56485,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -1428,8 +2387,41 @@
     "final": [
       {
         "id": "",
+        "dataType": "number",
+        "value": 277620.914,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 1383445,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "Soy, meat, pineapple",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 8384,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -1450,8 +2442,41 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 0.756,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": -7580,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "2013",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 261.5,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -1483,6 +2508,28 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 198615,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 278420.7,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "enum",
         "value": 0,
         "valueNative": "",
@@ -1494,8 +2541,30 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 52.3,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "2013",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 129.1,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -1518,6 +2587,39 @@
         "id": "",
         "dataType": "string",
         "value": "2010",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 10307.9,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 73.4,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 55.7,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -1548,8 +2650,52 @@
     "final": [
       {
         "id": "",
+        "dataType": "number",
+        "value": 1922570,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 237641300,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "Textiles and related products, forest products, electronics, rubber and rubber products, oil palm and derivatives, automotive, footwear, fisheries, coffee and cocoa",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 0.617,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 71.1,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -1575,6 +2721,50 @@
     "final": [
       {
         "id": "",
+        "dataType": "number",
+        "value": 55390,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 4494410,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 37023,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 0.717,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "Mineral fuels, mineral oils and products of their distillation, inorganic chemicals, fertilizers, ores, slag, ash, cocoa and cocoa preparations",
         "valueNative": "",
@@ -1586,8 +2776,30 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 321,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "Poorly controlled infrastructure development, mining, conversion of forest to tree crop plantations (palm oil), settlement expansion, smallholder encroachment, illegal logging",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 186.45,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -1621,6 +2833,39 @@
         "id": "",
         "dataType": "enum",
         "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 594000000,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 31858,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 41,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -1768,9 +3013,53 @@
           "valueNative": "2017-03-09T08:55"
         },
         "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 7747,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
       }
     ],
     "pending": [
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 56771,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 4791924,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 56743,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
       {
         "id": "",
         "dataType": "string",
@@ -1797,6 +3086,17 @@
         "id": "",
         "dataType": "enum",
         "value": 0,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 35629,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -1878,6 +3178,50 @@
     "final": [
       {
         "id": "",
+        "dataType": "number",
+        "value": 153564,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 2202599,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 0.746,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 104.3,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": ".5",
         "valueNative": "",
@@ -1900,6 +3244,39 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 153201,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 87527,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 41,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "2020",
         "valueNative": "",
@@ -1913,6 +3290,17 @@
         "id": "",
         "dataType": "enum",
         "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 179,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -2041,6 +3429,17 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 5777,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "2009",
         "valueNative": "",
@@ -2060,9 +3459,53 @@
           "value": "2017-03-09T08:55"
         },
         "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 1820000000,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
       }
     ],
     "pending": [
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 153567,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 2384700,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 0.65,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
       {
         "id": "",
         "dataType": "string",
@@ -2157,8 +3600,74 @@
     "final": [
       {
         "id": "",
+        "dataType": "number",
+        "value": 245237.8,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 3690520,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 0.756,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "Fossil fuels, chemicals, oils and fats, timber and timber products.",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 146516,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 8848,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 172.89,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -2192,6 +3701,39 @@
         "id": "",
         "dataType": "enum",
         "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 2195850346,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 127005,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 41,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -2341,6 +3883,17 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 69970,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "2011",
         "valueNative": "",
@@ -2352,6 +3905,17 @@
       }
     ],
     "pending": [
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 198441.17,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
       {
         "id": "",
         "dataType": "string",
@@ -2457,6 +4021,39 @@
     "final": [
       {
         "id": "",
+        "dataType": "number",
+        "value": 309934.4,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 2928750,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 64.94,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "Raw materials, food & livestock, machinery and equipment",
         "valueNative": "",
@@ -2468,8 +4065,52 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 270324.56,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 1283.98,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 173.74,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "1",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 11.955,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -2492,6 +4133,39 @@
         "id": "",
         "dataType": "enum",
         "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 173.74,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 251677.86,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 27.08,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -2625,6 +4299,17 @@
         "citation": "",
         "timestamps": {
           "valueNative": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 37458.36,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
         },
         "isCurrent": false
       },
@@ -2772,8 +4457,74 @@
     "final": [
       {
         "id": "",
+        "dataType": "number",
+        "value": 146807,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 4477348,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 69.53,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "Rubber and rubber goods, coal and ore, timber and timber products",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 70983.08,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 1272.65,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 171.29,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -2807,6 +4558,39 @@
         "id": "",
         "dataType": "enum",
         "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 171.29,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 62659.34,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 41,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -3010,6 +4794,17 @@
           "valueNative": "2017-03-09T08:55"
         },
         "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 12943.5,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
       }
     ]
   },
@@ -3017,8 +4812,74 @@
     "final": [
       {
         "id": "",
+        "dataType": "number",
+        "value": 871510,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 70.62,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "Oil and gas, fish, shrimp, jewelery, wood, metals, cacao",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 91560.9,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 93778.55,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 26362.51,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": -5303.06,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -3041,6 +4902,50 @@
         "id": "",
         "dataType": "string",
         "value": "1",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 169.84,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 397.79,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 1.976,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 15.156,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -3074,6 +4979,17 @@
         "id": "",
         "dataType": "enum",
         "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 169.84,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -3133,7 +5049,52 @@
   },
   "ivory_coast": {
     "final": [],
-    "pending": []
+    "pending": [
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 322462,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 32.7,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 22671331,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 0.432,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      }
+    ]
   },
   "ivory_coast.belier": {
     "final": [],
@@ -3169,6 +5130,39 @@
   },
   "mexico": {
     "final": [
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 1964375,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 112336538,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 0.775,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
       {
         "id": "",
         "dataType": "string",
@@ -3254,8 +5248,63 @@
     "final": [
       {
         "id": "",
+        "dataType": "number",
+        "value": 57924.351,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 822441,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 0.8311,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "oil",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 48679.06,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 6660.8,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -3309,8 +5358,52 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 111,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 54,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "enum",
         "value": 0,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 270,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 42018.26,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -3462,8 +5555,8 @@
       },
       {
         "id": "",
-        "dataType": "string",
-        "value": "2020",
+        "dataType": "number",
+        "value": 23419.6,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -3475,6 +5568,39 @@
         "id": "",
         "dataType": "string",
         "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 80,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "string",
+        "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 29274.5,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -3495,6 +5621,17 @@
       }
     ],
     "pending": [
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 57502.72,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
       {
         "id": "",
         "dataType": "text",
@@ -3523,8 +5660,41 @@
     "final": [
       {
         "id": "",
+        "dataType": "number",
+        "value": 73288.834,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 4796580,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "real estate, agriculture, forestry, industry, mining, construction",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 9917.76,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -3567,6 +5737,39 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 0.6468,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 47046.97,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 11528.99,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "land use change from forest to pasture; followed by land use change from forest to agriculture; factors which most influence land use change are status of protection of the area, accessibility to the zone, socio-economic and ecological zone, and type of forest.",
         "valueNative": "",
@@ -3589,8 +5792,52 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 316.6,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "enum",
         "value": 0,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 137.2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 179.4,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 37129.21,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -3674,9 +5921,42 @@
           "value": "2017-03-09T08:55"
         },
         "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 51,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 179.4,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
       }
     ],
     "pending": [
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 74073,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
       {
         "id": "",
         "dataType": "text",
@@ -3760,8 +6040,52 @@
     "final": [
       {
         "id": "",
+        "dataType": "number",
+        "value": 78011.84,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 7350682,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 0.7434,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "Equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos.",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 41559.48,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -3823,6 +6147,28 @@
           "value": "2017-03-09T08:55"
         },
         "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 5220.31,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 46779.79,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
       }
     ],
     "pending": [
@@ -3854,8 +6200,74 @@
     "final": [
       {
         "id": "",
+        "dataType": "number",
+        "value": 44597.84,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 1625464,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 0.754,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 37111.58,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "Manufacturas e industria alimentaria",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 39852.84,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 2741.26,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -3892,6 +6304,17 @@
     "final": [
       {
         "id": "",
+        "dataType": "number",
+        "value": 24661,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "text",
         "value": "<p>The state of Tabasco represents 1.26% of the country&apos;s area. By 2015, the state of Tabasco is divided into 17 municipalities. The 95.5% of the surface of the state presents warm humid climate, the remaining 4.5% is subhumid climac&#xE1;lido toward the eastern part of the state.</p><p>The average annual temperature in latitude is 27 &#xB0; C, the average maximum temperature is 36 &#xB0; C and it is present in May, the average minimum temperature is 18.5 &#xB0; C during the month. The average state rainfall is 2 550 mm annually, rainfall occurs throughout the year, being more abundant in the months of June to October.</p><p>The hot humid climate favors the cultivation of banana, papaya, orange, lemon, coconut, cocoa, rice, maize and pepper, among others.</p><p> The state surface is part of the provinces: PlainsCostera of the South Gulf and Sierras de Chiapas and Guatemala</p>",
         "valueNative": "",
@@ -3922,6 +6345,28 @@
           "value": "2017-03-09T08:55"
         },
         "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 2822.8953,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 2668.2757,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
       }
     ],
     "pending": [
@@ -3942,8 +6387,52 @@
     "final": [
       {
         "id": "",
+        "dataType": "number",
+        "value": 2097175,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 39582.51,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 5532.06,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "Livestock expansion, Subsistence agriculture with corn and some milpa, Forest fires, Agricultural expansion, Human settlements, Expansion of road infrastructure, Mechanical Expansion, Agroindustry,",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 0.739,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -3972,6 +6461,28 @@
           "value": "2017-03-09T08:55"
         },
         "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 33440.85,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 27908.79,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
       }
     ],
     "pending": [
@@ -3992,8 +6503,52 @@
     "final": [
       {
         "id": "",
+        "dataType": "number",
+        "value": 923769,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 140431790,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 0.471,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "Petroleum and petroleum products (95%), cocoa, and rubber",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 16.6,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -4019,6 +6574,50 @@
     "final": [
       {
         "id": "",
+        "dataType": "number",
+        "value": 23074,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 2888966,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 0.471,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 12160,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "enum",
         "value": 2,
         "valueNative": "",
@@ -4041,6 +6640,17 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 6102,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "enum",
         "value": 2,
         "valueNative": "",
@@ -4054,6 +6664,17 @@
         "id": "",
         "dataType": "enum",
         "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 193,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -4065,6 +6686,17 @@
         "id": "",
         "dataType": "string",
         "value": "Rubber, palm oil and wood products",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 6058,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -4173,6 +6805,17 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 96.5,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "text",
         "value": "<p>Nigeria&apos;s UN-REDD National Programme was signed on 28 August 2012, in Abuja, by the Federal Minister of the Environment, the Governor of Cross River State and the UN Resident Coordinator, with the presence of senior government officials, representatives of the diplomatic community and the media.</p><p>Nigeria&apos;s REDD+ programme intends to be a catalytic endeavour in the country, part of a new vision for greendevelopment. As the Minister of the Environment, the Honorable Mrs. Hadiza Ibrahim Mailafia, stated, &quot;The Federal Government considers REDD+ as a national development priority which forms an essential component of President Goodluck Jonathan&quot;s transformation agenda.&quot;</p><p>The signed programme, with a budget of US$4 million from the UN-REDD Programme and an implementation span of 2.5 years, will allow Nigeria to craft the REDD+ mechanism, which is part of the set of policy and financial instruments of the UN climate change convention. Nigeria&quot;s REDD+ programme has an innovative, two-track approach consisting of actions at both federal and state levels. At the federal level, the Programme will create technical capacities, develop strategic and policy frameworks for REDD+, and support the alignment of the country with international climate change and environmental negotiations and agreements. At the state level, the Programme will conduct strategy-development and demonstration activities on REDD+ in Cross River State, as this state has shown a determined political commitment for green development.</p><p>The Governor of Cross River State acknowledged the value of this two-track approach on REDD+ and stated, &quot;We will do all that is within our powers to ensure that Cross River State remains a credible model for REDD; this is a demonstration of our appreciation for the choice of Cross River State as the pilot state for REDD in Nigeria.&quot;</p>",
         "valueNative": "",
@@ -4187,6 +6830,50 @@
   },
   "peru": {
     "final": [
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 1285215.6,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 56.09,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 30814175,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 0.741,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
       {
         "id": "",
         "dataType": "string",
@@ -4205,8 +6892,52 @@
     "final": [
       {
         "id": "",
+        "dataType": "number",
+        "value": 39249.13,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 0.384564816839811,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "Coffee beans, cocoa beans, tara powder and tropical fruits",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 28695.32,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 29227.89,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -4227,8 +6958,30 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 422629,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "enum",
         "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 61.8004829,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -4252,6 +7005,17 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 584.7,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "The principal direct causes of deforestation include agricultural/livestock expansion, while illegal activities such as mining, and the expansion of extractive industries and infrastructure projects are of lesser importance. Illegal timber extraction is the main cause of forest degradation. Twelve deforestation “hotspots” or fronts have been identified and are located close to urban areas, highways, or in the transition zone from the Andean highlands to the lowlands. Indirect causes of deforestation are many: informality of small and medium-sized landholders (lack of land titles, access to credit, weak links with markets, lack of access to social benefits) interact with political/institutional (principally, inconsistent land use classification and zoning procedures and policies for assigning land use rights; weak forest monitoring, enforcement, and governance; and problems of institutional coordination), economic (sub-valuation of forests, opportunity costs of competing land use, capital limitations of farmers), and technological factors (limited technical assistance, technology use, and credit) on the forest margins to cause deforestation and forest degradation.",
         "valueNative": "",
@@ -4267,8 +7031,63 @@
     "final": [
       {
         "id": "",
+        "dataType": "number",
+        "value": 37021.07,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 860537,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 0.374558440898236,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "Cacao (grano, polvo, manteca, licor y cobertura), flores frescas, tara, motor marino para caterpillar, herbicidas, artículos de decoración (mariposas disecadas), piedras preciosas (pink opal), café (grano verde), y concentrados de minerales (cobre, plata, plomo, zinc)",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 16250.54,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 18394.77,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -4297,9 +7116,31 @@
           "value": "2017-03-09T08:55"
         },
         "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 35.10425237,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
       }
     ],
     "pending": [
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 268.34,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
       {
         "id": "",
         "dataType": "string",
@@ -4317,6 +7158,39 @@
     "final": [
       {
         "id": "",
+        "dataType": "number",
+        "value": 368799.48,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 1039372,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 0.397655009094943,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "Maderas y papeles, metalmecánica, siderometalúrgica, pesca, agro, químicos",
         "valueNative": "",
@@ -4328,8 +7202,41 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 427555.89,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "enum",
         "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 98.24,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 3203.85,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -4364,8 +7271,41 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 352171.55,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 3205.86,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "The principal direct causes of deforestation include agricultural/livestock expansion, while illegal activities such as mining, and the expansion of extractive industries and infrastructure projects are of lesser importance. Illegal timber extraction is the main cause of forest degradation. Twelve deforestation “hotspots” or fronts have been identified and are located close to urban areas, highways, or in the transition zone from the Andean highlands to the lowlands. Indirect causes of deforestation are many: informality of small and medium-sized landholders (lack of land titles, access to credit, weak links with markets, lack of access to social benefits) interact with political/institutional (principally, inconsistent land use classification and zoning procedures and policies for assigning land use rights; weak forest monitoring, enforcement, and governance; and problems of institutional coordination), economic (sub-valuation of forests, opportunity costs of competing land use, capital limitations of farmers), and technological factors (limited technical assistance, technology use, and credit) on the forest margins to cause deforestation and forest degradation.",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 354957.69,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -4379,6 +7319,39 @@
     "final": [
       {
         "id": "",
+        "dataType": "number",
+        "value": 85182.63,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 128000,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 0.5997,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "Oro en las demás formas en bruto incluido el oro platinado (26.7) Tablillas y frisos para parqués sin ensamblar (5.5) Nueces del Brasil sin cáscaras frescas o secas (17.1) Los demás tableros ensamblados para revestimiento de suelos (0.4) Dragas (0.1)",
         "valueNative": "",
@@ -4390,8 +7363,63 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 81278.88,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 85029.13,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 8211.35,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 4044.31,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "settlements (2.3%), farmland (crop production) (3.3%), pastures (51.8%), farming (mixed agriculture/grazing) (39%), mining (3.6%)",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 149,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -4434,6 +7462,28 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 120,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 29,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "text",
         "value": "<p>La Regi&#xF3;n Madre de Dios se localizaen la zona sur oriental del territorio peruano, entre los paralelos 9&#xBA; 55&#xB4; 33&#x201D;y 13&#xBA; 20&#xB4; 04&#x201D;, latitud sur, y los meridianos 68&#xBA; 39&#xB4; 27&#x201D; y 77&#xBA; 22&#x2019; 27&#x201D;,longitud oeste. Su ubicaci&#xF3;n se considera estrat&#xE9;gica por constituir una regi&#xF3;nbifronteriza con los pa&#xED;ses de Brasil y Bolivia.</p><p>Tiene unasuperficie de 85,182 km&#xB2; equivalentes a 8&#x2019;518,200 hect&#xE1;reas, que representa el6.6% del territorio nacional y el 15.3% de la selva. En cuanto al &#xE1;rea porprovincias, se reporta para Tambopata el 42.58% de la superficie departamental,para Manu el 32.54% y para Tahuamanu el 24.88%.</p><p>Se halla cubierta mayoritariamente por bosques subtropicales donde serealizan diversas actividades productivas, destacando entre ellas lasextractivas de oro, madera y casta&#xF1;as. Recientemente y con gran futuro haincursionado en el ecoturismo.</p><p>Durante toda su historia ha afrontado el restrictivo problema de lafalta de v&#xED;as de comunicaci&#xF3;n, lo cual la ha aislado del resto del pa&#xED;s,mermando as&#xED; el desarrollo de su potencial econ&#xF3;mico.</p><p>La regi&#xF3;n est&#xE1; dotada con un gran potencial en recursos naturales, alpunto de ser considerada la &#x201C;capital peruana de la biodiversidad&#x201D;. Existen tresimportantes &#xE1;reas protegidas: el Parque Nacional del Manu, el Parque NacionalBahuaja-Sonene y la Reserva Nacional de Tambopata. </p>",
         "valueNative": "",
@@ -4444,14 +7494,81 @@
         "isCurrent": false
       }
     ],
-    "pending": []
+    "pending": [
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 81145.01,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 80025.5,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 1277.18,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      }
+    ]
   },
   "peru.piura": {
     "final": [
       {
         "id": "",
+        "dataType": "number",
+        "value": 35657.5,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 0.437917137692348,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "Uvas frescas, mango fresco, banano orgánico, pota, calamar, conchas de abanico, langostinos, fosfato de calcio, yeso, roca fosfórica, mineral de andalucita y bentonita",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 423.77,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -4469,6 +7586,17 @@
           "value": "2017-03-09T08:55"
         },
         "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 447.65,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
       }
     ],
     "pending": []
@@ -4477,8 +7605,74 @@
     "final": [
       {
         "id": "",
+        "dataType": "number",
+        "value": 51253.3,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 829520,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 0.4408,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "Café (75.9%); Cacao orgánico y otros principales (22.4%).",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 35024.74,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 2773.24,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 59.61,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -4524,8 +7718,41 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 34236.72,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 3555.49,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "Direct Drivers include: 1. Agriculture and livestock expansion 2. Illegal and informal extractive activities 3. Land traffic and Land leasing for illegal activities Indirect drivers of deforestation include: 1. Land use unclear and migration from Highlands to Jungle 2. Social (migration driven by poverty); economic (low value of forests compared to alternative land uses; 3. Institutional/governance causes (sector-based approaches; incoherent or contradictory regulations and policies",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 37572.28,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -4536,7 +7763,63 @@
     ]
   },
   "peru.ucayali": {
-    "final": [],
+    "final": [
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 489664,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 102399.9,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 0.4324,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 2423268075,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 2415508977,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      }
+    ],
     "pending": [
       {
         "id": "",
@@ -4552,8 +7835,41 @@
       },
       {
         "id": "",
+        "dataType": "number",
+        "value": 97057.1,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 94686.14,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "1. Agriculture and livestock expansion 2. Illegal and informal extractive activities 3. Communication/transportation infrastructure",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "number",
+        "value": 2723.12,
         "valueNative": "",
         "citation": "",
         "timestamps": {
