@@ -23,7 +23,7 @@ function getEntries(rawData, timestamp) {
       if (value !== '') timestamps.value = timestamp;
       if (valueNative !== '') timestamps.valueNative = timestamp;
       return {
-        id: '',
+        id: datum.id,
         dataType,
         value,
         valueNative,
