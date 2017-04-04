@@ -110,7 +110,7 @@ function number(rawString) {
     debug('WARN: "%s" couldn\'t be converted to a number (NaN)', cleanString);
     return NaN;
   }
-  return number.value();
+  return numberObj.value();
 }
 
 module.exports = { html, string, integer, number };
