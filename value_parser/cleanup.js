@@ -1,7 +1,7 @@
 'use strict';
 
 require('dotenv').config();
-const debug = require('debug')('raw-values');
+const debug = require('debug')('value_parser-cleanup');
 const cheerio = require('cheerio');
 const numeral = require('numeral');
 
