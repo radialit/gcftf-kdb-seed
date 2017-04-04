@@ -112,6 +112,16 @@ function getEntries(rawData, timestamp) {
   return entriesBySubunit;
 }
 
+function parseEntries(dirName) {
+  return reader.parseSubdir(dirName)
+  .then((rawData) => {
+    return getEntries(rawData, getTimestamp(dirName));
+  })
+  .catch((err) => {
+    return Promise.reject(err);
+  });
+}
+
 function parse(entryDatatypeLookupArg) {
   entryDatatypeLookup = entryDatatypeLookupArg;
   let coreDirName;
@@ -123,15 +133,7 @@ function parse(entryDatatypeLookupArg) {
   } catch (err) {
     return Promise.reject(err);
   }
-  return reader.parseSubdir(coreDirName)
-  .then((rawData) => {
-    const entriesBySubunit = getEntries(rawData, getTimestamp(coreDirName));
-    debug('got core data');
-    return Promise.resolve(entriesBySubunit);
-  })
-  .catch((err) => {
-    return Promise.reject(err);
-  });
+  return parseEntries(coreDirName);
 }
 
 module.exports = { parse };
