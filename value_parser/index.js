@@ -17,20 +17,21 @@ function getEntries(rawData, timestamp) {
   let finalEntries;
   let pendingEntries;
 
-  function getDefaultEntry(value = '', valueNative = '') {
-    const timestamps = {};
-    if (value !== '') timestamps.value = timestamp;
-    if (valueNative !== '') timestamps.valueNative = timestamp;
-    return {
-      id: '',
-      value,
-      valueNative,
-      citation: '',
-      timestamps,
-      isCurrent: false,
-    };
-  }
   function processEntry(datum, dataType) {
+    function getDefaultEntry(value = '', valueNative = '') {
+      const timestamps = {};
+      if (value !== '') timestamps.value = timestamp;
+      if (valueNative !== '') timestamps.valueNative = timestamp;
+      return {
+        id: '',
+        dataType,
+        value,
+        valueNative,
+        citation: '',
+        timestamps,
+        isCurrent: false,
+      };
+    }
     function processTextEntry() {
       const final = {
         value: cleanup.html(datum.value),
@@ -78,7 +79,7 @@ function getEntries(rawData, timestamp) {
     subunit.data.forEach((datum) => {
       const dataType = entryDatatypeLookup[subunitType][datum.id];
       if (!dataType) return;
-      processEntry(datum, dataType, timestamp);
+      processEntry(datum, dataType);
     });
   });
   return entriesBySubunit;
