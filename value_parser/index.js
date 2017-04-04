@@ -122,6 +122,51 @@ function parseEntries(dirName) {
   });
 }
 
+function processArchives(coreEntries, archiveDirNames) {
+  function updateTimestamps(archiveEntries, timestamp) {
+    Object.keys(coreEntries).forEach((subunitID) => {
+      ['final', 'pending'].forEach((statusCode) => {
+        // check for corresponding entries in archive
+        if (!archiveEntries[subunitID] || !archiveEntries[subunitID][statusCode]) return;
+        const coreEntryArray = coreEntries[subunitID][statusCode];
+        const archiveEntryArray = archiveEntries[subunitID][statusCode];
+        coreEntryArray.forEach((coreEntry) => {
+          // try to find the corresponding archive entry
+          const archiveEntry = archiveEntryArray.find(testEntry => (testEntry.id === coreEntry.id));
+          if (!archiveEntry) return;
+          ['value', 'valueNative'].forEach((field) => {
+            // update the timestamp if there WASN'T a change
+            if (coreEntry[field] !== archiveEntry[field]) {
+              coreEntry.timestamps[field] = timestamp;
+            }
+          });
+        });
+      });
+    });
+    return Promise.resolve();
+  }
+  function processArchive(directoryName) {
+    return parseEntries(directoryName)
+    .then((archiveEntries) => {
+      return updateTimestamps(archiveEntries, getTimestamp(directoryName));
+    })
+    .catch((err) => {
+      return Promise.reject(err);
+    });
+  }
+  function reduceCallback(promise, directoryName) {
+    debug('processing archive for %s', directoryName);
+    return processArchive(directoryName);
+  }
+  const chainedPromises = archiveDirNames.reduce(reduceCallback, Promise.resolve());
+  return chainedPromises
+  .then(() => {
+    debug('finished processing archives');
+    return coreEntries;
+  })
+  .catch((err) => { return Promise.reject(err); });
+}
+
 function parse(entryDatatypeLookupArg) {
   entryDatatypeLookup = entryDatatypeLookupArg;
   let coreDirName;
@@ -133,7 +178,13 @@ function parse(entryDatatypeLookupArg) {
   } catch (err) {
     return Promise.reject(err);
   }
-  return parseEntries(coreDirName);
+  return parseEntries(coreDirName)
+  .then((coreEntries) => {
+    return processArchives(coreEntries, archiveDirNames);
+  })
+  .catch((err) => {
+    return Promise.reject(err);
+  });
 }
 
 module.exports = { parse };

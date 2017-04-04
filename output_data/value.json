@@ -19,7 +19,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -30,7 +30,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -41,7 +41,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -63,7 +63,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -74,7 +74,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -85,7 +85,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       }
@@ -400,7 +400,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -412,7 +412,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -424,7 +424,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -435,8 +435,8 @@
         "valueNative": "<p>O PRODES, capitaneado pelo Instituto Nacional de Pesquisa Espacial (INPE), &#xE9; a fonte de dados oficiais sobre estimativas de desmatamento na Amaz&#xF4;nia Legal desde 1978. O m&#xE9;todo emprega imagens do sat&#xE9;lite Landsat (degradadas at&#xE9; uma resolu&#xE7;&#xE3;o de 60m) e mapeia uma &#xE1;rea m&#xED;nima de 5,76 ha (na vers&#xE3;o anal&#xF3;gica elaborada no in&#xED;cio do projeto, a &#xE1;rea m&#xED;nima mapeada era de 6,25 ha), em uma escala de 1:250.000. A cada ano, uma m&#xE1;scara que representa todo o desmatamento identificado em todos os anos anteriores &#xE9; aplicada, e somente as novas unidades de desmatamento s&#xE3;o identificadas. A metodologia emprega um modelo linear de mistura espectral (MLME) e a classifica&#xE7;&#xE3;o n&#xE3;o supervisionada (ISOSEG).</p><p>Esses dados s&#xE3;o complementados com dados do Imazon SAD (Souza 2006) a fim de identificar epis&#xF3;dios anuais de desmatamento em extens&#xF5;es inferiores a 5 ha. A Unidade Central de Georreferenciamento - UCGEO do estado do Acre refinou a metodologia SAD para uma escala de 1:50.000, mantendo a resolu&#xE7;&#xE3;o de imagem original do Landsat de 30m e adotando as mesmas classes que aquelas identificadas pelo PRODES, mas definindo uma &#xE1;rea m&#xED;nima de desmatamento mapeado de 0,54 ha.</p>",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17",
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -448,7 +448,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -460,7 +460,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -472,7 +472,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -484,7 +484,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -496,7 +496,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -508,7 +508,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       }
@@ -543,7 +543,8 @@
         "valueNative": "<p>Atualmente a refer&#xEA;ncia e as metas de redu&#xE7;&#xE3;o de emiss&#xF5;es est&#xE3;o sendo refinadas como parte de uma an&#xE1;lise realizada pela Funda&#xE7;&#xE3;o Get&#xFA;lio Vargas (FGV), submetida agora a um processo de avalia&#xE7;&#xE3;o por auditoria independente. </p>",
         "citation": "",
         "timestamps": {
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2017-03-09T08:55",
+          "value": "2016-11-17T08:45"
         },
         "isCurrent": false
       },
@@ -554,7 +555,8 @@
         "valueNative": "<p>O PRODES, capitaneado pelo Instituto Nacional de Pesquisa Espacial (INPE), &#xE9; a fonte de dados oficiais sobre estimativas de desmatamento na Amaz&#xF4;nia Legal desde 1978. O m&#xE9;todo emprega imagens do sat&#xE9;lite Landsat (degradadas at&#xE9; uma resolu&#xE7;&#xE3;o de 60m) e mapeia uma &#xE1;rea m&#xED;nima de 5,76 ha (na vers&#xE3;o anal&#xF3;gica elaborada no in&#xED;cio do projeto, a &#xE1;rea m&#xED;nima mapeada era de 6,25 ha), em uma escala de 1:250.000. A cada ano, uma m&#xE1;scara que representa todo o desmatamento identificado em todos os anos anteriores &#xE9; aplicada, e somente as novas unidades de desmatamento s&#xE3;o identificadas. A metodologia emprega um modelo linear de mistura espectral (MLME) e a classifica&#xE7;&#xE3;o n&#xE3;o supervisionada (ISOSEG).</p><p>Esses dados foram complementados com dados do Imazon SAD (Souza 2006) a fim de identificar epis&#xF3;dios anuais de desmatamento em extens&#xF5;es inferiores a 5 ha. A Unidade Central de Georreferenciamento - UCGEO do estado do Acre refinou a metodologia SAD para uma escala de 1:50.000, mantendo a resolu&#xE7;&#xE3;o de imagem original do Landsat de 30m e adotando as mesmas classes que aquelas identificadas pelo PRODES, mas definindo uma &#xE1;rea m&#xED;nima de desmatamento mapeado de 0,54 ha.</p>",
         "citation": "",
         "timestamps": {
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2017-03-09T08:55",
+          "value": "2016-11-17T08:45"
         },
         "isCurrent": false
       }
@@ -569,7 +571,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -580,7 +582,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -591,7 +593,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -602,7 +604,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -613,7 +615,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -723,7 +725,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -801,7 +803,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -813,7 +815,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -825,7 +827,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -836,8 +838,8 @@
         "valueNative": "<p>Devido &#xE0; localiza&#xE7;&#xE3;o geogr&#xE1;fica do Amap&#xE1; (na linha do equador e na zona de converg&#xEA;ncia intertropical), uma pesada nebulosidade est&#xE1; presente o ano inteiro, que &#xE9; um tanto persistente durante a esta&#xE7;&#xE3;o chuvosa (novembro a junho). Em decorr&#xEA;ncia disso, a obten&#xE7;&#xE3;o de mosaicos de imagens de sat&#xE9;lite isentos de nuvens para o monitoramento anual &#xE9; dif&#xED;cil, se n&#xE3;o imposs&#xED;vel, na maioria dos anos. Consequentemente, desde o in&#xED;cio da observa&#xE7;&#xE3;o do desmatamento na Amaz&#xF4;nia em 1988, o INPE deixou de estimar ou apresentou estimativa nula do desmatamento para o Amap&#xE1; em 6 anos (1993, 1994, 1996, 1999, 2000 e 2002). Para outros anos, as estimativas de desmatamento podem ter baixa precis&#xE3;o devido &#xE0; nebulosidade, dificultando a implementa&#xE7;&#xE3;o de metodologias de monitoramento e precis&#xE3;o atrav&#xE9;s de imagens de sat&#xE9;lites.</p><p>A SEMA est&#xE1; elaborando uma metodologia para monitorar o desmatamento com base em imagens do Landsat 5-TM e do CBERS. Devido &#xE0; dificuldade de obten&#xE7;&#xE3;o de imagens suficientemente isentas de nebulosidade, as estimativas est&#xE3;o sendo geradas ao longo de intervalos de dois anos, come&#xE7;ando com o per&#xED;odo de 2001-2002. Foram realizadas estimativas para 3 per&#xED;odos (2001-2002, 2003-2004 e 20052006); ); as an&#xE1;lises para os anos posteriores ainda est&#xE3;o em andamento.</p><p>Uma compara&#xE7;&#xE3;o entre estimativas do PRODES e da SEMA para os anos 2009 e 2006, respectivamente (os anos mais recentes para os quais est&#xE3;o dispon&#xED;veis n&#xFA;meros de cada fonte), mostra uma estimativa de novos desmatamentos 56% maior conforme a SEMA, apesar da lacuna de 3 anos nos per&#xED;odos de an&#xE1;lise, revelando um grande n&#xED;vel de incerteza nas estimativas de desmatamento para o Amap&#xE1;.</p><p>O Governo do Estado do Amap&#xE1; est&#xE1; contratou 11 especialistas em geoprocessamento (3 para o IMAP e 8 para a SEMA), e est&#xE1; negociando com o governo federal para receber as verbas necess&#xE1;rias para montar um laborat&#xF3;rio de geoprocessamento. Os objetivos do laborat&#xF3;rio ser&#xE3;o os seguintes: (1) monitoramento do desmatamento; (2) cria&#xE7;&#xE3;o de uma rede geod&#xE9;sica e uma base cartogr&#xE1;fica confi&#xE1;vel para o estado; (3) Realizar cen&#xE1;rios de modelagem para apoiar o planejamento e an&#xE1;lise.</p>",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17",
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -849,7 +851,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -861,7 +863,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -873,7 +875,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -885,7 +887,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -897,7 +899,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -909,7 +911,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -944,7 +946,7 @@
         "valueNative": "<p>O Amap&#xE1; &#xE9; o estado brasileiro com a maior porcentagem de seuterrit&#xF3;rio sob algum tipo de prote&#xE7;&#xE3;o: aproximadamente 73% de sua &#xE1;rea s&#xE3;odestinadas a Unidades de Conserva&#xE7;&#xE3;o de prote&#xE7;&#xE3;o integral, uso sustent&#xE1;vel, ouTerras Ind&#xED;genas. Com uma &#xE1;rea de 142.814,585 km&#xB2;, sendo que aproximadamente de77% corresponde a florestas. O estado tem um importante setor econ&#xF4;micosilv&#xED;cola, com a extra&#xE7;&#xE3;o de produtos madeireiros e n&#xE3;o madeireiros(especialmente o a&#xE7;a&#xED;, castanha do Brasil e cip&#xF3; titica). A extra&#xE7;&#xE3;o mineralconsiste em 91% da exporta&#xE7;&#xE3;o do mercado amapaense, a madeira contribui com 5%e apenas 1,5% s&#xE3;o frutos, polpas e derivados de plantas.</p><p>O Plano de Preven&#xE7;&#xE3;o eControle do Desmatamento e Queimadas do Estado do Amap&#xE1; (PPCDAP) que visaconter o desmatamento por meio de 4 tipos principais de a&#xE7;&#xF5;es: planejamentoterritorial, monitoramento e controle, promo&#xE7;&#xE3;o de atividades econ&#xF4;micassustent&#xE1;veis e governan&#xE7;a e fortalecimento institucional, est&#xE1; em fase final derevis&#xE3;o.</p><p>O Amap&#xE1; est&#xE1; construindo seu marco regulat&#xF3;rio oficial relativoa Mudan&#xE7;as Clim&#xE1;ticas, servi&#xE7;os ambientais e REDD+. No entanto, est&#xE3;o emandamento discuss&#xF5;es entre governo, sociedade civil e institui&#xE7;&#xF5;es acad&#xEA;micasacerca da cria&#xE7;&#xE3;o de uma estrat&#xE9;gia formal para servi&#xE7;os ambientais e REDD+. Atualmente,o aproveitamento dos recursos naturais com bases sustent&#xE1;veis &#xE9; um dos maioresdesafios para o Governo do Estado. Neste contexto, a Floresta Estadual do Amap&#xE1;(FLOTA/AP) foi criada, com aproximadamente 23.694 km&#xB2;. A FLOTA/AP &#xE9; uma Unidadede Conserva&#xE7;&#xE3;o de Uso Sustent&#xE1;vel que promove a ocupa&#xE7;&#xE3;o ordenada da terra e autiliza&#xE7;&#xE3;o dos recursos naturais diante de princ&#xED;pios do manejo florestalsustent&#xE1;vel com abordagens t&#xE9;cnica, social, econ&#xF4;mica e ecol&#xF3;gica.</p><p>Ao longo desses anos o estado construiu uma rede de parceirospara trabalhar essa tem&#xE1;tica e apresenta alguns produtos.O Instituto Estadual de Florestas doAmap&#xE1; (IEF/AP) concluiu um trabalho em 2010 que quantificou os estoques decarbono em um fragmento de Floresta Densa de Terra Firme da &#xE1;rea central daFLOTA/AP. Este estudo foi realizado em colabora&#xE7;&#xE3;o com o Instituto Nacional dePesquisas da Amaz&#xF4;nia (INPA) e do Centro de Pesquisa Agroflorestal (EmbrapaAmap&#xE1;). A Embrapa Amap&#xE1;, uma das parceiras nas pesquisas sobre carbonoFlorestal, com o projeto REDD+ FLOTA subsidia informa&#xE7;&#xF5;es para projetos eprogramas de pagamentos por servi&#xE7;os . O Projeto REDD+ Escudos guianensispossibilitou coopera&#xE7;&#xE3;o t&#xE9;cnica entre Amap&#xE1;, Guiana Francesa, Suriname e Guiana,com forma&#xE7;&#xE3;o t&#xE9;cnica, estudos e troca de experi&#xEA;ncias. O GSF, via PNUD,financiou um estudo sobre REDD+ para o estado desenvolvido pela empresa deconsultoria Ativo Socioambiental. Em parceria com o Idesam, e com recurso doBID o estado construiu uma proposta de Sistema de REDD+. Via Fundo GCF o estadoparticipou da Plataforma do CCAL do IPAMe do Sistema de Medi&#xE7;&#xE3;o de Desempenho do GCF , elaborado pelo Earth InnovetionInstitute e Idesam com colabora&#xE7;&#xE3;o do VCS.</p><p>Anova base cartogr&#xE1;fica, que est&#xE1; sendo elaborada para o estado do Amap&#xE1; &#xE9; estrat&#xE9;gicae subsidiar&#xE1; v&#xE1;rios programas e projetos com suas informa&#xE7;&#xF5;es.</p>",
         "citation": "",
         "timestamps": {
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2015-01-29T11:14"
         },
         "isCurrent": false
       },
@@ -1069,7 +1071,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -1191,7 +1193,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -1203,7 +1205,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -1215,7 +1217,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -1226,8 +1228,8 @@
         "valueNative": "<p>INPE: PRODES e DETER</p><p>INPE (Instituto Nacional de Pesquisas Espaciais): PRODES (Projeto de Monitoramento do Desmatamento na Amaz&#xF4;nia Legal: divulga dados anuais sobre o desmatamento) e DETER (Projeto para a Detec&#xE7;&#xE3;o de Desmatamento em Tempo Real: sistema de alerta para subsidiar a aplica&#xE7;&#xE3;o da lei de combate ao desmatamento)</p><p>Imagens do sat&#xE9;lite Landsat (30 m) s&#xE3;o selecionadas para an&#xE1;lise com base em 1) n&#xED;vel de nebulosidade e 2) proximidade da data de refer&#xEA;ncia (1&#xBA; de agosto);</p><p>As imagens s&#xE3;o geo-referenciados por meio do Sistema de Processamento de Informa&#xE7;&#xF5;es Georeferenciadas (SPRING);</p><p>O modelo linear de mistura espectral (MLME) &#xE9; usado para extrair solo, vegeta&#xE7;&#xE3;o e fra&#xE7;&#xF5;es de sombra das imagens;</p><p>As regi&#xF5;es s&#xE3;o identificadas com base na semelhan&#xE7;a e tamanho m&#xED;nimo, e analisadas &#x200B;&#x200B;por um algoritmo;</p><p>A taxa de desmatamento di&#xE1;rio &#xE9; calculada primeiro, que serve de base para a extrapola&#xE7;&#xE3;o das taxas anuais, levando em considera&#xE7;&#xE3;o as diferen&#xE7;as clim&#xE1;ticas anuais que podem afetar a detec&#xE7;&#xE3;o do desmatamento.</p><p>Imazon: SAD</p><p>A nebulosidade das imagens di&#xE1;rias do MODIS (250 m) &#xE9; filtrada e as bandas de resolu&#xE7;&#xE3;o espectral s&#xE3;o fundidas para aumentar o n&#xED;vel de detalhamento das imagens;</p><p>Os componentes n&#xE3;o fotossint&#xE9;ticos (NPV, na sigla em ingl&#xEA;s) s&#xE3;o estimados e o &#xCD;ndice de Diferen&#xE7;a Normalizada de Fra&#xE7;&#xF5;es (NDFI, na sigla em ingl&#xEA;s) &#xE9; calculado: os valores variam de -1 (solo) a 1 (floresta);</p><p>O desmatamento &#xE9; detectado por meio da compara&#xE7;&#xE3;o dos NDFIs de dois meses consecutivos: uma varia&#xE7;&#xE3;o de -200 a -50 indica prov&#xE1;vel desmatamento;</p><p>A resolu&#xE7;&#xE3;o do SAD (250 m) &#xE9; maior do que a resolu&#xE7;&#xE3;o dos sat&#xE9;lites utilizados pelo INPE (CBERS [20 m] e Landsat [30 m]) mas, em uma compara&#xE7;&#xE3;o, entre 80 e 90% do desmatamento relatado pelo SAD foram confirmados.</p>",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17",
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -1239,7 +1241,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -1251,7 +1253,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -1263,7 +1265,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -1275,7 +1277,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -1287,7 +1289,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -1299,7 +1301,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -1415,7 +1417,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2016-11-30T07:30"
         },
         "isCurrent": false
       },
@@ -1730,7 +1732,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -1742,7 +1744,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -1754,7 +1756,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -1766,7 +1768,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -1778,7 +1780,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -1790,7 +1792,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -1802,7 +1804,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -1814,7 +1816,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -1826,7 +1828,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -1942,7 +1944,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -2141,7 +2143,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -2153,7 +2155,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -2165,7 +2167,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -2176,8 +2178,8 @@
         "valueNative": "<p>Para estimar o desmatamento no Par&#xE1; &#xE9; usado a metodologia de PRODES do Instituto Nacional de Pesquisas Espaciais (INPE).</p><p>INPE: PRODESImagens do sat&#xE9;lite Landsat (30 m) s&#xE3;o selecionadas para an&#xE1;lise com base em 1) n&#xED;vel de nebulosidade e 2) proximidade da data de refer&#xEA;ncia (1&#xBA; de agosto);</p><p>As imagens s&#xE3;o geo-referenciados por meio do Sistema de Processamento de Informa&#xE7;&#xF5;es Georeferenciadas (SPRING);</p><p>As regi&#xF5;es s&#xE3;o identificados com base na semelhan&#xE7;a e tamanho m&#xED;nimo, e analisadas &#x200B;&#x200B;por um algoritmo;</p><p>A taxa de desmatamento anual &#xE9; calculada, levando em considera&#xE7;&#xE3;o as diferen&#xE7;as clim&#xE1;ticas anuais que podem afetar a detec&#xE7;&#xE3;o do desmatamento.</p>",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17",
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -2189,7 +2191,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -2201,7 +2203,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -2213,7 +2215,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -2225,7 +2227,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -2237,7 +2239,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       }
@@ -2655,7 +2657,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -2666,7 +2668,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -2737,7 +2739,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -2748,7 +2750,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -2781,7 +2783,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -2803,7 +2805,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -2814,7 +2816,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -2847,7 +2849,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -2858,7 +2860,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -2903,7 +2905,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -2915,7 +2917,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -2927,7 +2929,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -2939,7 +2941,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -2951,7 +2953,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -2963,7 +2965,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -2975,7 +2977,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -2987,7 +2989,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -2999,7 +3001,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -3045,7 +3047,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2015-01-29T11:14"
         },
         "isCurrent": false
       },
@@ -3056,7 +3058,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2015-01-29T11:14"
         },
         "isCurrent": false
       },
@@ -3100,7 +3102,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2015-01-29T11:14"
         },
         "isCurrent": false
       },
@@ -3133,7 +3135,7 @@
         "valueNative": "<p>1. Buruknya pengelolaan dan kinerja pengoperasian konsesi Izin Usaha Pemanfaatan Hasil Hutan Kayu pada Hutan Alam2. illegal logging</p>",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55",
+          "value": "2015-01-29T11:14",
           "valueNative": "2017-03-09T08:55"
         },
         "isCurrent": false
@@ -3183,7 +3185,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -3216,7 +3218,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -3249,7 +3251,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -3260,7 +3262,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -3316,7 +3318,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -3328,7 +3330,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -3340,7 +3342,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -3352,7 +3354,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -3364,7 +3366,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -3376,7 +3378,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -3388,7 +3390,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -3400,7 +3402,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -3412,7 +3414,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -3480,7 +3482,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2015-01-29T11:14"
         },
         "isCurrent": false
       },
@@ -3491,7 +3493,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2015-01-29T11:14"
         },
         "isCurrent": false
       },
@@ -3616,7 +3618,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -3649,7 +3651,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -3660,7 +3662,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -3671,7 +3673,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -3682,7 +3684,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -3693,7 +3695,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -3715,7 +3717,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -3726,7 +3728,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -3771,7 +3773,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -3783,7 +3785,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -3794,7 +3796,8 @@
         "valueNative": "<p>Luas wilayah Kalimantan Timur adalah 21.8 juta ha terdiri atas wilayah daratan 19 juta ha dan wilayah</p><p>lautan 2,1 juta ha. Kawasan hutan mencakup 14,7 juta ha. Secara historis, perkembangan</p><p>ekonomi di propinsi ini banyak bergantung pada pemanfaatan sumber daya hutan dan sumber daya</p><p>tambang berupa minyak dan gas, serta yang terbaru, batu bara, yang kesemuanya telah membawa</p><p>Kalimantan Timur menjadi propinsi terkaya kedua di Indonesia. Namun demikian, penerapan metode</p><p>penggunaan lahan yang tidak berkelanjutan telah mengakibatkan tingkat deforestasi yang tinggi di</p><p>Kalimantan Timur, yaitu rata-rata 150.000 ha per tahun selama periode 2003 sampai 2008 sehingga</p><p>tutupan lahan hutan alami di Kalimantan Timur susut menjadi 12,8 juta ha. Deforestasi dan metode</p><p>budidaya lainnya yang tidak berkesinambungan, misalnya penggunaan api untuk pembukaan lahan,</p><p>telah mengakibatkan tingkat emisi yang tinggi.</p>",
         "citation": "",
         "timestamps": {
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17",
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -3806,7 +3809,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -3818,7 +3821,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -3830,7 +3833,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -3842,7 +3845,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -3854,7 +3857,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -3866,7 +3869,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4037,7 +4040,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4048,7 +4051,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4070,7 +4073,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4081,7 +4084,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4092,7 +4095,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4103,7 +4106,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4114,7 +4117,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4125,7 +4128,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4147,7 +4150,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4158,7 +4161,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4169,7 +4172,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4180,7 +4183,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4192,7 +4195,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4204,7 +4207,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4216,7 +4219,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4228,7 +4231,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4240,7 +4243,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4263,7 +4266,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4275,7 +4278,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4287,7 +4290,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4344,7 +4347,7 @@
         "valueNative": "<p>Papua memiliki luas tutupan hutan (forest cover) sekitar 25,17 juta ha atau 81% dari luas wilayahnya. Tujuh vegetasi utama meliputi (1) hutan lahan kering primer, (2) hutan lahan kering sekunder, (3) hutan mangrove primer, (4) hutan rawa primer, (5) hutan tanaman, (6) hutan mangrove sekunder, dan (7) hutan rawa sekunder. Tutupan hutan terluas berada pada kawasan Hutan Produksi Berkelanjutan (9,17 juta ha), kemudian Hutan Lindung (7,04 juta ha), Hutan Konservasi (5,21 juta ha), dan terakhir di Hutan Tidak Dilindungi (3,75 juta ha).</p><p>Pada periode tahun 2006-2011, rata-rata deforestasi hutan Papua mencapai 25,68 ribu ha per tahun, sementara rata-rata degradasinya mencapai 181,77 ribu ha per tahun. Penyebab utama deforestasi adalah (1) penebangan Liar (Cagar Alam Biak Utara), (2) konversi kawasan hutan (Taman Nasional Wasur), serta (3) pembukaan area baru, pemukiman, jalan, lahan pertanian dan perkebunan. Sedangkan penyebab utama degradasi adalah (1) pembalakan liar dan pengelolaan hutan secara tidak berkelanjutan, (2) alih guna hutan alam menjadi hutan tanaman dan pertambangan, serta (3) penegakan peraturan pengelolalan hutan yang lemah.</p><p>Pengukuran stok karbon Papua dilakukan menggunakan metodologi Tier-1 berdasarkan IPCC. Pada tahun 2011, stok karbon hutan sebesar 4.372,59 juta ton (97,59%) dan di kawasan non-hutan sebesar 107,78 juta ton (2,41%). Dengan luas daratan (land cover) Papua sekitar 30,93 juta ha, rata-rata stok karbon sebesar 144,84 ton/ha. Rata-rata stok karbon hutan adalah 173,74 ton/ha, sementara rata-rata stok karbon wilayah non-hutan sebesar 18,69 ton/ha.</p><p>Impelementasi SRAP REDD+ Papua mengacu pada 5 pilar strategi , yaitu: (1) kelembagaan, regulasi dan organisasi, (2) pemantapan kawasan hutan, (3) kepastian ruang kelola masyarakat adat, (4) pengembangan ekonomi masyarakat adat, dan (5) pengembangan konservasi dan keanekaragaman hayati. Benefit sharing dalam rangka pelaksanaan REDD+ di provinsi Papua sampai dengan saat ini belum ada bentuk kesepakatan yang akan digunakan. Kondisi terakhir dari rumusan draft benefit sharing ada di Bappeda setelah melalui hasil diskusi dan masukan dari beberapa elemen pemerintah dan NGO.</p>",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55",
+          "value": "2015-01-29T11:14",
           "valueNative": "2017-03-09T08:55"
         },
         "isCurrent": false
@@ -4356,7 +4359,7 @@
         "valueNative": "<p><ol><li>Penebangan Liar (Cagar Alam Biak Utara)</li><li>Konversi kawasan hutan (Taman Nasional Wasur)</li><li>Pembukaan area baru, pemukiman, jalan, lahan pertanian dan perkebunan</li></ol></p>",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55",
+          "value": "2015-01-29T11:14",
           "valueNative": "2017-03-09T08:55"
         },
         "isCurrent": false
@@ -4473,7 +4476,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4484,7 +4487,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4506,7 +4509,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4517,7 +4520,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4528,7 +4531,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4539,7 +4542,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4572,7 +4575,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4583,7 +4586,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4628,7 +4631,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4640,7 +4643,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4652,7 +4655,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4664,7 +4667,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4676,7 +4679,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4688,7 +4691,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4700,7 +4703,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4712,7 +4715,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -4817,7 +4820,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2016-12-06T06:40"
         },
         "isCurrent": false
       },
@@ -4828,7 +4831,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2016-12-06T06:40"
         },
         "isCurrent": false
       },
@@ -5170,7 +5173,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -5181,7 +5184,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -5192,7 +5195,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -5203,7 +5206,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       }
@@ -5216,7 +5219,8 @@
         "valueNative": "<p><a href=\"http://www.diputados.gob.mx/LeyesBiblio/ref/lgeepa.htm\">Ley General del Equilibrio Ecol&#xF3;gico y la Protecci&#xF3;n al Ambiente.</a></p><p><a href=\"http://www.diputados.gob.mx/LeyesBiblio/ref/lgdfs.htm\">Ley General de Desarrollo Forestal Sustentable</a></p><p><a href=\"http://www.diputados.gob.mx/LeyesBiblio/ref/lgcc.htm\">Ley General de Cambio Clim&#xE1;tico</a></p><p><a href=\"http://www.diputados.gob.mx/LeyesBiblio/ref/ldrs.htm\">Ley de Desarrollo Rural Sustentable</a></p>",
         "citation": "",
         "timestamps": {
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2017-03-09T08:55",
+          "value": "2015-01-29T11:14"
         },
         "isCurrent": false
       },
@@ -5227,7 +5231,8 @@
         "valueNative": "<p>Estrategia Nacional de Cambio Clim&#xE1;tico</p><p>Programa Especial de Cambio Clim&#xE1;tico</p><p>Marco de Pol&#xED;ticas de Adaptaci&#xF3;n de Mediano Plazo</p><p>Visi&#xF3;n de M&#xE9;xico sobre REDD+</p><p>Programa de Inversi&#xF3;n Forestal</p>",
         "citation": "",
         "timestamps": {
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2017-03-09T08:55",
+          "value": "2015-01-29T11:14"
         },
         "isCurrent": false
       },
@@ -5238,7 +5243,8 @@
         "valueNative": "<p>Secretar&#xED;a de Medio Ambiente y Recursos Naturales (SEMARNAT)</p><p>Comisi&#xF3;n Nacional Forestal (CONAFOR)</p><p>Instituto Nacional de Ecolog&#xED;a y Cambio Clim&#xE1;tico (INECC)</p><p>Secretar&#xED;a de Agricultura, Ganader&#xED;a, Desarrollo Rural, Pesca y Alimentaci&#xF3;n (SAGARPA )</p><p>Comisi&#xF3;n Nacional para el Uso y Conocimiento de la Biodiversidad (CONABIO)</p><p>Secretar&#xED;a de Desarrollo Social</p>",
         "citation": "",
         "timestamps": {
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2015-01-29T11:14",
+          "value": "2015-01-29T11:14"
         },
         "isCurrent": false
       }
@@ -5297,7 +5303,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -5308,7 +5314,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2016-12-06T06:40"
         },
         "isCurrent": false
       },
@@ -5407,7 +5413,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -5418,7 +5424,7 @@
         "valueNative": "<p>El estado de Campeche tiene una gran poblaci&#xF3;n de personas ind&#xED;genas. De ellas, el grupo m&#xE1;s numeroso y con la historia m&#xE1;s significativa es los Mayas Yucatecos, quienes est&#xE1;n concentrados en los asentamientos m&#xE1;s antiguos del norte del estado. Este grupo se extiende por la mayor parte de la Pen&#xED;nsula Yucateca, con el 11% en Campeche, el 76.25% en Yucat&#xE1;n y el 12.73% en Quintana Roo. Campeche tambi&#xE9;n tiene una alta concentraci&#xF3;n de refugiados ind&#xED;genas de Guatemala que viven en campamentos de refugiados, y la parte sur del estado ha recibido a migrantes de otros grupos &#xE9;tnicos. El censo de 1990 demuestra que hay 45 lenguas diferentes representadas en el estado; de ellas, las m&#xE1;s importantes son Ch&apos;ol, Tzeltal, Kanjobal y Mam.</p><p>La mayor parte del territorio de Campeche se caracteriza por un clima subh&#xFA;medo y un bosque tropical denso. Hay tambi&#xE9;n una regi&#xF3;n de tierras bajas con lagos y un &#xE1;rea ribere&#xF1;a. El sistema &quot;milpa&quot;, que predomina en el estado, requiere un conocimiento profundo de los sistemas ecol&#xF3;gicos espec&#xED;ficos, incluyendo los ciclos de varias plantas y las lluvias, adem&#xE1;s del periodo barbecho que requieren los suelos. La caza y la recolecci&#xF3;n son actividades suplementarias de subsistencia. Los recursos naturales locales se usan como materiales para construir casas y para las necesidades energ&#xE9;ticas. En conjunto, estas actividades, m&#xE1;s las actividades forestales y la ganader&#xED;a, han tenido un impacto devastador en el bosque tropical, y se est&#xE1; intentando revertir estos efectos por medio de programas de desarrollo sustentable que se enfocan en la reforestaci&#xF3;n y la gesti&#xF3;n de la vida silvestre. La pol&#xED;tica de la preservaci&#xF3;n ha suscitado la creaci&#xF3;n de varias &#xE1;reas protegidas. Entre ellas se destaca la Reserva de la Bi&#xF3;sfera Calakmul, por el n&#xFA;mero de migrantes ind&#xED;genas que viven dentro de las 723,185 hectareas de bosque dentro de la reserva, y por los planes de desarrollar el turismo ecol&#xF3;gico y arqueol&#xF3;gico.</p>",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55",
+          "value": "2015-01-29T11:14",
           "valueNative": "2017-03-09T08:55"
         },
         "isCurrent": false
@@ -5430,8 +5436,8 @@
         "valueNative": "<p>Para mejorar la estimaci&#xF3;n de la l&#xED;nea de base, se debe llevar a cabo un an&#xE1;lisis del impacto de las pol&#xED;ticas recientes de LU, particularmente los cambios en los a&#xF1;os 2000 de la pol&#xED;tica de los sectores ganadero y forestal.</p>",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17",
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -5443,7 +5449,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -5455,7 +5461,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -5467,7 +5473,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -5479,7 +5485,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -5491,7 +5497,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -5503,7 +5509,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -5515,7 +5521,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -5527,7 +5533,7 @@
         "citation": "",
         "timestamps": {
           "value": "2017-03-09T08:55",
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -5538,7 +5544,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2016-11-19T07:08"
         },
         "isCurrent": false
       },
@@ -5549,7 +5555,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2017-01-24T18:56"
         },
         "isCurrent": false
       },
@@ -5650,7 +5656,8 @@
         "valueNative": "<p><strong>INICIATIVA DE REDUCCI&#xD3;N DE EMISIONES DE M&#xC9;XICO.</strong></p><p>La Iniciativa de Reducci&#xF3;n de Emisiones (<strong>IRE</strong>) es una propuesta presentada por M&#xE9;xico ante el <em>Fondo Cooperativo para el Carbono de los Bosques</em> (<a href=\"https://www.forestcarbonpartnership.org/)\">FCPF</a>, por sus siglas en ingl&#xE9;s) como la iniciativa nacional para lograr la reducci&#xF3;n en las emisiones del sector forestal, al tiempo que se pilotea el modelo de intervenci&#xF3;n y el esquema de pago por resultados para <strong>REDD+</strong>.</p><p>En M&#xE9;xico, la <strong>IRE</strong> busca proveer incentivos positivos para reducir las emisiones de gases de efecto invernadero (<strong>GEI</strong>), al tiempo que se protegen los bosques, se conserva la biodiversidad y se mejoran los medios de vida de poblaciones ind&#xED;genas y comunidades locales dependientes de los bosques.</p><p>La <em>Nota de Idea de la Iniciativa de Reducci&#xF3;n de Emisiones</em> (<strong>ER-PIN</strong>) preparada por nuestro pa&#xED;s establece el enfoque de manejo integral comunitario de M&#xE9;xico para reducir las emisiones de <strong>GEI</strong> provocadas por la deforestaci&#xF3;n y degradaci&#xF3;n de los ecosistemas forestales. Este modelo construye sobre m&#xE1;s de diez a&#xF1;os de experiencias exitosas en torno al manejo forestal sustentable a nivel comunitario.</p><p>Campeche es uno de los 5 estados contemplados para desarrollar sus Programas de Inversi&#xF3;n (PDI) como anexos de dicha Iniciativa, considerando que ha participado en el proceso previo de preparaci&#xF3;n en acciones tempranas para REDD+. Adicionalmente ha publicado su Estrategia Estatal REDD+ al tiempo que se publicar&#xE1; la Estrategia Nacional REDD+.</p>",
         "citation": "",
         "timestamps": {
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2015-01-29T11:14",
+          "value": "2015-01-29T11:14"
         },
         "isCurrent": false
       }
@@ -5698,7 +5705,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -5753,7 +5760,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -5841,7 +5848,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -5852,7 +5859,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -5863,7 +5870,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -5874,7 +5881,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -5885,7 +5892,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -5896,7 +5903,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -5907,7 +5914,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -5964,7 +5971,8 @@
         "valueNative": "<p>Chiapas es el octavo estado m&#xE1;s grande de M&#xE9;xico, con una superficie de 73.282 km&#xB2;, lo que representa el 3,8% de la superficie total de M&#xE9;xico, cuenta con una rica biodiversidad contenida en bosques nubosos, templados, pastizales naturales e inducidos, selva h&#xFA;meda y subh&#xFA;meda y selva tropical (INEGI, 2010); estos diferentes tipos de bosques cubren el 42% del &#xE1;rea total del estado (PACCCH, 2011). Como resultado, en Chiapas se encuentra el 30% del agua superficial de M&#xE9;xico, tiene adem&#xE1;s 47 &#xC1;reas Naturales Protegidas, que cubren el 19,8% de la superficie total del estado (SEMAHN, 2010). En 2009, el gobierno del estado lanz&#xF3; el Programa de Acci&#xF3;n para el Cambio Clim&#xE1;tico para el Estado de Chiapas (PACCCH), con la participaci&#xF3;n de muchos actores locales y nacionales, que gener&#xF3; un an&#xE1;lisis de la deforestaci&#xF3;n y degradaci&#xF3;n forestal en el estado y proyecciones para el futuro, as&#xED; como un inventario estatal de gases de efecto invernadero. El marco institucional y legal para la mitigaci&#xF3;n y adaptaci&#xF3;n al cambio clim&#xE1;tico fue creado mediante la publicaci&#xF3;n de la Ley de Adaptaci&#xF3;n al Cambio Clim&#xE1;tico y Mitigaci&#xF3;n que establece la creaci&#xF3;n de una Comisi&#xF3;n Estatal de Cambio Clim&#xE1;tico, formada por 15 agencias gubernamentales estatales, que son responsables del desarrollo e implementaci&#xF3;n de las pol&#xED;ticas de adaptaci&#xF3;n y mitigaci&#xF3;n, en ese sentido, se cuenta con la participaci&#xF3;n de la sociedad civil organizada. El Consejo T&#xE9;cnico Consultivo de REDD+ (CTC REDD+ CH), establecido oficialmente en 2011, est&#xE1; trabajando actualmente con la Secretar&#xED;a de Medio Ambiente en las regulaciones para el cambio clim&#xE1;tico y el desarrollo de la estrategia estatal REDD+, con aportaciones de organizaciones de la sociedad civil, agencias federales e instituciones acad&#xE9;micas en Chiapas. El objetivo es emitir una estrategia estatal REDD+ en 2013 y una estrategia regional REDD+ para 2015. El estado est&#xE1; trabajando para alinear sus esfuerzos con la Visi&#xF3;n Nacional para REDD+ y la Estrategia Nacional REDD+, en ese sentido, se asiste a reuniones con el Consejo T&#xE9;cnico Consultivo REDD+ Nacional y se alinean los esfuerzos en temas de: salvaguardias, metas y procesos, Monitoreo, Reporte y Verificaci&#xF3;n, y marcos institucionales y legales.</p>",
         "citation": "",
         "timestamps": {
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2017-03-09T08:55",
+          "value": "2017-03-09T08:32"
         },
         "isCurrent": false
       },
@@ -5975,7 +5983,8 @@
         "valueNative": "<p>Los cambios en el uso del suelo se producen en &#xE1;reas boscosas, que se convierten en pastizales para pastoreo de ganado, y cambios en el uso de suelo de tierras forestales a la agricultura, ambos fen&#xF3;menos son el primero y el segundo principal contribuyente a la deforestaci&#xF3;n, respectivamente. Otros factores que contribuyen a la deforestaci&#xF3;n (a partir del an&#xE1;lisis de regresi&#xF3;n en PACCCH, 2011) incluyen: la densidad de poblaci&#xF3;n, distancia a carreteras, distancia a ciudades / pueblos, distancias de las zonas agr&#xED;colas o ganaderas y gradientes de pendiente.</p>",
         "citation": "",
         "timestamps": {
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2017-03-09T08:55",
+          "value": "2017-03-09T08:32"
         },
         "isCurrent": false
       },
@@ -5986,7 +5995,8 @@
         "valueNative": "<p>Para generar informaci&#xF3;n matem&#xE1;tica sobre deforestaci&#xF3;n y degradaci&#xF3;n en el estado, se necesit&#xF3;, en primer lugar, generar vectores para obtener la primera cobertura de informaci&#xF3;n. Los escenarios SPOT se seleccionan utilizando un grupo de expertos en el uso de la teledetecci&#xF3;n as&#xED; como expertos en campo. En segundo lugar, los pol&#xED;gonos generados se editaron utilizando la Cobertura de ARC y a 25,000 por cuadro. En tercer lugar, se generaron y validaron las etiquetas, este proceso consiste en explotar al m&#xE1;ximo la informaci&#xF3;n dura del sistema de informaci&#xF3;n que se est&#xE1; procesando. La mayor parte de estos datos provienen de las siguientes fuentes: Inventario Nacional de Bosques y Suelos de la CONAFOR 2004-2010 y del Inventario Nacional de Suelos Erosionados (INEGI) 2007-2010. En cuarto lugar, para analizar la deforestaci&#xF3;n, se utilizaron mapas de cobertura vegetal y uso de la tierra de las series 2, 3 y 4 del INEGI en una escala de 1:250,000, a partir de los a&#xF1;os 1993, 2002 y 2007. Las leyendas de los mapas fueron recodificadas para generar clases generales y comparables. La recodificaci&#xF3;n se realiz&#xF3; a dos niveles, en el primer nivel los tipos de vegetaci&#xF3;n se agruparon en 12 tipos de cobertura vegetal y en el siguiente nivel se definieron s&#xF3;lo dos tipos de cobertura vegetal, forestal y no forestal. El primer nivel se utiliz&#xF3; para describir los tipos de cambios y el segundo m&#xE9;todo se utiliz&#xF3; como principal insumo para el modelo de deforestaci&#xF3;n. Los datos socioecon&#xF3;micos y f&#xED;sicos para el estudio de los factores que influyen en el cambio de uso de la tierra fueron tomados de los mapas y censos del INEGI, de la Comisi&#xF3;n Nacional de Conocimiento y Uso de la Biodiversidad (CONABIO) y del Plan Ecol&#xF3;gico de Chiapas (PEOT). La red de carreteras fue digitalizada utilizando im&#xE1;genes satelitales de SPOT5 a partir de 2009 (con una resoluci&#xF3;n espacial de 2,5m). Todas las bases geogr&#xE1;ficas fueron transformadas a la misma proyecci&#xF3;n (zona UTM 15, datum WGS84) y cortadas seg&#xFA;n los l&#xED;mites del &#xE1;rea de estudio.</p>",
         "citation": "",
         "timestamps": {
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2017-03-09T08:55",
+          "value": "2017-03-09T08:32"
         },
         "isCurrent": false
       },
@@ -5997,7 +6007,8 @@
         "valueNative": "<p>Las necesidades para determinar la degradaci&#xF3;n forman parte de un programa de monitoreo m&#xE1;s amplio.</p>",
         "citation": "",
         "timestamps": {
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2017-03-09T08:55",
+          "value": "2017-03-09T08:32"
         },
         "isCurrent": false
       },
@@ -6008,7 +6019,8 @@
         "valueNative": "<p>Extracci&#xF3;n para su comercializaci&#xF3;n, fabricaci&#xF3;n de vallas y se&#xF1;alizaci&#xF3;n de territorios; extracci&#xF3;n de materiales para vivienda y quema dom&#xE9;stica, as&#xED; como para llevar a cabo labores relacionadas con la ganader&#xED;a y agricultura; y, enfermedades forestales e incendios forestales.</p>",
         "citation": "",
         "timestamps": {
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2017-03-09T08:55",
+          "value": "2017-03-09T08:32"
         },
         "isCurrent": false
       },
@@ -6019,7 +6031,8 @@
         "valueNative": "<p>Se necesita m&#xE1;s monitoreo en campo y capacitaci&#xF3;n de t&#xE9;cnicos comunitarios en medici&#xF3;n cuantitativa y semicuantitativa.</p>",
         "citation": "",
         "timestamps": {
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2017-03-09T08:55",
+          "value": "2017-03-09T08:32"
         },
         "isCurrent": false
       },
@@ -6030,7 +6043,8 @@
         "valueNative": "<p>Para fortalecer el sistema MRV estatal es necesario desarollar y mejorar aspectos relacionados con la informacion de datos de actividad, factores de emisi&#xF3;n y el analisis de incertidumbre, fusion de informacion, inventarios de carbono y modelos de estado y transiciones.</p>",
         "citation": "",
         "timestamps": {
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2017-03-09T08:55",
+          "value": "2017-03-09T08:32"
         },
         "isCurrent": false
       }
@@ -6045,7 +6059,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2016-10-31T10:14"
         },
         "isCurrent": false
       },
@@ -6089,7 +6103,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2016-10-31T10:14"
         },
         "isCurrent": false
       },
@@ -6179,7 +6193,8 @@
         "valueNative": "<p>Causas directas:</p><ul><li>Ganader&#xED;a extensiva con uso de pastizales inducidos cultivados y agostaderos carriles.</li><li>Conversi&#xF3;n a terrenos agr&#xED;colas para agricultura de renta.</li><li>Crecimiento urbano para el desarrollo tur&#xED;stico.</li></ul><p>Causas subyacentes:</p><ul><li>Falta de empleo y de impulso a la econom&#xED;a local.</li><li>Poca vigilancia y de aplicaci&#xF3;n a las leyes.</li><li>Falta de seguimiento de programas y pol&#xED;ticas p&#xFA;blicas.</li><li>Falta de organizaci&#xF3;n comunitaria con visi&#xF3;n a aprovechamiento sustentable.</li><li>Infraestructura carretera, crecimiento de las zonas urbanas.</li><li>Causas asociadas a la gobernanza local territorial.</li></ul>",
         "citation": "",
         "timestamps": {
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2017-03-09T08:55",
+          "value": "2017-03-09T08:32"
         },
         "isCurrent": false
       },
@@ -6190,7 +6205,8 @@
         "valueNative": "<p>Causas directas:</p><ul><li>Extracci&#xF3;n ilegal de madera para combustible, postes y otros usos locales.</li><li>Pr&#xE1;cticas de manejo forestal inadecuadas.</li><li>Plagas y enfermedades forestales.</li><li>Ganader&#xED;a extensiva y sobrepastoreo.</li><li>Extracci&#xF3;n ilegal de madera y cultivos ilegales.</li><li>Incendios forestales frecuentes.</li></ul><p>Causas subyacentes:</p><ul><li>Falta de empleo y de impulso a la econom&#xED;a local.</li><li>Poca vigilancia y de aplicaci&#xF3;n a las leyes.</li><li>Falta de seguimiento de programas y pol&#xED;ticas p&#xFA;blicas.</li><li>Falta de organizaci&#xF3;n comunitaria con visi&#xF3;n a aprovechamiento sustentable.</li><li>Infraestructura carretera, crecimiento de las zonas urbanas.</li><li>Causas asociadas a la gobernanza local territorial.</li></ul>",
         "citation": "",
         "timestamps": {
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2017-03-09T08:55",
+          "value": "2017-03-09T08:32"
         },
         "isCurrent": false
       }
@@ -6205,7 +6221,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2017-01-24T18:56"
         },
         "isCurrent": false
       },
@@ -6216,7 +6232,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2017-01-24T18:56"
         },
         "isCurrent": false
       },
@@ -6377,7 +6393,8 @@
         "valueNative": "<p>El estadode Tabasco representa 1.26% de la superficie del pa&#xED;s. Al 2015, elestado de Tabasco est&#xE1; dividido en 17 municipios. El 95.5% de lasuperficie del estado presenta clima c&#xE1;lido h&#xFA;medo, el restante 4.5% es climac&#xE1;lido subh&#xFA;medo hacia la parte este del estado.</p><p>La temperatura media anual en laentidad es de 27&#xB0;C, la temperatura m&#xE1;xima promedia es de 36&#xB0;C y se presenta enel mes de mayo, la temperatura m&#xED;nima promedio es de 18.5&#xB0;C durante el mes deenero. La precipitaci&#xF3;n media estatal es de 2 550 mm anuales, las lluvias sepresentan todo el a&#xF1;o, siendo m&#xE1;s abundantes en los meses de junio a octubre.</p><p>El clima c&#xE1;lido h&#xFA;medo favoreceel cultivo de pl&#xE1;tano, papaya, naranja, lim&#xF3;n, coco, cacao, arroz, ma&#xED;z yfrijol, entre otros.</p><p>La superficie estatal forma parte de las provincias: LlanuraCostera del Golfo Sur y Sierras de Chiapas y Guatemala.</p>",
         "citation": "",
         "timestamps": {
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2017-03-09T08:55",
+          "value": "2017-03-09T08:32"
         },
         "isCurrent": false
       }
@@ -6403,7 +6420,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2017-01-24T18:56"
         },
         "isCurrent": false
       },
@@ -6425,7 +6442,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2017-01-24T18:56"
         },
         "isCurrent": false
       },
@@ -6493,7 +6510,8 @@
         "valueNative": "<p>Entre los acontecimientos recientes m&#xE1;s relevantes relacionados con REDD+ en Yucat&#xE1;n se encuentra el desarrollo de la Estrategia Estatal de Reducci&#xF3;n de Emisiones por Deforestaci&#xF3;n y Degradaci&#xF3;n Forestal (EEREDD+ ) de Yucat&#xE1;n. Instrumento clave de la planeaci&#xF3;n estatal que establece los lineamientos para la orientaci&#xF3;n de pol&#xED;ticas y programas p&#xFA;blicos para la implementaci&#xF3;n de acciones que impulsen el desarrollo rural sustentable y la reducci&#xF3;n de emisiones por deforestaci&#xF3;n y degradaci&#xF3;n de los ecosistemas forestales considerando las caracter&#xED;sticas y circunstacias espec&#xED;ficas de la entidad. </p>Durante el 2017 esta estrategia ser&#xE1; sometida a consulta p&#xFA;blica y se presentar&#xE1; formalmente ante la Comisi&#xF3;n Intersecretarial de Cambio Clim&#xE1;tico de Yucat&#xE1;n.<p>Asimismo otro de los acontecimientos m&#xE1;s relevantes asociados a REDD+ en el estado de Yucat&#xE1;n, se encuentra la aprobaci&#xF3;n del Plan de Inversi&#xF3;n de la Regi&#xF3;n Biocultural del Puuc, en el marco de la Primera Sesi&#xF3;n Ordinaria de la Comisi&#xF3;n Intersecretarial de Cambio Clim&#xE1;tico de Yucat&#xE1;n en Febrero de 2016, cuyo objetivo es la promoci&#xF3;n de la implementaci&#xF3;n de pr&#xE1;cticas productivas y de manejo de recursos naturales en fomento del desarrollo rural sustentable y la reducci&#xF3;n de las causantes de deforestaci&#xF3;n y degradaci&#xF3;n forestal en los municipios de Santa Elena, Ticul, Muna, Oxkutzcab, Tekax, Tzucacab, Peto, Tzucacab y Yaxcab&#xE1;. </p><p>Finalmente vinculado a los acontecimientos relativos a REDD+ en el estado, en septiembre de 2016 se establece el Comit&#xE9; de Salvaguardas de la Pen&#xED;nsula de Yucat&#xE1;n, como una plataforma de participaci&#xF3;n social &#xFA;nica en su tipo, por especializarse en dar retroalimentaci&#xF3;n y brindar insumos sobre el abordaje y respeto de las <strong>salvaguardas REDD+</strong> desde una perspectiva regional.</p>",
         "citation": "",
         "timestamps": {
-          "valueNative": "2017-03-09T08:55"
+          "valueNative": "2017-03-09T08:55",
+          "value": "2017-03-09T08:32"
         },
         "isCurrent": false
       }
@@ -6508,7 +6526,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -6519,7 +6537,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -6530,7 +6548,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -6590,7 +6608,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -6601,7 +6619,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -6612,7 +6630,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -6700,7 +6718,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -6821,7 +6839,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2016-12-06T06:40"
         },
         "isCurrent": false
       }
@@ -6837,7 +6855,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -6848,7 +6866,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -6859,7 +6877,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -6870,7 +6888,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -6919,7 +6937,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2017-01-16T08:01"
         },
         "isCurrent": false
       },
@@ -7163,7 +7181,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2016-12-06T06:40"
         },
         "isCurrent": false
       },
@@ -7174,7 +7192,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2016-12-06T06:40"
         },
         "isCurrent": false
       },
@@ -7185,7 +7203,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2016-12-06T06:40"
         },
         "isCurrent": false
       },
@@ -7196,7 +7214,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2016-12-06T06:40"
         },
         "isCurrent": false
       },
@@ -7251,7 +7269,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2016-12-06T06:40"
         },
         "isCurrent": false
       }
@@ -7276,7 +7294,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2015-01-29T11:14"
         },
         "isCurrent": false
       },
@@ -7287,7 +7305,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2015-01-29T11:14"
         },
         "isCurrent": false
       },
@@ -7335,7 +7353,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -7379,7 +7397,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -7423,7 +7441,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -7434,7 +7452,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -7467,7 +7485,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -7478,7 +7496,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -7513,7 +7531,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2014-09-08T10:17"
         },
         "isCurrent": false
       },
@@ -7723,7 +7741,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2015-01-29T11:14"
         },
         "isCurrent": false
       },
@@ -7734,7 +7752,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2015-01-29T11:14"
         },
         "isCurrent": false
       },
@@ -7840,7 +7858,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2015-01-29T11:14"
         },
         "isCurrent": false
       },
@@ -7851,7 +7869,7 @@
         "valueNative": "",
         "citation": "",
         "timestamps": {
-          "value": "2017-03-09T08:55"
+          "value": "2015-01-29T11:14"
         },
         "isCurrent": false
       },
