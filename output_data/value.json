@@ -3,6 +3,16 @@
     "final": [
       {
         "id": "",
+        "value": "Mining, petroleum, transportation equipment, soy, sugar, ethanol, meat & coffee.",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "value": "<p><a href=\"http://www.camara.gov.br/proposicoesWeb/fichadetramitacao?idProposicao=491311\">Law Project nr.195/2011</a> &#x2013; Aims to institute a National REDD+ system (under formulation)</p><p><a href=\"http://www.senado.gov.br/atividade/materia/getPDF.asp?t=89578&amp;tp=1\">Senate Law Project 212/2011</a> &#x2013; Aims to institute a National REDD+ system (under formulation)</p><p><a href=\"http://www.planalto.gov.br/ccivil_03/_ato2004.../l11284.htm\">Law nr. 11.284/2006</a> &#x2013; Establishes the Federal law for the management of public forests</p><p><a href=\"https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12727.htm\" title=\"Law nr. 12.727/2012\">Law nr. 12.727/</a>2012 &#x2013; Creates the New Brazilian Forest Code</p><p><a href=\"http://www.planalto.gov.br/ccivil_03/_.../Decreto/D7390.htm\">Law Decree nr 7.390/2010</a> &#x2013; Regulates the National Policy on Climate Change <a href=\"https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12187.htm\" title=\"(Law nr 12.187/2009)\">(created by law nr 12.187/2009)</a></p><p><a href=\"https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/decreto/d7343.htm\" title=\"Law Decree nr 7.343/2010\">Law Decree nr 7.343/2010</a> - Regulates the Climate Change National Fund <a href=\"https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12114.htm\" title=\"(Law nr 12.114/2009)\">(created by law nr 12.114/2009)</a></p><p><a href=\"http://www.gcftaskforce.org/documents/GCFF/database/Brazil%20Forest%20Code.pdf\">Law nr 12.651/2012 </a>- Revised national Forest Code which guides the management over forest resources in Brazil and delegates the mapping and registering of all rural properties to the states.</p><p><a href=\"http://www.gcftaskforce.org/documents/GCFF/database/National%20Zoning%20Decree%20Brazil.pdf\">Decree 7.378/2010</a> - approves the macro ecological and economic zoning for the amazon</p>",
         "valueNative": "",
         "citation": "",
@@ -32,10 +42,91 @@
         "isCurrent": false
       }
     ],
-    "pending": []
+    "pending": [
+      {
+        "id": "",
+        "value": "Mining, petroleum, transportation equipment, soy, sugar, ethanol, meat & coffee.",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      }
+    ]
   },
   "brazil.acre": {
     "final": [
+      {
+        "id": "",
+        "value": "Agriculture, Forestry, Meat, Fishing",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "Cattle Ranching, Land Speculation, Agriculture, Roads, Logging",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "1996-2005",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
       {
         "id": "",
         "value": "<p>The state of Acre is one of the most advanced REDD jurisdictions in the world. In 2010, Acre enacted its landmark Law 2.308/2010, creating a State System of Incentives for Environmental Services (SISA), with REDD as the centerpiece. It provides an innovative, jurisdiction-wide approach to low-carbon rural development. The SISA establishes a set of principles, policies, institutions, and instruments for building an effective program for achieving environmental sustainability through ecosystem services incentives. It is designed to promote public-private initiatives to achieve the state&#x2019;s goals with respect to ecosystem services. Notably, Acre established its SISA law through in-depth consultation with local stakeholders and civil society, in compliance with national level REDD+ safeguards principles and criteria.</p><p>Building on its participation in the GCF, Acre is currently working with the states of California and Chiapas to define the elements of a jurisdiction-wide approach for REDD that is capable of generating compliance-grade emissions reductions.</p>",
@@ -150,6 +241,16 @@
     "pending": [
       {
         "id": "",
+        "value": "Agriculture, Forestry, Meat, Fishing",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "value": "",
         "valueNative": "<p>O Estado do Acre se localiza napor&#xE7;&#xE3;o ocidental da regi&#xE3;o Norte do Brasil, na Amaz&#xF4;nia ocidental, entre aslongitudes de 66&#xB0;38&#x2019; WGr e 74&#xB0;00&#x2019; WGr e latitudes 7&#xB0;07&#x2019; S e 11&#xB0;08&#x2019; S. Oslimites do Estado s&#xE3;o formados por fronteiras internacionais com Peru e Bol&#xED;viae por divisas estaduais com os estados do Amazonas e Rond&#xF4;nia (IBGE,2007). Sua superf&#xED;cie territorial &#xE9; de 164.221km&#xB2;, o que representa 1,92% do territ&#xF3;rio nacional e 4,26% da regi&#xE3;oNorte. Com essas dimens&#xF5;es, o Acre &#xE9; o 15&#xBA; estado brasileiro em extens&#xE3;o territorial.</p><p>Com 733.559 habitantes, apopula&#xE7;&#xE3;o do Acre representa 2,80% da popula&#xE7;&#xE3;o brasileira, o que lhe confere o25&#xBA; lugar no ranking dos estados. Na regi&#xE3;o Norte, apopula&#xE7;&#xE3;o do Estado representa 4,48% do total. </p><p>A voca&#xE7;&#xE3;osocioecon&#xF4;mica florestal do Estado do Acre est&#xE1; representada pelos 87% do seuterrit&#xF3;rio em ativos florestais conservados. Consequentemente, 13% de &#xE1;reasabertas representam um desafio de uso diversificado e produ&#xE7;&#xE3;o integrada deforma intensificada, evitando assim, o avan&#xE7;o do desmatamento e queimadas, bemcomo a emiss&#xE3;o de gases de efeito estufa para atmosfera. </p><p>A pol&#xED;tica deDesenvolvimento Sustent&#xE1;vel do Estado do Acre &#xE9; clara ao considerar a vis&#xE3;o demanejo integrado da floresta. Nesta pol&#xED;tica, a floresta &#xE9; um provedor deprodutos e servi&#xE7;os ambientais e se integra &#xE0; diversidade de uso das &#xE1;reas j&#xE1;convertidas, estruturadas a partir de uma base de conhecimento do territ&#xF3;rioque permite definir estrat&#xE9;gias integradas em n&#xED;vel local, municipal, regionale estadual.</p><p>Com base nestapremissa, o Estado do Acre, desde 1999, vem desenvolvendo um complexo conjuntode pol&#xED;ticas p&#xFA;blicas, medidas de controle e de aperfei&#xE7;oamento institucionalcujos resultados come&#xE7;aram a se refletir numa expressiva redu&#xE7;&#xE3;o das taxas dedesmatamento observadas a partir de 2006. O Estado do Acre, portanto, muitoantes de surgirem as primeiras discuss&#xF5;es sobre REDD, no &#xE2;mbito internacional,j&#xE1; vinha implementando um abrangente programa de redu&#xE7;&#xE3;o de desmatamento quelhe permitiu acumular uma vasta experi&#xEA;ncia e que culminou com a cria&#xE7;&#xE3;o doSistema Estadual de Incentivos a Servi&#xE7;os Ambientais &#x2013; SISA, criado atrav&#xE9;s daLei Estadual N&#xBA; 2.308/2010.</p><p>O SISA estabelece um conjunto deprinc&#xED;pios, pol&#xED;ticas, institui&#xE7;&#xF5;es e instrumentos para a forma&#xE7;&#xE3;o de umprograma efetivo para o alcance da sustentabilidade ambiental por meio deincentivos a servi&#xE7;os ecossist&#xEA;micos. O sistema visa promover iniciativasp&#xFA;blico-privadas para atingir os objetivos do estado com respeito aos servi&#xE7;osecossist&#xEA;micos. </p>",
         "citation": "",
@@ -182,6 +283,66 @@
   },
   "brazil.amapa": {
     "final": [
+      {
+        "id": "",
+        "value": "Gold iron and other ores, wood and fruit.",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "1",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "1996-2005",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
       {
         "id": "",
         "value": "<p>Among the Brazilian Amazon states, the State of Amap&#xE1; has the highest percentage of its territory under some kind of protection&#x2014;approximately 70%&#x2014;with 80% of its forests intact. The state has an important forest-based economic sector, extracting both timber and non-timber products (including a&#xE7;ai, Brazil nuts, and cip&#xF3; titica).</p><p>The State has initiated a carbon inventory in collaboration with the National Institute for Amazon Research (INPA). INPA has estimated the carbon content in state forests using a combination of field data and empirically developed allometric equations.</p><p>Currently, Amap&#xE1; has no official regulatory framework related to environmental services or REDD+ yet. However, discussions have begun among government, civil society, and academic institutions with respect to developing a formal strategy for environmental services and REDD+.</p><p>The government has developed the State Plan for Prevention and Control of Deforestation and Forest Burning (PPCDAP), which aims to curb deforestation through 4 main types of actions: territorial planning, monitoring and control, promotion of sustainable economic activities, and governance and institutional strengthening.</p>",
@@ -320,6 +481,66 @@
     "final": [
       {
         "id": "",
+        "value": "Industrial (electronics, motorcycles)",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "1",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2012",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "1996-2005",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2012",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "value": "<p>The State of Amazonas is Brazil&#x2019;s largest state with an area of more than 1.5 million km&#xB2;, of which more than half is in protected areas. The state retains nearly 97% of its original forest cover and has the largest tropical forest carbon stock of any sub-national jurisdiction on the planet. Half of the state&#x2019;s population of 3.3 million resides in the capital, Manaus, while the other half is distributed among 61 counties. Amazonas is home to 66 indigenous peoples. Furthermore, thousands of plants, animals, and insects&#x2014;most of which are still unknown to science&#x2014;are found in Amazonas&#x2019; forests.</p><p>Amazonas is a pioneer in establishing state-wide public policies related to climate change and designing positive incentives for forest conservation. In 2007, Amazonas established its State Policy on Climate Change (PEMC) (law 3.135/2007) and a complementary law (53/2007), which establishes the State System for Protected Areas (SEUC). These were followed by the development of the State&#x2019;s Deforestation Prevention and Control Plan (PPCDAM), involving a broad range of state secretariats in an integrated effort to develop ways of reducing deforestation while creating new economic alternatives. Combined, these policies have helped to reduce deforestation from activities such as land grabbing, illegal logging, soy farming and cattle ranching from a 10-year average (1996-2005) of 868 km&#xB2; to 474 km&#xB2; in 2010.</p><p>Another strategy adopted by the Amazonas State Government was the creation of a public-private foundation, the Sustainable Amazonas Foundation (FAS), to manage the Bolsa Floresta Program (PBF). PBF is a pioneer pilot program for payments for ecosystem services that supports 15 State Protected Areas.</p>",
         "valueNative": "<p>O estado do Amazonas &#xE9; o maior estado do Brasil, com uma &#xE1;rea de mais de 1,5 milh&#xE3;o de km&#xB2;, dos quais mais da metade &#xE9; constitu&#xED;da por &#xE1;reas protegidas. O estado mant&#xE9;m quase 97% de sua cobertura florestal original e possui o maior estoque de carbono de floresta tropical de qualquer jurisdi&#xE7;&#xE3;o subnacional do planeta. Metade da popula&#xE7;&#xE3;o do estado de 3,3 milh&#xF5;es de habitantes reside na capital, Manaus, enquanto a outra metade &#xE9; distribu&#xED;da entre 61 munic&#xED;pios. O Amazonas abriga 66 povos ind&#xED;genas. Al&#xE9;m disso, milhares de plantas, animais e insetos &#x2013; a maioria dos quais ainda desconhecida da ci&#xEA;ncia &#x2013; s&#xE3;o encontrados nas florestas do Amazonas.</p><p>O estado &#xE9; pioneiro na ado&#xE7;&#xE3;o de pol&#xED;ticas p&#xFA;blicas de abrang&#xEA;ncia estadual relacionadas &#xE0;s mudan&#xE7;a do clima e na cria&#xE7;&#xE3;o de incentivos positivos para a conserva&#xE7;&#xE3;o florestal. Em 2007, o Amazonas instituiu sua Pol&#xED;tica Estadual de Mudan&#xE7;as Clim&#xE1;ticas (PEMC) (lei 3135/2007) e uma lei complementar (53/2007), que estabelece o Sistema Estadual de Unidades de Conserva&#xE7;&#xE3;o (SEUC). Estas foram seguidas da elabora&#xE7;&#xE3;o do Plano de A&#xE7;&#xE3;o para a Preven&#xE7;&#xE3;o e Controle do Desmatamento na Amaz&#xF4;nia Legal (PPCDAM), envolvendo uma ampla gama de secretarias estaduais em um esfor&#xE7;o integrado para desenvolver meios de reduzir o desmatamento e, ao mesmo tempo, criar novas alternativas econ&#xF4;micas. Combinadas, essas pol&#xED;ticas ajudaram a reduzir o desmatamento causado por atividades como a grilagem, extra&#xE7;&#xE3;o ilegal da madeira, cultivo de soja e pecu&#xE1;ria de uma m&#xE9;dia de 10 anos (19962005) de 868 km&#xB2; para 474 km&#xB2; em 2010.</p><p>Outra estrat&#xE9;gia adotada pelo Governo do Estado do Amazonas foi a cria&#xE7;&#xE3;o de uma funda&#xE7;&#xE3;o p&#xFA;blicoprivada, a Funda&#xE7;&#xE3;o Amazonas Sustent&#xE1;vel (FAS), para gerir o Programa Bolsa Floresta (PBF). O PBF &#xE9; um programapiloto pioneiro relativo ao pagamento por servi&#xE7;os ambientais que favorece 15 unidades de conserva&#xE7;&#xE3;o estaduais.</p>",
         "citation": "",
@@ -427,16 +648,107 @@
           "valueNative": "2017-03-09T08:55"
         },
         "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "Land Grabbing, Cattle Ranching, Illegal Logging, Agriculture",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
       }
     ],
     "pending": []
   },
   "brazil.maranhao": {
-    "final": [],
+    "final": [
+      {
+        "id": "",
+        "value": "Minério de ferro, alumínio, alumina, soja, ferrogusa",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "vegetação secundária (53,6%), pecuária (40,4%) e agricultura (5,2%)",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      }
+    ],
     "pending": []
   },
   "brazil.mato_grosso": {
     "final": [
+      {
+        "id": "",
+        "value": "Agricultural Products - soy, meat, corn and cotton",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "1",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2011",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "1996-2005",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
       {
         "id": "",
         "value": "<p>The State of Mato Grosso is one of Brazil&apos;s main producers of agricultural products including soya, corn, beef, and cotton. It had historically high levels of deforestation until 2004, when rates dropped 93% between 2004 (11,814 km&#xB2;) and 2010 (828 km&#xB2;).</p><p>In 2009, the State developed an Action Plan to Prevent and Control Deforestation and Forest Fires in Mato Grosso (PPCDQ-MT). The Plan establishes a framework for coordinated action at the state-level, with the goal of achieving the State&apos;s voluntary forest emissions reduction target, which is consistent with the target established by the federal government. In addition to reducing deforestation and forest fires, the Plan seeks to increase the State&apos;s sustainable development efforts. </p><p>Mato Grosso&apos;s Department of Environment includes a Climate Change Coordinator, which has helped increase the Department&apos;s focus on climate change and REDD+. The State also created a State Forum on Climate Change in 2009, whose objective is to raise awareness and mobilize action on climate change. The Forum consists of governmental and non-governmental representatives. Its Climate Change Policy Working Group developed a Climate Change Policy that was approved by the Forum in October 2010. Its REDD+ Working Group is establishing a regulatory framework for REDD+, which is currently undergoing public review and consultation.</p><p>In partnership with NGOs, the State of Mato Grosso is developing a REDD+ project (Projeto Cotrigua&#xE7;u) in the northwest of the state.</p>",
@@ -564,6 +876,86 @@
     "final": [
       {
         "id": "",
+        "value": "1",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "Iron ore, aluminum, copper ore, manganese ore, beef, wood, black pepper, palm",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "Expansion of livestock activity, large scale agriculture and logging",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2011",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "1996-2005",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "value": "<p>The State of Par&#xE1; has one of the largest expanses of remaining forest area in the Brazilian Amazon that also faces high deforestation risk, currently having among the highest deforestation rates. The state has no regulatory framework related to REDD+ or environmental services, but has some important related activities under development within its territory.</p><p>Par&#xE1; has developed its Ecologic and Economic Zoning (EEZ) plan, a core instrument for land use planning policy which also provides guidance for the strategic actions of the Plan for Prevention and Control of Deforestation (PPCAD). The objectives of the EEZ are conservation of ecosystems and biodiversity, development of sustainable economic activities, and reduction of land conflicts and deforestation.</p><p>The PPCAD is another important instrument, whose basic premise is that only the development of sustainable economic alternatives can perpetuate the drop in deforestation rates, contribute to the maintenance of forests blocks. The plan&#x2019;s principle actions are divided in 3 groups: Territory, Land Use and Environmental Planning; Fostering Sustainable Activities; and Monitoring and Control.</p><p>In addition, several REDD+ projects in the state are in the phase of design and development, some of them through partnerships with NGOs, such as Imazon, Conservation International, and TNC.</p>",
         "valueNative": "<p>O estado do Par&#xE1; &#xE9; o segundo maior Estado Brasileiro em extens&#xE3;o territorial, atr&#xE1;s apenas do Amazonas. Possui aproximadamente a mesma extens&#xE3;o territorial que Portugal, Espanha, It&#xE1;lia, Reino Unido, B&#xE9;lgica, Holanda e Dinamarca juntos. &#xC9;, tamb&#xE9;m, o segundo maior Estado da Amaz&#xF4;nia Legal em &#xE1;rea de floresta remanescente, com quase 900.000 km&#xB2; de florestas e uma enorme biodiversidade.</p><p>O Par&#xE1; &#xE9; o Estado que talvez melhor sintetize a Amaz&#xF4;nia no complexo mosaico de atividades existentes em toda a Regi&#xE3;o: extrativismo vegetal, explora&#xE7;&#xE3;o madeireira, monocultura em larga escala, pecu&#xE1;ria, minera&#xE7;&#xE3;o, abertura de rodovias, hidrel&#xE9;tricas. Apesar do hist&#xF3;rico de forte avan&#xE7;o das atividades econ&#xF4;micas e infraestruturais sobre as &#xE1;reas de florestas, o Par&#xE1; vem, desde 2009, reduzindo progressivamente suas taxas de desmatamento.</p><p>Parte do sucesso nessa redu&#xE7;&#xE3;o se deve &#xE0;s pol&#xED;ticas p&#xFA;blicas lan&#xE7;adas no Estado. O Par&#xE1; elaborou seu plano de Zoneamento Ecol&#xF3;gico e Econ&#xF4;mico (ZEE), um instrumento de gest&#xE3;o ambiental essencial ao ordenamento territorial. Al&#xE9;m disso, o Estado conta ainda com o Plano de Preven&#xE7;&#xE3;o, Controle e Alternativas ao Desmatamento (PPCAD), cuja premissa b&#xE1;sica &#xE9; de que apenas a&#xE7;&#xF5;es de Comando e Controle n&#xE3;o s&#xE3;o suficientes do Estadoapenas a cria&#xE7;&#xE3;o de alternativas econ&#xF4;micas sustent&#xE1;veis &#xE9; capaz de perpetuar a queda das taxas de desmatamento e contribuir para a manuten&#xE7;&#xE3;o dos blocos florestais.</p><p>Acreditando que &#xE9; poss&#xED;vel crescer economicamente sem precisar reproduzir o modelo hist&#xF3;rico de degrada&#xE7;&#xE3;o ambiental, o Estado desenvolve o Programa Munic&#xED;pios Verdes, que refor&#xE7;a as pol&#xED;ticas p&#xFA;blicas j&#xE1; existentes ao se constituir em um grande pacto na busca por um modelo de economia que alie conserva&#xE7;&#xE3;o e produ&#xE7;&#xE3;o e garanta ao Par&#xE1; uma economia de baixo carbono. A partir de um pacto entre Poder P&#xFA;blico, Setor Produtivo e Sociedade Civil, a produ&#xE7;&#xE3;o aumenta, adequa-se &#xE0; legalidade, torna-se sustent&#xE1;vel e traz melhorias &#xE0; qualidade de vida do povo paraense.</p><p>O Governo do Estado do Par&#xE1; entende que ainda h&#xE1; um longo caminho e continua avan&#xE7;ando na dire&#xE7;&#xE3;o de marcos regulat&#xF3;rios e pol&#xED;ticas p&#xFA;blicas para Mudan&#xE7;as Clim&#xE1;ticas e Servi&#xE7;os Ambientais. Exemplo disso &#xE9; a reabertura do F&#xF3;rum Paraense de Mudan&#xE7;as Clim&#xE1;ticas, em processo.</p><p>Embora o Estado n&#xE3;o disponha de marco regulat&#xF3;rio espec&#xED;fico de Mudan&#xE7;as Clim&#xE1;ticas, Servi&#xE7;os Ambientais e de REDD+, v&#xE1;rios projetos de REDD+ no estado est&#xE3;o em fase de concep&#xE7;&#xE3;o e desenvolvimento, alguns dos quais em parceria com ONGs, como Imazon, Conserva&#xE7;&#xE3;o Internacional e TNC.</p>",
         "citation": "",
@@ -665,11 +1057,112 @@
     "pending": []
   },
   "brazil.rondonia": {
-    "final": [],
-    "pending": []
+    "final": [
+      {
+        "id": "",
+        "value": "produtos bovinos, soja, estanho, milho, óleo diesel",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "Pecuária (62%), vegetação secundária (31,7%) e agricultura (5,8%)",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      }
+    ],
+    "pending": [
+      {
+        "id": "",
+        "value": "",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {},
+        "isCurrent": false
+      }
+    ]
   },
   "brazil.tocantins": {
-    "final": [],
+    "final": [
+      {
+        "id": "",
+        "value": "Soy, meat, pineapple",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "New roads, intensification of agriculture (new soy and sugar cane plantations and fruit orchards) and intensification of cattle ranching.",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2013",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "1996 - 2005",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2013",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "1",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2010",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      }
+    ],
     "pending": []
   },
   "colombia.caqueta": {
@@ -678,6 +1171,16 @@
   },
   "indonesia": {
     "final": [
+      {
+        "id": "",
+        "value": "Textiles and related products, forest products, electronics, rubber and rubber products, oil palm and derivatives, automotive, footwear, fisheries, coffee and cocoa",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
       {
         "id": "",
         "value": "<p><a title=\"Indicative Moratorium Map\" href=\"http://appgis.dephut.go.id/appgis/petamoratorium3.html\">Indicative Moratorium Map</a> - Decree of the Minister of Forestry Indonesia Number: SK. 2771/Menhut-VII/IPSDH/2012.</p>",
@@ -693,6 +1196,46 @@
   },
   "indonesia.aceh": {
     "final": [
+      {
+        "id": "",
+        "value": "Mineral fuels, mineral oils and products of their distillation, inorganic chemicals, fertilizers, ores, slag, ash, cocoa and cocoa preparations",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "Poorly controlled infrastructure development, mining, conversion of forest to tree crop plantations (palm oil), settlement expansion, smallholder encroachment, illegal logging",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
       {
         "id": "",
         "value": "<p>Aceh lies between 20 and 60 degrees north of the equator at the extreme north of the Island of Sumatra and across the Strait of Malacca from Peninsular Malaysia. It is the most western province in Indonesia and has a unique history strongly embedded in a social structure reflecting the importance of Islam to the peoples&#x2019; day to day lives. Within a formal administrative structure common to Indonesia there is a system of informal leadership (mukim) which identifies local communities strongly held within religious bonds. These communities, with their religious base, are a strong part of Acehnese society. The Province was granted Special Autonomy in 2001. They are key agents mobilized by the Governor as part of the Province&#x2019;s REDD initiatives for climate change mitigation and adaptation.</p><p>The Province occupies an area of almost 57 000 km2 and supports a population of 4.3 million of whom most live in rural environments. The population is of mixed ethnic origin with original Acehnese complemented by communities from Java, elsewhere in Sumatra and ethnic Chinese. GDP in 2008 was USD 3.8 million of which the agricultural sector, including forestry and estate crops, contributed about USD 900 million. Aceh has been a major source of oil and natural gas production and this sector is still the main contributor to GDP. Mean per capita income is USD 881.3 with levels of poverty and the HDI similar to the national average.</p><p>As LNG production declines the government is focusing on a green development strategy. Green Aceh seeks to optimize the use of its hydro generating potential; implement sustainable forest management, retain and protect its lowlands for food production, to be mindful of the importance of waste management and land use to reducing disaster risk, and to carefully regulate the use of its non-renewable resources. This approach to an economic future with a low carbon footprint is consistent with national policy and underlies the Province&#x2019;s commitment to sustainable use of its forests, reflected in a significant reclassification of forest use zones to Protection Forest and Conservation Reserves and a moratorium on commercial logging.</p><p>Prior to the introduction of commercial logging the estimated area of forest was just over 36 000 km2. The remaining forest area of 33 400 km. Like Papua, Aceh has historically low rates of deforestation which attest to the difficulty of large scale logging in steep uplands and the impact of a long, armed struggle for independence. These low rates will influence the approach taken to establishing baselines for future carbon trade. Over 80% of the remaining forest area is designated for nature conservation and protection purposes, emphasizing the importance of developing non-destructive uses for the forests such as tourism and payments for environmental services, including REDD. Current estimates of the carbon sequestered in the forests of Aceh total 602 million tonnes CO2e. The forests of Aceh contain the biggest remaining populations of Sumatran Rhino, tiger and orangutan. The Leuser Ecosystem Reserve and Ulu Masen Forest Reserve are globally significant forests and are seeking support from REDD investment in their future management.</p>",
@@ -806,6 +1349,26 @@
     "pending": [
       {
         "id": "",
+        "value": "Mineral fuels, mineral oils and products of their distillation, inorganic chemicals, fertilizers, ores, slag, ash, cocoa and cocoa preparations",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "Poorly controlled infrastructure development, mining, conversion of forest to tree crop plantations (palm oil), settlement expansion, smallholder encroachment, illegal logging",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "value": "",
         "valueNative": "<p>Aceh dengan luas kurang lebih 5.7 juta hektar sampai tahun 2009 masih memiliki tutupan hutan seluas 3,2 juta ha atau 56 % dari luas wilayahnya. Hutan Aceh memiliki karakteristik berbeda antara satu wilayah dengan wilayah lainnya secara biofisik, struktur penyusun,fungsi maupun peruntukannya yang sebagianbesar dipengaruhi faktor faktor edafis maupun klimatis.</p><p>Wilayah pesisir Aceh merupakan wilayah dataran rendah yang memiliki kepadatan penduduk yang tinggi dan memiliki wilayah hutan yang tidak begitu luas. Sedangkan sebagian besar wilayah dataran tinggi Aceh merupakan areal hutan yang sangat luas yang terbentang dari wilayah ekosistem Ulu Masen di bagian utara dan barat meliputi 18 6 kabupaten serta wilayah Ekosistem Leuser di bagian selatan, tengah dan tenggara Aceh meliputi 13 kabupaten/kota.</p>Fakta saat ini kondisi hutan Aceh sudah pada posisi yang memerlukan perhatian secara serius, hal ini dapat<p>dilihat dari trend kehilangan tutupan hutan yang dipantau oleh berbagai pihak, serta jika didasarkan atas beberapa indikator lainnya seperti intensitas banjir dan longsor, kebakaran hutan dan lahan, serta konflik kepentingan di sektor kehutanan yang terus meningkat.</p>",
         "citation": "",
@@ -860,6 +1423,36 @@
   },
   "indonesia.central_kalimantan": {
     "final": [
+      {
+        "id": "",
+        "value": ".5",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "Oils and fats, timber and timber products, ore, steel and coal.",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
       {
         "id": "",
         "value": "<p>Spanning across 153,564 km2, Central Kalimantan is Indonesia&#x2019;s third largest province and has 13 districts and 1 city, 129 subdistricts, 136 kelurahan, 1,344 villages and 67 Kademangan (Note: kelurahan and villages are basically two identical local levels of government, the former is used in cities, the latter is used in rural areas). The Province of Central Kalimantan became Indonesia&#x2019;s fifth full member of the GCF in 2010. It occupies an area of 153,564 km with just 2.2 million people, resulting in very low population density. The capital of the Province is Palangkaraya. There are 13 local government Districts and 1500 urban and rural villages. Overall 67% of the population live in rural areas, where villages tend to be distributed along the banks of the 11 large rivers which flow from the central mountains to the Java Sea. The largest ethnic group are the indigenous Dayaks, but there are significant numbers of official and economic migrants from Java, Bali and Sulawesi in both rural and urban settlements. Poverty remains a major issue particularly in rural areas because of the difficulty and cost of transport and communication and the impact that this has on basic human services delivery. Education and health services in the hinterland are poor and this is reflected in their Human Development Index (HDI).</p><p>Despite the low population, Central Kalimantan has suffered serious and widespread environmental degradation. From 1996 to 1999 it was the sight of the so-called mega rice project which impacted one million hectares of peat swamp forests which were cleared and 4000 km of canals constructed. The continuing legacy of this period has been the draining of the peats in the dry season leading to high emissions of GHG&#x2019;s through oxidation and through annual dry season fires. Central Kalimantan has about 3 million hectares of Peat soils, equaling West, East and South Kalimantan combined. The extent of the impact of the clearing of the swamp forests for agriculture and estate crops can be appreciated from the forest figures which show only 865,000 hectares of remaining swamp forest compared to 1.4 million hectares of secondary forest and a further 1.1 million hectares of degraded shrubland. Of the original area of peat, 80% is subject to the danger of seasonal fire or oxidation. Restoration of the damaged peat ecosystems is a high priority of the Provincial Government and is also identified as a priority through Presidential Instruction.</p><p>Management of the remaining forests in Central Kalimantan is subject to continuing discussion and planning. 12.6 million hectares remains within the national forest estate with a further 2.8 million in other land use categories. Negotiations are continuing to firm up the zoning of the forest land, but proposed changes have greatly increased the proportion within the Protection Forest category where its role in hydrologic regulation and reduced soil carbon emissions is regarded as critical. Central Kalimantan has been pursuing a low carbon development strategy in line with national policies. In 2010, Central Kalimantan was chosen to serve as a pilot Province for REDD+ development following the LOI between Norway and Indonesia. In 2005 it established a &#x201C;green&#x201D; policy framework which evolved in 2010 to a vision of Central Kalimantan as a &#x201C;Green and Clean Province&#x201D;. The province is the site for the Australia-Indonesia Forest Carbon Partnership REDD+ Demonstration Project which aims to reduce emissions on 135 000 hectares of degraded peatlands. It also hosts a number of other private investment REDD+ Projects and is a participant in the Heart of Borneo trans-boundary conservation project.</p>",
@@ -968,9 +1561,29 @@
           "valueNative": "2017-03-09T08:55"
         },
         "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2009",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
       }
     ],
     "pending": [
+      {
+        "id": "",
+        "value": "Oils and fats, timber and timber products, ore, steel and coal.",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
       {
         "id": "",
         "value": "",
@@ -1020,11 +1633,49 @@
           "valueNative": "2017-03-09T08:55"
         },
         "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {},
+        "isCurrent": false
       }
     ]
   },
   "indonesia.east_kalimantan": {
     "final": [
+      {
+        "id": "",
+        "value": "Fossil fuels, chemicals, oils and fats, timber and timber products.",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "1",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
       {
         "id": "",
         "value": "<p>East Kalimantan Province has jurisdiction over a land area of 200 000 km2 and a marine environment of 10 000 km2. It is second largest province in Indonesia but like Papua, it is sparsely populated with 3.5 million people of whom about half live in rural villages. It is rich in natural resources with oil and natural gas, coal and gold which linked to its forest resources, estate crops and fishing give it the second highest GDP behind Jakarta DKI. The capital of East Kalimantan is Samarinda on the Mahakam River, while Balikpapan to the south and Tarakan in the far north are also large cities. With greater infrastructure and communication and transport corridors along the main rivers, service delivery has been much easier than in many other part of the country and literacy and levels of poverty are much more in line with a province which has benefited from the exploitation of its natural resources.</p><p>Nevertheless, the province has many challenges with issues in energy generation and the supply of water to its urban centers. One consequence of this has been a significant focus on alternative sources of sustainable resource use. East Kalimantan has been one of the target provinces to benefit from the President&#x2019;s commitment to reduce greenhouse gas emissions and as a result has developed its own low carbon use economic strategy. Reduction in carbon emissions through forest land conversion has figured prominently and is the reason for the Province to be a leading member of the Indonesian GCF program.</p><p>Forests continue to cover about 14.6 million ha out of an estimated original forest cover of 17.1 million ha. Of that remaining 5 million ha are under conservation or protected status, including large and important national parks such as Kutai. While it appears that most converted forests within the national estate has already been incorporated in non- forest uses, the largest challenge facing the province is to contain forest degradation driven by encroachment and illegal logging and conflict over other resources such as illegal gold mining. The forests are essentially closed tropical humid forest with elevation, soils and rainfall, significant factors in determining variation in forest structure and species composition. East Kalimantan has extensive areas of delta (Mahakam River) with mangrove, Nipa and pandanus forests. Lateritic mid slope forests offer the highest proliferation of high value dipterocarp forest with some 267 species recognised. Limestone ridges and high mountains offer a range of forest communities of lower structure and high endemic diversity.</p><p>East Kalimantan is hosting several large REDD demonstration projects managed by international NGO&#x2019;s and donors. However, there is still much to be done before these projects achieve the capacity to trade. The projects receive tacit and professional support from government and East Kalimantan institutions but further work is required to integrate them within official government climate mitigation measures.</p>",
@@ -1132,9 +1783,29 @@
           "valueNative": "2017-03-09T08:55"
         },
         "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2011",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
       }
     ],
     "pending": [
+      {
+        "id": "",
+        "value": "Fossil fuels, chemicals, oils and fats, timber and timber products.",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
       {
         "id": "",
         "value": "",
@@ -1204,11 +1875,39 @@
           "valueNative": "2017-03-09T08:55"
         },
         "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {},
+        "isCurrent": false
       }
     ]
   },
   "indonesia.papua": {
     "final": [
+      {
+        "id": "",
+        "value": "Raw materials, food & livestock, machinery and equipment",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "1",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
       {
         "id": "",
         "value": "<p>The Indonesian part of the island of New Guinea is administered under two provinces: Papua with its capital in Jayapura, and West Papua with its capital in Manokwari.</p><p>Papua is the easternmost province of Indonesia: the largest, covering 317,000 km2 and, with a population of 2 million people, it is the most sparsely populated. With East Kalimantan, it is the most resource rich in the country and is number 4 in terms of GDP. Nevertheless, it has the highest rate of illiteracy at 74% and the highest rate of official poverty at around 40%. These figures reflect the difficulty for government to provide basic services to an isolated rural population where 75% are indigenous Papuans. These facts, linked to the historically low levels of deforestation contribute to the importance of REDD as a potential source of funding based on the retention of village lands through sustainable uses. There is a recognized danger from conventional development pathways of social alienation of the indigenous population.</p><p>Aware of the dangers, Papua, in line with policies from the national government, has been plotting a low carbon emissions economic strategy which will seek to maintain the largest portion of the Province under an intact tropical forest cover, thus maintaining GHG gas emissions at a low level through minimizing carbon losses through land conversion (UFULO). Because of the bio-geographical position of Papua within the tropical Asian Pacific region, the conservation of Papuan forest ecosystems from lowland tall forests to alpine shrublands will continue to be a center for global biodiversity within a rich human cultural context characterised by over 300 languages.</p><p>Papua, in the company of Aceh, was granted special autonomy status in 2001 in recognition of its unique ethnic composition and the dependency of indigenous Papuans on traditional forest ownership. The consequence of these arrangements has been additional funding to the Province from the national government. It has also formed a basis through Provincial legislation, for greater local influence in the management of forests. The Papuan Government has seen this as an opportunity and has been among the leaders seeking better and sustainable approaches to the economic use of land, and ensuring resources that are exploited benefit the long term needs of the people. The road map along which Papua will travel towards these objectives has been laid out in the Provincial Spatial Plan that is being monitored by a multi-sector structure of advisors and working groups, including a REDD Working Group established under a low carbon strategy Task Force.</p><p>Like the rest of Indonesia, Papua continues to grapple with the legacy of a historically strong centralist government. In terms of REDD and the achievement of sustainable forest management, the implication is a continuing struggle to resolve tenure issues, including not only those between statutory and indigenous law, but also between a history of use permits and concessions granted by different levels of government. As these issues are resolved it is expected that the existing strong level of interest by investors in forest &#x2013; carbon projects in Papua will certainly increase.</p>",
@@ -1316,9 +2015,29 @@
           "valueNative": "2017-03-09T08:55"
         },
         "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2011",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
       }
     ],
     "pending": [
+      {
+        "id": "",
+        "value": "Raw materials, food & livestock, machinery and equipment",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
       {
         "id": "",
         "value": "<p>Papua province, with a total forest area of 31,687,680 ha (Provincial SpatialPlanning 2012) is rich in endemic species and ecosystem diversity. The 2012data from the Provincial Forest and Conservation Office of Papua statistics showedthat during the period of 2003-2006 the annual deforestation rate was at 68,695ha (17,174 ha/year) and the annual forest degradation rate was at 594,661 ha (148,665ha/year). During the period of 2006-2009 the deforestation rate soared to728,416 ha (182,104 ha/year) with the degradation rate increased to 645,684 ha(161,421 ha/year). Although deforestation and forest degradation rate keeps growingeach year, the main factor of deforestation cannot be eliminated whether it hasbeen caused by land conversion or illegal forest encroachment. Deforestationand forest degradation have indirectly contributed to the increasing greenhousegases (GHG) emissions that have caused climate change (global warming).</p><p>Papua, as one of the forested provinces in Indonesia, has been explicitlyincluded in the national plan to address the emission reduction issue duringthe last few years through the Low Carbon Economic Development Task Force. The ideaof the establishment of the Task Force for the Low Carbon Economic Developmenttowards the future is expected to be able to provide intelligent and thoughtfulconsiderations to decision makers in Papua to assist them to oversee and implementthe acceleration of low carbon economic development. Policy and institutional instrumentsat subnational level should be prepared from the early stage to create and to materializeideas of sustainable low carbon economic development.</p>",
@@ -1404,6 +2123,14 @@
       },
       {
         "id": "",
+        "value": "",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {},
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "value": "<p>Papua provinces hosted the International Conference on Biodiversity, Ecotourism, &amp; Creative Economy in September 2016. The conference produced recommendations for the Papuan government regarding preserving the natural resources of Papua while improving the lives of indigenous.</p>",
         "valueNative": "<p>Impelementasi SRAP REDD+ Papua mengacu pada 5 pilar strategi yang dikembangkan, yaitu: (1) Kelembagaan, regulasi dan organisasi, (2) Pemantapan Kawasan Hutan, (3) Kepastian ruang kelolah masyarakat adat, (4) Pengembangan ekonomi masyarakat adat dan (5) Pengembangan konservasi dan keanekaragaman hayati. Dari 5 pilar spesifik di atas yang menjadi prioritas untuk diimplementasi dalam SRAP REDD+ Papua adalah Kelembagaan, regulasi dan organisasi dan pembentukan kelembagaan REDD+ Provinsi Papua. Sedangkan pilar spesifik yang berikut adalah pemantapan kawasan hutan melalui pembentukan KPH (KPHL, KPHP dan KPHK), penataan batas, pengukuhan kawasan serta resolusi konflik. Kedua strategi ini yang akan menjadi pra kondisi implementasi SRAP REDD+ Papua. Contoh pada strategi tersebut adalah pembentukan lembaga REDD+ di Papua, Pengembangan dan Pembangunan 56 Unit KPH, Review regulasi dan tata kelola hutan dan perijinan serta pembentukan MRV sedangkan contoh lain pada strategi berikut adalah ; Redesain tata batas, percepatan penetapan fungsi kawasan, dan penentuan lokasi prioritas pengembangan REDD+ Papua.</p>",
         "citation": "",
@@ -1417,6 +2144,36 @@
   },
   "indonesia.west_kalimantan": {
     "final": [
+      {
+        "id": "",
+        "value": "Rubber and rubber goods, coal and ore, timber and timber products",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "1",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
       {
         "id": "",
         "value": "<p>The Province of West Kalimantan covers an area of 147, 000 km and is home to 4.25 million people, including an estimated 3.5 million people living in its rural hinterland. The Province has a number of large rivers, the largest being the Kapuas which drains from the spectacular inland wetland of Lake Santarum within the biodiversity region know as the Heart of Borneo. Because of its strategic location within SE Asia the old capital of Pontianak grew as a port city and it and the other settlements along the Kapuas River contain trading communities from a wide range of ethnic backgrounds within a cultural matrix dominated by the indigenous Dayak who make up 35% of the population. Poverty is a significant issue with the HDI below the national average and average income across the Province at only USD 627 per year.</p><p>In 2008, the GDP for the Province was USD 2.9 million derived mainly from primary industries. The forest sector contributed about half of the GDP with a further USD1.35 million from the agricultural sector, reflecting a strong investment in estate crops particularly oil palm. Lowland tropical peats cover an area of 1.7 million ha and Conversion of forest lands on peats to estate crops and the proliferation of fire through the dry seasons has been a significant historical factor in the high levels of GHG emissions from the Province.</p><p>The national forest estate consists of an area of about 90 000 km2 over half of which is zoned as permanent production forest. Only 5000 km2 of the production forest designated for conversion remains attesting to the rapid expansion of estate crops in the Province. 23 000 km2 are zoned for protection and a further 14,500 km2 for conservation purposes within a network of national parks, nature reserves and wildlife reserves. The estimated carbon stock remaining in these forests is 1,600 Giga Tons CO2e, over half of which is sequestered in the Production Forest. Future carbon dioxide emissions will likely be as a result of burning of converted peat soils and forest degradation.</p><p>West Kalimantan has been a member of the GCF since its foundation and has convened a REDD Working Group under the authority of the Governor. At this stage the Province has not enacted any specific legislation to facilitate REDD and other climate change programs but is proceeding in line with national legislation and policy related to reducing carbon emissions. The Province hosts several REDD projects including village level carbon pool assessments in the Districts of Ketapang and Kapuas Hulu, Ecosystem restoration over 90 000 ha in the Putri River and Lake Siawan Belidak in collaboration with FFI. There is also an FFI/Macquarie Bank REDD project and a demonstration activity supported by the German Government (Kfw-FORCLIM). USAID has also recently begun activities through their IFAD program in Ketapang. As elsewhere in the member provinces there is still to be developed a close working and learning collaboration between the provincial government and these REDD projects.</p>",
@@ -1514,9 +2271,29 @@
           "valueNative": "2017-03-09T08:55"
         },
         "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2011",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
       }
     ],
     "pending": [
+      {
+        "id": "",
+        "value": "Rubber and rubber goods, coal and ore, timber and timber products",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
       {
         "id": "",
         "value": "",
@@ -1560,7 +2337,58 @@
     ]
   },
   "indonesia.west_papua": {
-    "final": [],
+    "final": [
+      {
+        "id": "",
+        "value": "Oil and gas, fish, shrimp, jewelery, wood, metals, cacao",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "The drivers of deforestation and forest degradation in West Papua province are: 1. Illegal logging 2. Forest fire 3. Land conversion from forest area to other uses such as plantation and agriculture 4. Area expansion 5. Mining 6. Settlement",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "1",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2014",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      }
+    ],
     "pending": [
       {
         "id": "",
@@ -1592,14 +2420,42 @@
   },
   "ivory_coast.belier": {
     "final": [],
-    "pending": []
+    "pending": [
+      {
+        "id": "",
+        "value": "",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {},
+        "isCurrent": false
+      }
+    ]
   },
   "ivory_coast.cavally": {
     "final": [],
-    "pending": []
+    "pending": [
+      {
+        "id": "",
+        "value": "",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {},
+        "isCurrent": false
+      }
+    ]
   },
   "mexico": {
     "final": [
+      {
+        "id": "",
+        "value": "petroleum, agriculture, extractives and manufactures",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
       {
         "id": "",
         "value": "<p><ul><li>Federal <a href=\"http://www.gcftaskforce.org/documents/MX_Ley_Gerneral_de_Cambio_Climatico_2012-4.pdf\">climate change adaptation and mitigation law</a>. (Ley general de cambio clim&#xE1;tico) (2012)</li><li>General Law for Environmental Equilibrium and Protection (Ley General del Equilibrio Ecologico y la Proteccion al Ambiente, LGEEPA), (1988)</li><li>General Law for Sustainable Forest Development (Ley General de Desarrollo Forestal Sustentable, LGDFS. </li><li>The Law for Sustainable Rural Development (Ley de Desarrollo Rural Sustentable, LDRS).</li><li>Agrarian Law (Ley Agraria) - regulates land ownership and user rights.</li></ul></p>",
@@ -1666,6 +2522,36 @@
   },
   "mexico.campeche": {
     "final": [
+      {
+        "id": "",
+        "value": "oil",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2007",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
       {
         "id": "",
         "value": "<p>The state of Campeche has a large indigenous population. Of them, the group that is largest and that has the most significant history, is the Yucatec Mayas, who are concentrated in the oldest settlements in the northern area of the state. This group lives on most of the Yucatan Peninsula, with 11% in Campeche, 76.25% in Yucatan and 12.73% in Quintana Roo. Campeche also has a high concentration of Guatemalan indigenous refugees who live in refugee camps, and the southern part of the state has received migrants from other ethnic groups. The 1990 census shows that there are 45 different languages represented in the state; among them, the most important are Ch&apos;ol, Tzeltal, Kanjobal and Mam. Most of Campeche&apos;s territory is characterized by a subhumid climate and a dense tropical forest. There is also a lowlands region with lakes and a riparian area. The &quot;milpa&quot; system, which predominates in the state, requires a deep understanding of specific ecological systems, including the cycles of various plants and the rain cycle, as well as the fallow period required by its soils. Hunting and gathering are supplementary subsistence activities. The local natural resources are used as materials to build houses and for energy needs. Together, these activities along with forestry and livestock activities, have had a devastating impact on the tropical forest, and attempts are being made to reverse the impact through sustainable development programs focused on reforestation and wildlife management. Preservation policy has brought about the creation of various protected areas, among them the Calakmul Biosphere Reserve--notable for the number of indigenous migrants who live within the reserve&apos;s 723,185 hectares of forest and also for plans to develop ecological and archaeological tourism opportunities.</p>",
@@ -1785,6 +2671,46 @@
           "value": "2017-03-09T08:55"
         },
         "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "Expansion of mechanized agriculture and establishment of pastures for livestock",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2007 a 2011",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
       }
     ],
     "pending": [
@@ -1812,6 +2738,46 @@
   },
   "mexico.chiapas": {
     "final": [
+      {
+        "id": "",
+        "value": "real estate, agriculture, forestry, industry, mining, construction",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "land use change from forest to pasture; followed by land use change from forest to agriculture; factors which most influence land use change are status of protection of the area, accessibility to the zone, socio-economic and ecological zone, and type of forest.",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "2007",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
       {
         "id": "",
         "value": "<p>Chiapas is the eighth largest state in Mexico, with an area of &#x200B;&#x200B;73,282 km&#xB2;, which represents 3.8% of Mexico&apos;s total area. It has a rich biodiversity with cloud forests, temperate, natural and induced grasslands, humid tropical and sub-humid areas and tropical rainforest (INEGI, 2010). These different types of forests cover 42% of the total area of &#x200B;&#x200B;the state (PACCCH, 2011). As a result, in Chiapas, 30% of Mexico&apos;s surface water is found. It also has 47 Natural Protected Areas covering 19.8% of the total surface area of &#x200B;&#x200B;the state (SEMAHN, 2010). In 2009, the state government launched the Climate Change Action Program for the State of Chiapas (PACCCH), with the participation of many local and national actors, which generated an analysis of deforestation and forest degradation in the state and projections For the future, as well as a state inventory of greenhouse gases. The institutional and legal framework for mitigation and adaptation to climate change was created through the publication of the Law on Adaptation to Climate Change and Mitigation that establishes the creation of a State Commission on Climate Change, made up of 15 state government agencies that are responsible The development and implementation of adaptation and mitigation policies, in this sense, the participation of organized civil society. The REDD + Technical Advisory Council (CTC REDD + CH), officially established in 2011, is currently working with the Ministry of the Environment on regulations for climate change and the development of the state REDD + strategy, with input from civil society organizations , Federal agencies and academic institutions in Chiapas. The objective is to issue a state REDD + strategy in 2013 and a regional REDD + strategy by 2015. The state is working to align its efforts with the National Vision for REDD + and the National REDD + Strategy, in that regard, attend meetings with the Technical Council REDD + National Consultative and align efforts on issues of: safeguards, goals and processes, Monitoring, Reporting and Verification, and institutional and legal frameworks</p>",
@@ -1960,6 +2926,16 @@
     "final": [
       {
         "id": "",
+        "value": "Equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos.",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "value": "<p><strong>Direct causes:</strong></p><p>Illegal extraction of wood for fuel, poles and other local uses.</p><p>Inadequate forest management practices.</p><p>Forest pests and diseases.</p><p>Extensive cattle ranching and overgrazing.</p><p>Illegal extraction of wood and illegal crops.</p><p>Frequent forest fires.</p><p><strong>Underlying Causes:</strong></p><p>Lack of employment and a boost to the local economy.</p><p>Little vigilance and enforcement.</p><p>Lack of monitoring of programs and public policies.</p><p>Lack of community organization with a vision for sustainable use.</p><p>Road infrastructure, urban growth.</p><p>Causes associated with local territorial governance.</p>",
         "valueNative": "",
         "citation": "",
@@ -1971,6 +2947,16 @@
       {
         "id": "",
         "value": "<p><strong>Direct causes:</strong></p><div>Illegal extraction of wood for fuel, poles and other local uses.</div><div>Inadequate forest management practices.</div><div>Forest pests and diseases.</div><div>Extensive cattle ranching and overgrazing.</div><div>Illegal extraction of wood and illegal crops.</div><div>Frequent forest fires.</div><p><strong>Underlying Causes:</strong></p><div>Lack of employment and a boost to the local economy.</div><div>Little vigilance and enforcement.</div><div>Lack of monitoring of programs and public policies.</div><div>Lack of community organization with a vision for sustainable use.</div><div>Road infrastructure, urban growth.</div><p>Causes associated with local territorial governance.</p>",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "Direct Drivers Include: 1. Land use change (for the creation of pastureland, commercial agriculture, hillside cultivation, urban development) 2. Unsustainable and illegal commercial logging 3. Wood harvesting for domestic use Indirect Drivers include: 1. Lack of sustainable productive options (profitable /local economy) 2. Lack of community organizations with a vision of sustainable use 3. Lack of surveillance",
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -2006,6 +2992,26 @@
     "final": [
       {
         "id": "",
+        "value": "Manufacturas e industria alimentaria",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "Direct drivers include: 1. Land use change (for commercial agriculture and livestock/pasture) 2. Illegal logging 3. Forest Fires Indirect drivers include: 1. Government agriculture subsidy programs (PROCAMPO and Alianza para el Campo) 2. Land tenure 3. Lack of sufficient forest management plans",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "value": "<p>Direct causes include:</p><p>1. Land use change (for commercial agriculture and livestock/pasture)</p><p>2. Illegal logging</p><p>3. Forest Fires</p><p> Indirect causes include:</p><p>1. Government agriculture subsidy programs (PROCAMPO and Alianza para el Campo) </p><p>2. Land tenure</p><p>3. Lack of sufficient forest management plans</p>",
         "valueNative": "",
         "citation": "",
@@ -2022,6 +3028,16 @@
       {
         "id": "",
         "value": "<p>The state of Tabasco represents 1.26% of the country&apos;s area. By 2015, the state of Tabasco is divided into 17 municipalities. The 95.5% of the surface of the state presents warm humid climate, the remaining 4.5% is subhumid climac&#xE1;lido toward the eastern part of the state.</p><p>The average annual temperature in latitude is 27 &#xB0; C, the average maximum temperature is 36 &#xB0; C and it is present in May, the average minimum temperature is 18.5 &#xB0; C during the month. The average state rainfall is 2 550 mm annually, rainfall occurs throughout the year, being more abundant in the months of June to October.</p><p>The hot humid climate favors the cultivation of banana, papaya, orange, lemon, coconut, cocoa, rice, maize and pepper, among others.</p><p> The state surface is part of the provinces: PlainsCostera of the South Gulf and Sierras de Chiapas and Guatemala</p>",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "1. Land change use 2. Fires 3. Illegal logging",
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -2057,6 +3073,26 @@
     "final": [
       {
         "id": "",
+        "value": "Livestock expansion, Subsistence agriculture with corn and some milpa, Forest fires, Agricultural expansion, Human settlements, Expansion of road infrastructure, Mechanical Expansion, Agroindustry,",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "Los productos de Yucatán que presentan mayor demanda de acuerdo a la SAGARPA son la sandía, pepino, chile limón y bovino de pie.",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "value": "<p>Among the most relevant recent events related to REDD + in Yucat&#xE1;n is the development of the State Strategy for Reducing Emissions from Deforestation and Forest Degradation (EEREDD +) in Yucatan. Key instrument of state planning that establishes guidelines for the orientation of public policies and programs for the implementation of actions that promote sustainable rural development and reduction of emissions by deforestation and degradation of forest ecosystems considering the specific characteristics and circumstances of the entity.</p><p>During 2017 this strategy will be submitted to public consultation and will be formally presented to the Inter-Secretariat Commission on Climate Change of Yucatan.</p><p>Another of the most relevant events associated with REDD + in the state of Yucatan is the approval of the Investment Plan of the Biocultural Region of Puuc, in the framework of the First Ordinary Session of the Intersecretarial Commission of Climate Change of Yucat&#xE1;n in February Of 2016, whose objective is to promote the implementation of productive practices and management of natural resources in the promotion of sustainable rural development and reduction of the causes of deforestation and forest degradation in the municipalities of Santa Elena, Ticul, Muna, Oxkutzcab, Tekax, Tzucacab, Peto, Tzucacab and Yaxcab&#xE1;.</p><p>Finally linked to the events related to REDD + in the state, in September 2016, the Yucatan Peninsula Safeguards Committee was established as a unique social participation platform, specializing in providing feedback and providing input on the approach And respect for REDD + safeguards from a regional perspective.</p>",
         "valueNative": "",
         "citation": "",
@@ -2083,6 +3119,16 @@
     "final": [
       {
         "id": "",
+        "value": "Petroleum and petroleum products (95%), cocoa, and rubber",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "value": "<p>Land Use Decree No. 6 of 1978 </p><p>Nigeria Forestry Act of 1937</p>",
         "valueNative": "",
         "citation": "",
@@ -2096,6 +3142,26 @@
   },
   "nigeria.cross_river_state": {
     "final": [
+      {
+        "id": "",
+        "value": "Unsustainable agricultural practices, Commercial logging, Forest fires, Cattle grazing, Inefficient use of forest resources, and Poor enforcement of forest laws, policies and regulations.",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "Rubber, palm oil and wood products",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
       {
         "id": "",
         "value": "<p>Over 90 per cent of Nigeria&#x2019;s forests have already been cleared, and more than 50% of forested areas that remain in the country are found in Cross River State. Approximately 75% of Nigeria&#x2019;s endangered tree species are only found in Cross River State. The State is considered one of the richest biodiversity reserves in all of Africa and is part of the &#x201C;Gulf of Guinea&#x201D; forests, a global biodiversity hotspot, with a rich diversity of primates, birds, butterflies, plants, reptiles, amphibians and other species. </p><p>Cross River&apos;s forests support 22 primate species, including endemics like the Cross River Gorilla, Drill monkey, and Preuss&apos;s Guenon monkey.</p><p>Cross River State has taken many steps to protect its forests, including the following: <br>1. Holding a Stakeholders Summit on the Environment in June 2008; <br>2. Enacting a two-year logging moratorium; <br>3. Establishing and supporting an anti-logging task force to enforce the moratorium, with approximately USD$1 million committed to this cause;<br>4. Implementing far-reaching reforms in the Cross River State Forestry Commission; and<br>5. Committing to plant 5 million indigenous trees annually, with the development of nurseries in progress across the state.</p><p>Within 10 years, Cross River State plans to have 1 million hectares of forest lands managed for climate change-friendly activities, including carbon, non-timber forest products, sustainable tree crops and ecotourism. This could generate substantial economic value for the state.</p>",
@@ -2200,11 +3266,33 @@
     "pending": []
   },
   "peru": {
-    "final": [],
+    "final": [
+      {
+        "id": "",
+        "value": "Copper (10711) Gold (10104) Petroleum and Derivatives (3421) Lead (2424) Fishmeal (1767) Coffee (1581) Clothes and other garments (1540) Zinc (1522) Natural Gas (1284) Iron (1023)",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      }
+    ],
     "pending": []
   },
   "peru.amazonas": {
-    "final": [],
+    "final": [
+      {
+        "id": "",
+        "value": "Coffee beans, cocoa beans, tara powder and tropical fruits",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      }
+    ],
     "pending": [
       {
         "id": "",
@@ -2216,15 +3304,54 @@
           "valueNative": "2017-03-09T08:55"
         },
         "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {},
+        "isCurrent": false
       }
     ]
   },
   "peru.huanuco": {
-    "final": [],
-    "pending": []
+    "final": [
+      {
+        "id": "",
+        "value": "Cacao (grano, polvo, manteca, licor y cobertura), flores frescas, tara, motor marino para caterpillar, herbicidas, artículos de decoración (mariposas disecadas), piedras preciosas (pink opal), café (grano verde), y concentrados de minerales (cobre, plata, plomo, zinc)",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      }
+    ],
+    "pending": [
+      {
+        "id": "",
+        "value": "",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {},
+        "isCurrent": false
+      }
+    ]
   },
   "peru.loreto": {
-    "final": [],
+    "final": [
+      {
+        "id": "",
+        "value": "Maderas y papeles, metalmecánica, siderometalúrgica, pesca, agro, químicos",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      }
+    ],
     "pending": [
       {
         "id": "",
@@ -2236,11 +3363,39 @@
           "valueNative": "2017-03-09T08:55"
         },
         "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {},
+        "isCurrent": false
       }
     ]
   },
   "peru.madre_de_dios": {
     "final": [
+      {
+        "id": "",
+        "value": "Oro en las demás formas en bruto incluido el oro platinado (26.7) Tablillas y frisos para parqués sin ensamblar (5.5) Nueces del Brasil sin cáscaras frescas o secas (17.1) Los demás tableros ensamblados para revestimiento de suelos (0.4) Dragas (0.1)",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "settlements (2.3%), farmland (crop production) (3.3%), pastures (51.8%), farming (mixed agriculture/grazing) (39%), mining (3.6%)",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
       {
         "id": "",
         "value": "<p>La Regi&#xF3;n Madre de Dios se localizaen la zona sur oriental del territorio peruano, entre los paralelos 9&#xBA; 55&#xB4; 33&#x201D;y 13&#xBA; 20&#xB4; 04&#x201D;, latitud sur, y los meridianos 68&#xBA; 39&#xB4; 27&#x201D; y 77&#xBA; 22&#x2019; 27&#x201D;,longitud oeste. Su ubicaci&#xF3;n se considera estrat&#xE9;gica por constituir una regi&#xF3;nbifronteriza con los pa&#xED;ses de Brasil y Bolivia.</p><p>Tiene unasuperficie de 85,182 km&#xB2; equivalentes a 8&#x2019;518,200 hect&#xE1;reas, que representa el6.6% del territorio nacional y el 15.3% de la selva. En cuanto al &#xE1;rea porprovincias, se reporta para Tambopata el 42.58% de la superficie departamental,para Manu el 32.54% y para Tahuamanu el 24.88%.</p><p>Se halla cubierta mayoritariamente por bosques subtropicales donde serealizan diversas actividades productivas, destacando entre ellas lasextractivas de oro, madera y casta&#xF1;as. Recientemente y con gran futuro haincursionado en el ecoturismo.</p><p>Durante toda su historia ha afrontado el restrictivo problema de lafalta de v&#xED;as de comunicaci&#xF3;n, lo cual la ha aislado del resto del pa&#xED;s,mermando as&#xED; el desarrollo de su potencial econ&#xF3;mico.</p><p>La regi&#xF3;n est&#xE1; dotada con un gran potencial en recursos naturales, alpunto de ser considerada la &#x201C;capital peruana de la biodiversidad&#x201D;. Existen tresimportantes &#xE1;reas protegidas: el Parque Nacional del Manu, el Parque NacionalBahuaja-Sonene y la Reserva Nacional de Tambopata. </p>",
@@ -2255,11 +3410,33 @@
     "pending": []
   },
   "peru.piura": {
-    "final": [],
+    "final": [
+      {
+        "id": "",
+        "value": "Uvas frescas, mango fresco, banano orgánico, pota, calamar, conchas de abanico, langostinos, fosfato de calcio, yeso, roca fosfórica, mineral de andalucita y bentonita",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      }
+    ],
     "pending": []
   },
   "peru.san_martin": {
-    "final": [],
+    "final": [
+      {
+        "id": "",
+        "value": "Café (75.9%); Cacao orgánico y otros principales (22.4%).",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      }
+    ],
     "pending": [
       {
         "id": "",
@@ -2270,6 +3447,14 @@
           "value": "2017-03-09T08:55",
           "valueNative": "2017-03-09T08:55"
         },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {},
         "isCurrent": false
       }
     ]
@@ -2286,6 +3471,14 @@
           "value": "2017-03-09T08:55",
           "valueNative": "2017-03-09T08:55"
         },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "value": "",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {},
         "isCurrent": false
       }
     ]

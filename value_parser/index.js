@@ -32,12 +32,12 @@ function getEntries(rawData, timestamp) {
   }
   function processEntry(datum, dataType) {
     function processTextEntry() {
-      const final = {};
-      const pending = {};
-      final.value = cleanup.html(datum.value);
-      final.valueNative = cleanup.html(datum['native-value']);
-      pending.value = cleanup.html(datum['editor-value']);
-      pending.valueNative = cleanup.html(datum['native-editor-value']);
+      const final = {
+        value: cleanup.html(datum.value),
+        valueNative: cleanup.html(datum['native-value']) };
+      const pending = {
+        value: cleanup.html(datum['editor-value']),
+        valueNative: cleanup.html(datum['native-editor-value']) };
       if (final.value || final.valueNative) {
         finalEntries.push(getDefaultEntry(final.value, final.valueNative));
       }
@@ -50,10 +50,22 @@ function getEntries(rawData, timestamp) {
         }
       }
     }
+    function processStringEntry() {
+      const finalValue = cleanup.string(datum.value);
+      const pendingValue = cleanup.string(datum['editor-value']);
+      if (finalValue) {
+        finalEntries.push(getDefaultEntry(finalValue));
+      }
+      if (pendingValue && (pendingValue !== finalValue)) {
+        pendingEntries.push(getDefaultEntry(finalValue));
+      }
+    }
     switch (dataType) {
       case 'text':
         processTextEntry();
         break;
+      case 'string':
+        processStringEntry();
       default:
         break;
     }
