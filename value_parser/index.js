@@ -58,7 +58,17 @@ function getEntries(rawData, timestamp) {
         finalEntries.push(getDefaultEntry(finalValue));
       }
       if (pendingValue && (pendingValue !== finalValue)) {
-        pendingEntries.push(getDefaultEntry(finalValue));
+        pendingEntries.push(getDefaultEntry(pendingValue));
+      }
+    }
+    function processEnumEntry() {
+      const finalValue = cleanup.integer(datum.value);
+      const pendingValue = cleanup.integer(datum['editor-value']);
+      if (Number.isInteger(finalValue)) {
+        finalEntries.push(getDefaultEntry(finalValue));
+      }
+      if (Number.isInteger(pendingValue) && (finalValue !== pendingValue)) {
+        pendingEntries.push(getDefaultEntry(pendingValue));
       }
     }
     switch (dataType) {
@@ -67,6 +77,10 @@ function getEntries(rawData, timestamp) {
         break;
       case 'string':
         processStringEntry();
+        break;
+      case 'enum':
+        processEnumEntry();
+        break;
       default:
         break;
     }

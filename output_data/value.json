@@ -50,7 +50,7 @@
       {
         "id": "",
         "dataType": "string",
-        "value": "Mining, petroleum, transportation equipment, soy, sugar, ethanol, meat & coffee.",
+        "value": "Soja, minério de ferro, óleos brutos de petróleo, açúcar de cana, carne de frango, celulose",
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -119,8 +119,41 @@
       },
       {
         "id": "",
+        "dataType": "enum",
+        "value": 0,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 0,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -264,7 +297,7 @@
       {
         "id": "",
         "dataType": "string",
-        "value": "Agriculture, Forestry, Meat, Fishing",
+        "value": "Madeira, castanha, materiais de construção, arroz, óleo de soja",
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -346,6 +379,39 @@
         "id": "",
         "dataType": "string",
         "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 0,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 0,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 0,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -569,6 +635,28 @@
       },
       {
         "id": "",
+        "dataType": "enum",
+        "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 0,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "1996-2005",
         "valueNative": "",
@@ -582,6 +670,17 @@
         "id": "",
         "dataType": "string",
         "value": "2012",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 0,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -746,9 +845,43 @@
           "value": "2017-03-09T08:55"
         },
         "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 0,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
       }
     ],
-    "pending": []
+    "pending": [
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 0,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 1,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      }
+    ]
   },
   "brazil.mato_grosso": {
     "final": [
@@ -778,6 +911,39 @@
         "id": "",
         "dataType": "string",
         "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 0,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 1,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -978,6 +1144,28 @@
       },
       {
         "id": "",
+        "dataType": "enum",
+        "value": 0,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "Iron ore, aluminum, copper ore, manganese ore, beef, wood, black pepper, palm",
         "valueNative": "",
@@ -1013,6 +1201,17 @@
         "id": "",
         "dataType": "string",
         "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 2,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -1182,10 +1381,45 @@
       {
         "id": "",
         "dataType": "string",
-        "value": "",
+        "value": "0",
         "valueNative": "",
         "citation": "",
-        "timestamps": {},
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 1,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
         "isCurrent": false
       }
     ]
@@ -1238,6 +1472,28 @@
       },
       {
         "id": "",
+        "dataType": "enum",
+        "value": 0,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 0,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "2013",
         "valueNative": "",
@@ -1270,7 +1526,19 @@
         "isCurrent": false
       }
     ],
-    "pending": []
+    "pending": [
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 0,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      }
+    ]
   },
   "colombia.caqueta": {
     "final": [],
@@ -1340,8 +1608,41 @@
       },
       {
         "id": "",
+        "dataType": "enum",
+        "value": 1,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 2,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -1473,7 +1774,7 @@
       {
         "id": "",
         "dataType": "string",
-        "value": "Mineral fuels, mineral oils and products of their distillation, inorganic chemicals, fertilizers, ores, slag, ash, cocoa and cocoa preparations",
+        "value": "1. Bahan bakar mineral 2. Bijih, Kerak dan Abu Logam 3. Bahan Kimia Anorganik",
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -1484,7 +1785,29 @@
       {
         "id": "",
         "dataType": "string",
-        "value": "Poorly controlled infrastructure development, mining, conversion of forest to tree crop plantations (palm oil), settlement expansion, smallholder encroachment, illegal logging",
+        "value": "1. Buruknya pengelolaan dan kinerja pengoperasian konsesi Izin Usaha Pemanfaatan Hasil Hutan Kayu pada Hutan Alam 2. illegal logging",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 0,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 0,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -1579,6 +1902,17 @@
         "id": "",
         "dataType": "string",
         "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 2,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -1715,13 +2049,24 @@
           "value": "2017-03-09T08:55"
         },
         "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
       }
     ],
     "pending": [
       {
         "id": "",
         "dataType": "string",
-        "value": "Oils and fats, timber and timber products, ore, steel and coal.",
+        "value": "Lemak & Minyak Hewan/Nabati",
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -1787,10 +2132,23 @@
       {
         "id": "",
         "dataType": "string",
-        "value": "",
+        "value": "Pembukaan Kawasan Hutan untuk perkebunan dan pertambangan",
         "valueNative": "",
         "citation": "",
-        "timestamps": {},
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
         "isCurrent": false
       }
     ]
@@ -1821,8 +2179,41 @@
       },
       {
         "id": "",
+        "dataType": "enum",
+        "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 2,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -1964,7 +2355,7 @@
       {
         "id": "",
         "dataType": "string",
-        "value": "Fossil fuels, chemicals, oils and fats, timber and timber products.",
+        "value": "Minyak bumi, gas dan batubara",
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -2052,10 +2443,12 @@
       {
         "id": "",
         "dataType": "string",
-        "value": "",
+        "value": "1. Pemanfaatan kayu secara berlebihan ,pembalakan liar dan pemiskinan keanekaragaman hayati 2. Pemanfaatan lahan berhutan untuk pertanian tebas bakar,perambahan hutan dan extensifikasi kemandirian pangan 3. Pembukaan lahan untuk pertambangan batubara 4. Kebakaran hutan dan lahan 5. Pembukaan dan pemanfaatan lahan untuk berbagai peruntukan",
         "valueNative": "",
         "citation": "",
-        "timestamps": {},
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
         "isCurrent": false
       }
     ]
@@ -2077,6 +2470,39 @@
         "id": "",
         "dataType": "string",
         "value": "1",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 0,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 0,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -2218,7 +2644,7 @@
       {
         "id": "",
         "dataType": "string",
-        "value": "Raw materials, food & livestock, machinery and equipment",
+        "value": "1. Konsentrat tembaga, kayu, ikan 2. Bijih Tembaga dan Konsentrat (HS26)",
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -2320,10 +2746,12 @@
       {
         "id": "",
         "dataType": "string",
-        "value": "",
+        "value": "Penebangan liar (Cagar Alam Biak Utara), konversi kawasan hutan (Taman Nasional Wasur) serta pembukaan area baru, pemukiman, jalan, lahan pertanian dan perkebunan.",
         "valueNative": "",
         "citation": "",
-        "timestamps": {},
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
         "isCurrent": false
       },
       {
@@ -2366,8 +2794,41 @@
       },
       {
         "id": "",
+        "dataType": "enum",
+        "value": 1,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "2020",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 2,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -2498,7 +2959,7 @@
       {
         "id": "",
         "dataType": "string",
-        "value": "Rubber and rubber goods, coal and ore, timber and timber products",
+        "value": "Karet",
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -2589,6 +3050,39 @@
       },
       {
         "id": "",
+        "dataType": "enum",
+        "value": 0,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 0,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "2020",
         "valueNative": "",
@@ -2647,10 +3141,12 @@
       {
         "id": "",
         "dataType": "string",
-        "value": "",
+        "value": "Smallholder Agriculture - particularly cacao, but also rubber and palm oil Forestry Fuelwood harvesting Mining",
         "valueNative": "",
         "citation": "",
-        "timestamps": {},
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
         "isCurrent": false
       }
     ]
@@ -2661,10 +3157,12 @@
       {
         "id": "",
         "dataType": "string",
-        "value": "",
+        "value": "Smallholder Agriculture - particularly cacao, but also rubber and palm oil Forestry Fuelwood harvesting Mining",
         "valueNative": "",
         "citation": "",
-        "timestamps": {},
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
         "isCurrent": false
       }
     ]
@@ -2780,6 +3278,39 @@
         "id": "",
         "dataType": "string",
         "value": "2",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 0,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 0,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 0,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -3014,6 +3545,28 @@
       },
       {
         "id": "",
+        "dataType": "enum",
+        "value": 0,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "land use change from forest to pasture; followed by land use change from forest to agriculture; factors which most influence land use change are status of protection of the area, accessibility to the zone, socio-economic and ecological zone, and type of forest.",
         "valueNative": "",
@@ -3027,6 +3580,17 @@
         "id": "",
         "dataType": "string",
         "value": "2007",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 0,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -3220,6 +3784,28 @@
         "id": "",
         "dataType": "text",
         "value": "<p><strong>Direct causes:</strong></p><div>Illegal extraction of wood for fuel, poles and other local uses.</div><div>Inadequate forest management practices.</div><div>Forest pests and diseases.</div><div>Extensive cattle ranching and overgrazing.</div><div>Illegal extraction of wood and illegal crops.</div><div>Frequent forest fires.</div><p><strong>Underlying Causes:</strong></p><div>Lack of employment and a boost to the local economy.</div><div>Little vigilance and enforcement.</div><div>Lack of monitoring of programs and public policies.</div><div>Lack of community organization with a vision for sustainable use.</div><div>Road infrastructure, urban growth.</div><p>Causes associated with local territorial governance.</p>",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 2,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -3433,8 +4019,41 @@
     "final": [
       {
         "id": "",
+        "dataType": "enum",
+        "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
         "dataType": "string",
         "value": "Unsustainable agricultural practices, Commercial logging, Forest fires, Cattle grazing, Inefficient use of forest resources, and Poor enforcement of forest laws, policies and regulations.",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 2,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -3594,6 +4213,28 @@
           "value": "2017-03-09T08:55"
         },
         "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 0,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
       }
     ],
     "pending": [
@@ -3612,10 +4253,12 @@
       {
         "id": "",
         "dataType": "string",
-        "value": "",
+        "value": "The principal direct causes of deforestation include agricultural/livestock expansion, while illegal activities such as mining, and the expansion of extractive industries and infrastructure projects are of lesser importance. Illegal timber extraction is the main cause of forest degradation. Twelve deforestation “hotspots” or fronts have been identified and are located close to urban areas, highways, or in the transition zone from the Andean highlands to the lowlands. Indirect causes of deforestation are many: informality of small and medium-sized landholders (lack of land titles, access to credit, weak links with markets, lack of access to social benefits) interact with political/institutional (principally, inconsistent land use classification and zoning procedures and policies for assigning land use rights; weak forest monitoring, enforcement, and governance; and problems of institutional coordination), economic (sub-valuation of forests, opportunity costs of competing land use, capital limitations of farmers), and technological factors (limited technical assistance, technology use, and credit) on the forest margins to cause deforestation and forest degradation.",
         "valueNative": "",
         "citation": "",
-        "timestamps": {},
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
         "isCurrent": false
       }
     ]
@@ -3632,16 +4275,40 @@
           "value": "2017-03-09T08:55"
         },
         "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 0,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
       }
     ],
     "pending": [
       {
         "id": "",
         "dataType": "string",
-        "value": "",
+        "value": "The principal direct causes of deforestation include agricultural/livestock expansion, while illegal activities such as mining, and the expansion of extractive industries and infrastructure projects are of lesser importance. Illegal timber extraction is the main cause of forest degradation. Twelve deforestation “hotspots” or fronts have been identified and are located close to urban areas, highways, or in the transition zone from the Andean highlands to the lowlands. Indirect causes of deforestation are many: informality of small and medium-sized landholders (lack of land titles, access to credit, weak links with markets, lack of access to social benefits) interact with political/institutional (principally, inconsistent land use classification and zoning procedures and policies for assigning land use rights; weak forest monitoring, enforcement, and governance; and problems of institutional coordination), economic (sub-valuation of forests, opportunity costs of competing land use, capital limitations of farmers), and technological factors (limited technical assistance, technology use, and credit) on the forest margins to cause deforestation and forest degradation.",
         "valueNative": "",
         "citation": "",
-        "timestamps": {},
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
         "isCurrent": false
       }
     ]
@@ -3652,6 +4319,28 @@
         "id": "",
         "dataType": "string",
         "value": "Maderas y papeles, metalmecánica, siderometalúrgica, pesca, agro, químicos",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 0,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -3676,10 +4365,12 @@
       {
         "id": "",
         "dataType": "string",
-        "value": "",
+        "value": "The principal direct causes of deforestation include agricultural/livestock expansion, while illegal activities such as mining, and the expansion of extractive industries and infrastructure projects are of lesser importance. Illegal timber extraction is the main cause of forest degradation. Twelve deforestation “hotspots” or fronts have been identified and are located close to urban areas, highways, or in the transition zone from the Andean highlands to the lowlands. Indirect causes of deforestation are many: informality of small and medium-sized landholders (lack of land titles, access to credit, weak links with markets, lack of access to social benefits) interact with political/institutional (principally, inconsistent land use classification and zoning procedures and policies for assigning land use rights; weak forest monitoring, enforcement, and governance; and problems of institutional coordination), economic (sub-valuation of forests, opportunity costs of competing land use, capital limitations of farmers), and technological factors (limited technical assistance, technology use, and credit) on the forest margins to cause deforestation and forest degradation.",
         "valueNative": "",
         "citation": "",
-        "timestamps": {},
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
         "isCurrent": false
       }
     ]
@@ -3701,6 +4392,39 @@
         "id": "",
         "dataType": "string",
         "value": "settlements (2.3%), farmland (crop production) (3.3%), pastures (51.8%), farming (mixed agriculture/grazing) (39%), mining (3.6%)",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 1,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 2,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -3734,6 +4458,17 @@
           "value": "2017-03-09T08:55"
         },
         "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 0,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
       }
     ],
     "pending": []
@@ -3744,6 +4479,28 @@
         "id": "",
         "dataType": "string",
         "value": "Café (75.9%); Cacao orgánico y otros principales (22.4%).",
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 2,
+        "valueNative": "",
+        "citation": "",
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
+        "isCurrent": false
+      },
+      {
+        "id": "",
+        "dataType": "enum",
+        "value": 2,
         "valueNative": "",
         "citation": "",
         "timestamps": {
@@ -3768,10 +4525,12 @@
       {
         "id": "",
         "dataType": "string",
-        "value": "",
+        "value": "Direct Drivers include: 1. Agriculture and livestock expansion 2. Illegal and informal extractive activities 3. Land traffic and Land leasing for illegal activities Indirect drivers of deforestation include: 1. Land use unclear and migration from Highlands to Jungle 2. Social (migration driven by poverty); economic (low value of forests compared to alternative land uses; 3. Institutional/governance causes (sector-based approaches; incoherent or contradictory regulations and policies",
         "valueNative": "",
         "citation": "",
-        "timestamps": {},
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
         "isCurrent": false
       }
     ]
@@ -3794,10 +4553,12 @@
       {
         "id": "",
         "dataType": "string",
-        "value": "",
+        "value": "1. Agriculture and livestock expansion 2. Illegal and informal extractive activities 3. Communication/transportation infrastructure",
         "valueNative": "",
         "citation": "",
-        "timestamps": {},
+        "timestamps": {
+          "value": "2017-03-09T08:55"
+        },
         "isCurrent": false
       }
     ]
