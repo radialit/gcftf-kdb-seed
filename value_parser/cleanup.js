@@ -88,6 +88,13 @@ function html(rawHTML) {
   return $('body').html();
 }
 
+function integer(rawString) {
+  const int = Number.parseInt(rawString, 10);
+  // for non-integers, return null instead of NaN
+  if (Number.isNaN(int)) return null;
+  return int;
+}
+
 function number(rawString) {
   if (!(typeof rawString === 'string')) return NaN;
   const cleanString = rawString.trim();
@@ -106,4 +113,4 @@ function number(rawString) {
   return number.value();
 }
 
-module.exports = { html, string, number };
+module.exports = { html, string, integer, number };
